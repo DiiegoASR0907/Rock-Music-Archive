@@ -1,0 +1,82 @@
+[
+  {
+    "id": "the-beatles",
+    "name": "The Beatles",
+    "country_of_origin": "Reino Unido",
+    "formed_year": 1960,
+    "disbanded_year": 1970,
+    "genres": ["rock", "pop rock"],
+    "official_website": "https://www.thebeatles.com/",
+    "sources": [
+      {
+        "title": "The Beatles — sitio oficial",
+        "url": "https://www.thebeatles.com/"
+      }
+    ],
+    "status": "starter_record"
+  },
+  {
+    "id": "led-zeppelin",
+    "name": "Led Zeppelin",
+    "country_of_origin": "Reino Unido",
+    "formed_year": 1968,
+    "disbanded_year": 1980,
+    "genres": ["hard rock", "blues rock", "heavy metal"],
+    "official_website": "https://www.ledzeppelin.com/",
+    "sources": [
+      {
+        "title": "Led Zeppelin — sitio oficial",
+        "url": "https://www.ledzeppelin.com/"
+      }
+    ],
+    "status": "starter_record"
+  },
+  {
+    "id": "pink-floyd",
+    "name": "Pink Floyd",
+    "country_of_origin": "Reino Unido",
+    "formed_year": 1965,
+    "disbanded_year": null,
+    "genres": ["progressive rock", "psychedelic rock"],
+    "official_website": "https://www.pinkfloyd.com/",
+    "sources": [
+      {
+        "title": "Pink Floyd — sitio oficial",
+        "url": "https://www.pinkfloyd.com/"
+      }
+    ],
+    "status": "starter_record"
+  },
+  {
+    "id": "queen",
+    "name": "Queen",
+    "country_of_origin": "Reino Unido",
+    "formed_year": 1970,
+    "disbanded_year": null,
+    "genres": ["rock", "hard rock", "glam rock"],
+    "official_website": "https://www.queenonline.com/",
+    "sources": [
+      {
+        "title": "Queen — sitio oficial",
+        "url": "https://www.queenonline.com/"
+      }
+    ],
+    "status": "starter_record"
+  },
+  {
+    "id": "nirvana",
+    "name": "Nirvana",
+    "country_of_origin": "Estados Unidos",
+    "formed_year": 1987,
+    "disbanded_year": 1994,
+    "genres": ["grunge", "alternative rock"],
+    "official_website": "https://www.nirvana.com/",
+    "sources": [
+      {
+        "title": "Nirvana — sitio oficial",
+        "url": "https://www.nirvana.com/"
+      }
+    ],
+    "status": "starter_record"
+  }
+]
