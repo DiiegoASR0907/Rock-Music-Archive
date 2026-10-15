@@ -24,25 +24,25 @@ Las fechas de los 12 álbumes del catálogo estándar coinciden con la discograf
 
 Fuente primaria: https://www.thebeatles.com/albums
 
-## Estado de revisión de listas y créditos
+## Estado de revisión de listas, créditos y duraciones
 
-- [x] *Please Please Me*: 14 pistas y orden contrastados con la tienda oficial. Créditos de composición cargados.
-- [x] *With The Beatles*: 14 pistas y orden contrastados con la tienda oficial. Créditos de composición cargados.
-- [x] *Rubber Soul*: 14 pistas contrastadas con la tienda oficial.
-- [x] *Revolver*: 14 pistas contrastadas con la tienda oficial.
-- [x] *Abbey Road*: 17 pistas, incluido el cierre oculto *Her Majesty*, registradas.
-- [x] *A Hard Day's Night*: 13 pistas y orden contrastados con la tienda oficial; créditos y duraciones pendientes.
-- [x] *Beatles for Sale*: 14 pistas y orden contrastados con la tienda oficial; créditos y duraciones pendientes.
-- [x] *Help!*: 14 pistas y orden contrastados con la tienda oficial; créditos y duraciones pendientes.
-- [ ] *Sgt. Pepper's Lonely Hearts Club Band*: revisar pista por pista y completar créditos.
-- [ ] *Magical Mystery Tour*: confirmar la variante de edición y los créditos.
-- [ ] *The Beatles* (White Album): revisar las 30 pistas y créditos.
-- [ ] *Let It Be*: revisar la edición original de 1970, orden y créditos.
-- [ ] *Yellow Submarine*: verificar por separado las seis canciones de The Beatles y las piezas instrumentales de George Martin.
+- [x] *Please Please Me*: 14 pistas y orden contrastados con la tienda oficial; créditos y duraciones de las 14 pistas cargados y contrastados.
+- [x] *With The Beatles*: 14 pistas y orden contrastados con la tienda oficial; créditos y duraciones de las 14 pistas cargados y contrastados.
+- [x] *Rubber Soul*: lista de 14 pistas contrastada con la tienda oficial; créditos cargados, duraciones pendientes.
+- [x] *Revolver*: lista de 14 pistas contrastada con la tienda oficial; créditos cargados, duraciones pendientes.
+- [x] *Abbey Road*: 17 pistas, incluido *Her Majesty*, registradas; créditos cargados, duraciones pendientes y créditos sujetos a revisión cruzada.
+- [x] *A Hard Day's Night*: 13 pistas y orden contrastados con la tienda oficial; créditos cargados, duraciones pendientes.
+- [x] *Beatles for Sale*: 14 pistas y orden contrastados con la tienda oficial; créditos cargados, duraciones pendientes.
+- [x] *Help!*: 14 pistas y orden contrastados con la tienda oficial; créditos cargados, duraciones pendientes.
+- [x] *Sgt. Pepper's Lonely Hearts Club Band*: lista contrastada; créditos cargados, duraciones pendientes.
+- [x] *Magical Mystery Tour*: variante del LP estadounidense documentada; créditos cargados, duraciones pendientes.
+- [x] *The Beatles* (White Album): 30 pistas registradas y créditos cargados; duraciones pendientes.
+- [x] *Let It Be*: edición original y orden registrados; créditos cargados, duraciones pendientes.
+- [x] *Yellow Submarine*: créditos cargados por separado para canciones de The Beatles y piezas instrumentales atribuidas a George Martin; duraciones pendientes.
 
 ## Datos aún pendientes
 
-Las duraciones no se rellenan por estimación. Las portadas se enlazan desde páginas oficiales; el repositorio no redistribuye imágenes sin licencia. Un álbum solo se marcará como `verified` cuando la lista, la fecha, la edición y las fuentes pertinentes estén comprobadas.
+Las duraciones no se rellenan por estimación. Primera tanda completada: 28 duraciones de pista en *Please Please Me* y *With The Beatles*, contrastadas con las fichas pista por pista de The Paul McCartney Project. Los créditos de todos los álbumes ya están poblados; quedan auditorías cruzadas de atribuciones dudosas, en particular créditos colectivos y arreglos tradicionales. Las portadas se enlazan desde páginas oficiales; el repositorio no redistribuye imágenes sin licencia. Un álbum solo se marcará como `verified` cuando la lista, la fecha, la edición y las fuentes pertinentes estén comprobadas.
 
 ## Fuentes oficiales útiles
 
@@ -68,3 +68,10 @@ Las duraciones no se rellenan por estimación. Las portadas se enlazan desde pá
 - *Magical Mystery Tour*: https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered
 - *The Beatles* (White Album): https://usastore.thebeatles.com/products/the-beatles-white-album-cd
 - *Let It Be*: https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp
+
+
+### Fuente secundaria para créditos y duraciones pista por pista
+- *Please Please Me* (mono): https://www.the-paulmccartney-project.com/album/please-please-me/
+- *With The Beatles* (mono): https://www.the-paulmccartney-project.com/album/with-the-beatles/
+- Índice de canciones de The Beatles: https://www.thebeatles.com/songs
+- Índice secundario de composición: https://aboutthebeatles.com/song-index
