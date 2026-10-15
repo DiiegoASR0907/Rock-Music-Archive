@@ -941,7 +941,7 @@
     "album_type": "studio",
     "original_release_date": "1965-12-03",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría.",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones contrastadas con la edición mono británica.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -958,7 +958,7 @@
       {
         "position": 1,
         "title": "Drive My Car",
-        "duration": null,
+        "duration": "2:25",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -968,7 +968,7 @@
       {
         "position": 2,
         "title": "Norwegian Wood (This Bird Has Flown)",
-        "duration": null,
+        "duration": "2:01",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -978,7 +978,7 @@
       {
         "position": 3,
         "title": "You Won't See Me",
-        "duration": null,
+        "duration": "3:18",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -988,7 +988,7 @@
       {
         "position": 4,
         "title": "Nowhere Man",
-        "duration": null,
+        "duration": "2:40",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -998,7 +998,7 @@
       {
         "position": 5,
         "title": "Think for Yourself",
-        "duration": null,
+        "duration": "2:16",
         "writers": [
           "George Harrison"
         ],
@@ -1007,7 +1007,7 @@
       {
         "position": 6,
         "title": "The Word",
-        "duration": null,
+        "duration": "2:41",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1017,7 +1017,7 @@
       {
         "position": 7,
         "title": "Michelle",
-        "duration": null,
+        "duration": "2:33",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1027,7 +1027,7 @@
       {
         "position": 8,
         "title": "What Goes On",
-        "duration": null,
+        "duration": "2:47",
         "writers": [
           "John Lennon",
           "Paul McCartney",
@@ -1038,7 +1038,7 @@
       {
         "position": 9,
         "title": "Girl",
-        "duration": null,
+        "duration": "2:30",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1048,7 +1048,7 @@
       {
         "position": 10,
         "title": "I'm Looking Through You",
-        "duration": null,
+        "duration": "2:23",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1058,7 +1058,7 @@
       {
         "position": 11,
         "title": "In My Life",
-        "duration": null,
+        "duration": "2:24",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1068,7 +1068,7 @@
       {
         "position": 12,
         "title": "Wait",
-        "duration": null,
+        "duration": "2:12",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1078,7 +1078,7 @@
       {
         "position": 13,
         "title": "If I Needed Someone",
-        "duration": null,
+        "duration": "2:20",
         "writers": [
           "George Harrison"
         ],
@@ -1087,7 +1087,7 @@
       {
         "position": 14,
         "title": "Run for Your Life",
-        "duration": null,
+        "duration": "2:18",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1115,6 +1115,10 @@
       {
         "title": "The Beatles — índice oficial de canciones",
         "url": "https://www.thebeatles.com/songs"
+      },
+      {
+        "title": "Rubber Soul (edición mono británica) — créditos y duraciones pista por pista",
+        "url": "https://www.the-paulmccartney-project.com/album/rubber-soul/"
       }
     ],
     "verification_status": "needs_verification"
@@ -1126,7 +1130,7 @@
     "album_type": "studio",
     "original_release_date": "1966-08-05",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría.",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones contrastadas con la edición mono británica.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -1143,7 +1147,7 @@
       {
         "position": 1,
         "title": "Taxman",
-        "duration": null,
+        "duration": "2:39",
         "writers": [
           "George Harrison"
         ],
@@ -1152,7 +1156,7 @@
       {
         "position": 2,
         "title": "Eleanor Rigby",
-        "duration": null,
+        "duration": "2:08",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1162,7 +1166,7 @@
       {
         "position": 3,
         "title": "I'm Only Sleeping",
-        "duration": null,
+        "duration": "3:01",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1172,7 +1176,7 @@
       {
         "position": 4,
         "title": "Love You To",
-        "duration": null,
+        "duration": "3:00",
         "writers": [
           "George Harrison"
         ],
@@ -1181,7 +1185,7 @@
       {
         "position": 5,
         "title": "Here, There and Everywhere",
-        "duration": null,
+        "duration": "2:25",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1191,7 +1195,7 @@
       {
         "position": 6,
         "title": "Yellow Submarine",
-        "duration": null,
+        "duration": "2:40",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1201,7 +1205,7 @@
       {
         "position": 7,
         "title": "She Said She Said",
-        "duration": null,
+        "duration": "2:37",
         "writers": [
           "John Lennon"
         ],
@@ -1210,7 +1214,7 @@
       {
         "position": 8,
         "title": "Good Day Sunshine",
-        "duration": null,
+        "duration": "2:09",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1220,7 +1224,7 @@
       {
         "position": 9,
         "title": "And Your Bird Can Sing",
-        "duration": null,
+        "duration": "2:02",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1230,7 +1234,7 @@
       {
         "position": 10,
         "title": "For No One",
-        "duration": null,
+        "duration": "2:00",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1240,7 +1244,7 @@
       {
         "position": 11,
         "title": "Doctor Robert",
-        "duration": null,
+        "duration": "2:14",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1250,7 +1254,7 @@
       {
         "position": 12,
         "title": "I Want to Tell You",
-        "duration": null,
+        "duration": "2:28",
         "writers": [
           "George Harrison"
         ],
@@ -1259,7 +1263,7 @@
       {
         "position": 13,
         "title": "Got to Get You into My Life",
-        "duration": null,
+        "duration": "2:29",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1269,7 +1273,7 @@
       {
         "position": 14,
         "title": "Tomorrow Never Knows",
-        "duration": null,
+        "duration": "2:57",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1297,6 +1301,10 @@
       {
         "title": "The Beatles — índice oficial de canciones",
         "url": "https://www.thebeatles.com/songs"
+      },
+      {
+        "title": "Revolver (edición mono británica) — créditos y duraciones pista por pista",
+        "url": "https://www.the-paulmccartney-project.com/album/revolver/"
       }
     ],
     "verification_status": "needs_verification"
