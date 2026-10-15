@@ -31,9 +31,9 @@ Fuente primaria: https://www.thebeatles.com/albums
 - [x] *Rubber Soul*: 14 pistas contrastadas con la tienda oficial.
 - [x] *Revolver*: 14 pistas contrastadas con la tienda oficial.
 - [x] *Abbey Road*: 17 pistas, incluido el cierre oculto *Her Majesty*, registradas.
-- [ ] *A Hard Day's Night*: revisar pista por pista y completar créditos.
-- [ ] *Beatles for Sale*: revisar pista por pista y completar créditos.
-- [ ] *Help!*: revisar pista por pista y completar créditos.
+- [x] *A Hard Day's Night*: 13 pistas y orden contrastados con la tienda oficial; créditos y duraciones pendientes.
+- [x] *Beatles for Sale*: 14 pistas y orden contrastados con la tienda oficial; créditos y duraciones pendientes.
+- [x] *Help!*: 14 pistas y orden contrastados con la tienda oficial; créditos y duraciones pendientes.
 - [ ] *Sgt. Pepper's Lonely Hearts Club Band*: revisar pista por pista y completar créditos.
 - [ ] *Magical Mystery Tour*: confirmar la variante de edición y los créditos.
 - [ ] *The Beatles* (White Album): revisar las 30 pistas y créditos.
@@ -55,3 +55,8 @@ Las duraciones no se rellenan por estimación. Las portadas se enlazan desde pá
 - Tienda oficial — *Rubber Soul*: https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp
 - *Revolver*: https://www.thebeatles.com/revolver
 - *Abbey Road*: https://www.thebeatles.com/abbey-road
+
+### Fuentes oficiales añadidas en esta revisión
+- *A Hard Day's Night*: https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp
+- *Beatles for Sale*: https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp
+- *Help!*: https://usastore.thebeatles.com/products/help-lp
