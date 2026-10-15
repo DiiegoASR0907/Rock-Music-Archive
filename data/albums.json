@@ -6,7 +6,7 @@
     "album_type": "studio",
     "original_release_date": "1963-03-22",
     "country_or_market": "Reino Unido",
-    "edition_note": "Edición original británica; lista de pistas contrastada con la tienda oficial. Créditos de composición añadidos; duración pendiente de verificación pista por pista.",
+    "edition_note": "Edición original británica; lista de pistas contrastada con la tienda oficial. Créditos de composición añadidos; duración pendiente de verificación pista por pista. Duraciones de pistas contrastadas con la edición mono de referencia en The Paul McCartney Project.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -23,7 +23,7 @@
       {
         "position": 1,
         "title": "I Saw Her Standing There",
-        "duration": null,
+        "duration": "2:55",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -33,7 +33,7 @@
       {
         "position": 2,
         "title": "Misery",
-        "duration": null,
+        "duration": "1:49",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -43,7 +43,7 @@
       {
         "position": 3,
         "title": "Anna (Go to Him)",
-        "duration": null,
+        "duration": "2:55",
         "writers": [
           "Arthur Alexander"
         ],
@@ -52,7 +52,7 @@
       {
         "position": 4,
         "title": "Chains",
-        "duration": null,
+        "duration": "2:23",
         "writers": [
           "Gerry Goffin",
           "Carole King"
@@ -62,7 +62,7 @@
       {
         "position": 5,
         "title": "Boys",
-        "duration": null,
+        "duration": "2:24",
         "writers": [
           "Luther Dixon",
           "Wes Farrell"
@@ -72,7 +72,7 @@
       {
         "position": 6,
         "title": "Ask Me Why",
-        "duration": null,
+        "duration": "2:24",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -82,7 +82,7 @@
       {
         "position": 7,
         "title": "Please Please Me",
-        "duration": null,
+        "duration": "2:00",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -92,7 +92,7 @@
       {
         "position": 8,
         "title": "Love Me Do",
-        "duration": null,
+        "duration": "2:23",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -102,7 +102,7 @@
       {
         "position": 9,
         "title": "P.S. I Love You",
-        "duration": null,
+        "duration": "2:04",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -112,18 +112,18 @@
       {
         "position": 10,
         "title": "Baby It's You",
-        "duration": null,
+        "duration": "2:40",
         "writers": [
-          "Mack David",
-          "Barney Williams",
-          "Burt Bacharach"
+          "Burt Bacharach",
+          "Hal David",
+          "Barney Williams"
         ],
         "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp"
       },
       {
         "position": 11,
         "title": "Do You Want to Know a Secret",
-        "duration": null,
+        "duration": "1:56",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -133,7 +133,7 @@
       {
         "position": 12,
         "title": "A Taste of Honey",
-        "duration": null,
+        "duration": "2:03",
         "writers": [
           "Bobby Scott",
           "Ric Marlow"
@@ -143,7 +143,7 @@
       {
         "position": 13,
         "title": "There's a Place",
-        "duration": null,
+        "duration": "1:51",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -153,7 +153,7 @@
       {
         "position": 14,
         "title": "Twist and Shout",
-        "duration": null,
+        "duration": "2:32",
         "writers": [
           "Phil Medley",
           "Bert Russell"
@@ -185,6 +185,10 @@
       {
         "title": "The Beatles — índice oficial de canciones",
         "url": "https://www.thebeatles.com/songs"
+      },
+      {
+        "title": "Please Please Me — duraciones y créditos pista por pista (fuente secundaria de contraste)",
+        "url": "https://www.the-paulmccartney-project.com/album/please-please-me/"
       }
     ],
     "verification_status": "needs_verification"
@@ -196,7 +200,7 @@
     "album_type": "studio",
     "original_release_date": "1963-11-22",
     "country_or_market": "Reino Unido",
-    "edition_note": "Edición original británica; lista de pistas contrastada con la tienda oficial. Créditos de composición añadidos; duración pendiente de verificación pista por pista.",
+    "edition_note": "Edición original británica; lista de pistas contrastada con la tienda oficial. Créditos de composición añadidos; duración pendiente de verificación pista por pista. Duraciones de pistas contrastadas con la edición mono de referencia en The Paul McCartney Project.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -213,7 +217,7 @@
       {
         "position": 1,
         "title": "It Won't Be Long",
-        "duration": null,
+        "duration": "2:13",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -223,7 +227,7 @@
       {
         "position": 2,
         "title": "All I've Got to Do",
-        "duration": null,
+        "duration": "2:03",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -233,7 +237,7 @@
       {
         "position": 3,
         "title": "All My Loving",
-        "duration": null,
+        "duration": "2:08",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -243,7 +247,7 @@
       {
         "position": 4,
         "title": "Don't Bother Me",
-        "duration": null,
+        "duration": "2:28",
         "writers": [
           "George Harrison"
         ],
@@ -252,7 +256,7 @@
       {
         "position": 5,
         "title": "Little Child",
-        "duration": null,
+        "duration": "1:46",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -262,7 +266,7 @@
       {
         "position": 6,
         "title": "Till There Was You",
-        "duration": null,
+        "duration": "2:14",
         "writers": [
           "Meredith Willson"
         ],
@@ -271,7 +275,7 @@
       {
         "position": 7,
         "title": "Please Mister Postman",
-        "duration": null,
+        "duration": "2:34",
         "writers": [
           "Georgia Dobbins",
           "William Garrett",
@@ -284,7 +288,7 @@
       {
         "position": 8,
         "title": "Roll Over Beethoven",
-        "duration": null,
+        "duration": "2:46",
         "writers": [
           "Chuck Berry"
         ],
@@ -293,7 +297,7 @@
       {
         "position": 9,
         "title": "Hold Me Tight",
-        "duration": null,
+        "duration": "2:32",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -303,7 +307,7 @@
       {
         "position": 10,
         "title": "You Really Got a Hold on Me",
-        "duration": null,
+        "duration": "3:01",
         "writers": [
           "Smokey Robinson"
         ],
@@ -312,7 +316,7 @@
       {
         "position": 11,
         "title": "I Wanna Be Your Man",
-        "duration": null,
+        "duration": "2:00",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -322,7 +326,7 @@
       {
         "position": 12,
         "title": "Devil in Her Heart",
-        "duration": null,
+        "duration": "2:26",
         "writers": [
           "Richard Drapkin"
         ],
@@ -331,7 +335,7 @@
       {
         "position": 13,
         "title": "Not a Second Time",
-        "duration": null,
+        "duration": "2:07",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -341,7 +345,7 @@
       {
         "position": 14,
         "title": "Money (That's What I Want)",
-        "duration": null,
+        "duration": "2:50",
         "writers": [
           "Berry Gordy",
           "Janie Bradford"
@@ -373,6 +377,10 @@
       {
         "title": "The Beatles — índice oficial de canciones",
         "url": "https://www.thebeatles.com/songs"
+      },
+      {
+        "title": "With The Beatles — duraciones y créditos pista por pista (fuente secundaria de contraste)",
+        "url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/"
       }
     ],
     "verification_status": "needs_verification"
