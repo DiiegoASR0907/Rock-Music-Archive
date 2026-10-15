@@ -777,7 +777,7 @@
     "album_type": "studio",
     "original_release_date": "1965-12-03",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -892,16 +892,16 @@
     ],
     "sources": [
       {
-        "title": "Rubber Soul — tienda oficial de The Beatles",
-        "url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
-      },
-      {
         "title": "Rubber Soul — página oficial de The Beatles",
         "url": "https://www.thebeatles.com/rubber-soul"
       },
       {
         "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
         "url": "https://www.thebeatles.com/albums"
+      },
+      {
+        "title": "Rubber Soul — lista oficial de canciones",
+        "url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
       }
     ],
     "verification_status": "needs_verification"
@@ -913,7 +913,7 @@
     "album_type": "studio",
     "original_release_date": "1966-08-05",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -1028,16 +1028,16 @@
     ],
     "sources": [
       {
-        "title": "Revolver — tienda oficial de The Beatles",
-        "url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
-      },
-      {
         "title": "Revolver — página oficial de The Beatles",
         "url": "https://www.thebeatles.com/revolver"
       },
       {
         "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
         "url": "https://www.thebeatles.com/albums"
+      },
+      {
+        "title": "Revolver — lista oficial de canciones",
+        "url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
       }
     ],
     "verification_status": "needs_verification"
@@ -1049,7 +1049,7 @@
     "album_type": "studio",
     "original_release_date": "1967-06-01",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -1068,91 +1068,91 @@
         "title": "Sgt. Pepper's Lonely Hearts Club Band",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 2,
         "title": "With a Little Help from My Friends",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 3,
         "title": "Lucy in the Sky with Diamonds",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 4,
         "title": "Getting Better",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 5,
         "title": "Fixing a Hole",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 6,
         "title": "She's Leaving Home",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 7,
         "title": "Being for the Benefit of Mr. Kite!",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 8,
         "title": "Within You Without You",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 9,
         "title": "When I'm Sixty-Four",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 10,
         "title": "Lovely Rita",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 11,
         "title": "Good Morning Good Morning",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 12,
         "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 13,
         "title": "A Day in the Life",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       }
     ],
     "sources": [
@@ -1167,6 +1167,10 @@
       {
         "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
         "url": "https://www.thebeatles.com/albums"
+      },
+      {
+        "title": "Sgt. Pepper's Lonely Hearts Club Band — lista oficial de canciones",
+        "url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       }
     ],
     "verification_status": "needs_verification"
@@ -1178,7 +1182,7 @@
     "album_type": "studio",
     "original_release_date": "1967-11-27",
     "country_or_market": "Estados Unidos",
-    "edition_note": "LP estadounidense de 11 canciones, incorporado al catálogo estándar internacional en la era del CD; en Reino Unido apareció originalmente como doble EP. Se usa el lanzamiento del LP estadounidense para la fecha y secuencia de este registro.",
+    "edition_note": "LP estadounidense de 11 canciones, incorporado al catálogo estándar internacional en la era del CD; en Reino Unido apareció originalmente como doble EP. Se usa el lanzamiento del LP estadounidense para la fecha y secuencia de este registro. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría.",
     "label": "Capitol Records",
     "genres": [
       "rock",
@@ -1272,16 +1276,16 @@
     ],
     "sources": [
       {
-        "title": "Magical Mystery Tour — tienda oficial de The Beatles",
-        "url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
-      },
-      {
         "title": "Magical Mystery Tour — página oficial de The Beatles",
         "url": "https://www.thebeatles.com/magical-mystery-tour"
       },
       {
         "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
         "url": "https://www.thebeatles.com/albums"
+      },
+      {
+        "title": "Magical Mystery Tour — lista oficial de canciones",
+        "url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
       }
     ],
     "verification_status": "needs_verification"
@@ -1293,7 +1297,7 @@
     "album_type": "studio",
     "original_release_date": "1968-11-22",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría.",
     "label": "Apple Records",
     "genres": [
       "rock",
@@ -1313,210 +1317,210 @@
         "title": "Back in the U.S.S.R.",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 2,
         "title": "Dear Prudence",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 3,
         "title": "Glass Onion",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 4,
         "title": "Ob-La-Di, Ob-La-Da",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 5,
         "title": "Wild Honey Pie",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 6,
         "title": "The Continuing Story of Bungalow Bill",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 7,
         "title": "While My Guitar Gently Weeps",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 8,
         "title": "Happiness Is a Warm Gun",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 9,
         "title": "Martha My Dear",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 10,
         "title": "I'm So Tired",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 11,
         "title": "Blackbird",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 12,
         "title": "Piggies",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 13,
         "title": "Rocky Raccoon",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 14,
         "title": "Don't Pass Me By",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 15,
         "title": "Why Don't We Do It in the Road?",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 16,
         "title": "I Will",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 17,
         "title": "Julia",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 18,
         "title": "Birthday",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 19,
         "title": "Yer Blues",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 20,
         "title": "Mother Nature's Son",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 21,
         "title": "Everybody's Got Something to Hide Except Me and My Monkey",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 22,
         "title": "Sexy Sadie",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 23,
         "title": "Helter Skelter",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 24,
         "title": "Long, Long, Long",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 25,
         "title": "Revolution 1",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 26,
         "title": "Honey Pie",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 27,
         "title": "Savoy Truffle",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 28,
         "title": "Cry Baby Cry",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 29,
         "title": "Revolution 9",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 30,
         "title": "Good Night",
         "duration": null,
         "writers": [],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       }
     ],
     "sources": [
@@ -1531,6 +1535,10 @@
       {
         "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
         "url": "https://www.thebeatles.com/albums"
+      },
+      {
+        "title": "The Beatles — lista oficial de canciones",
+        "url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       }
     ],
     "verification_status": "needs_verification"
@@ -1872,7 +1880,7 @@
     "album_type": "studio",
     "original_release_date": "1970-05-08",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría.",
     "label": "Apple Records",
     "genres": [
       "rock",
@@ -1891,84 +1899,84 @@
         "title": "Two of Us",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/let-it-be-1"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 2,
         "title": "Dig a Pony",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/let-it-be-1"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 3,
         "title": "Across the Universe",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/let-it-be-1"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 4,
         "title": "I Me Mine",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/let-it-be-1"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 5,
         "title": "Dig It",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/let-it-be-1"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 6,
         "title": "Let It Be",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/let-it-be-1"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 7,
         "title": "Maggie Mae",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/let-it-be-1"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 8,
         "title": "I've Got a Feeling",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/let-it-be-1"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 9,
         "title": "One After 909",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/let-it-be-1"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 10,
         "title": "The Long and Winding Road",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/let-it-be-1"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 11,
         "title": "For You Blue",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/let-it-be-1"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 12,
         "title": "Get Back",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/let-it-be-1"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       }
     ],
     "sources": [
@@ -1987,6 +1995,10 @@
       {
         "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
         "url": "https://www.thebeatles.com/albums"
+      },
+      {
+        "title": "Let It Be — lista oficial de canciones",
+        "url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       }
     ],
     "verification_status": "needs_verification"
