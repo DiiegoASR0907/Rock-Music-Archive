@@ -60,3 +60,11 @@ Las duraciones no se rellenan por estimación. Las portadas se enlazan desde pá
 - *A Hard Day's Night*: https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp
 - *Beatles for Sale*: https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp
 - *Help!*: https://usastore.thebeatles.com/products/help-lp
+
+### Fuentes oficiales contrastadas en esta ronda
+- *Rubber Soul*: https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp
+- *Revolver*: https://usastore.thebeatles.com/products/revolver-lp-remastered
+- *Sgt. Pepper's Lonely Hearts Club Band*: https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp
+- *Magical Mystery Tour*: https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered
+- *The Beatles* (White Album): https://usastore.thebeatles.com/products/the-beatles-white-album-cd
+- *Let It Be*: https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp
