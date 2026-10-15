@@ -1,0 +1,30 @@
+[
+  {
+    "id": "example-album-id",
+    "band_id": "the-beatles",
+    "title": "Album title",
+    "album_type": "studio",
+    "original_release_date": null,
+    "country_or_market": null,
+    "edition_note": "Indicar qué edición se usa cuando el tracklist varíe.",
+    "label": null,
+    "genres": [],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": null,
+      "rights_note": "Verificar permisos antes de copiar o redistribuir la imagen."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Track title",
+        "duration": null,
+        "writers": [],
+        "source_url": null
+      }
+    ],
+    "sources": [],
+    "verification_status": "template_only"
+  }
+]
