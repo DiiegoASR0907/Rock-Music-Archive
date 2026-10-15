@@ -368,7 +368,7 @@
     "album_type": "studio",
     "original_release_date": "1964-07-10",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "edition_note": "Lista y orden contrastados con la tienda oficial para la edición británica original; créditos de composición y duraciones pendientes de revisión individual.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -476,6 +476,10 @@
     ],
     "sources": [
       {
+        "title": "A Hard Day's Night — lista oficial de canciones",
+        "url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
+      },
+      {
         "title": "A Hard Day's Night — fuente oficial de The Beatles",
         "url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
       },
@@ -497,7 +501,7 @@
     "album_type": "studio",
     "original_release_date": "1964-12-04",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "edition_note": "Lista y orden contrastados con la tienda oficial para la edición británica original; créditos de composición y duraciones pendientes de revisión individual.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -612,6 +616,10 @@
     ],
     "sources": [
       {
+        "title": "Beatles for Sale — lista oficial de canciones",
+        "url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
+      },
+      {
         "title": "Beatles for Sale — tienda oficial de The Beatles",
         "url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
       },
@@ -633,7 +641,7 @@
     "album_type": "studio",
     "original_release_date": "1965-08-06",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "edition_note": "Lista y orden contrastados con la tienda oficial para la edición británica original; créditos de composición y duraciones pendientes de revisión individual.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -652,101 +660,105 @@
         "title": "Help!",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/help"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 2,
         "title": "The Night Before",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/help"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 3,
         "title": "You've Got to Hide Your Love Away",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/help"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 4,
         "title": "I Need You",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/help"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 5,
         "title": "Another Girl",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/help"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 6,
         "title": "You're Going to Lose That Girl",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/help"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 7,
         "title": "Ticket to Ride",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/help"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 8,
         "title": "Act Naturally",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/help"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 9,
         "title": "It's Only Love",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/help"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 10,
         "title": "You Like Me Too Much",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/help"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 11,
         "title": "Tell Me What You See",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/help"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 12,
         "title": "I've Just Seen a Face",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/help"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 13,
         "title": "Yesterday",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/help"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 14,
         "title": "Dizzy Miss Lizzy",
         "duration": null,
         "writers": [],
-        "source_url": "https://www.thebeatles.com/help"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp"
       }
     ],
     "sources": [
+      {
+        "title": "Help! — lista oficial de canciones",
+        "url": "https://usastore.thebeatles.com/products/help-lp"
+      },
       {
         "title": "Help! — página oficial de The Beatles",
         "url": "https://www.thebeatles.com/help"
