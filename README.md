@@ -32,7 +32,10 @@ Construir un catálogo fiable y ampliable con:
 - [x] Repositorio creado.
 - [x] Estructura inicial y criterios documentados.
 - [x] Añadir el primer álbum verificado: *Abbey Road* (1969), con 17 pistas y fuentes oficiales.
-- [ ] Completar la discografía de estudio de The Beatles y continuar con las demás bandas.
+- [x] Cargar una primera versión cronológica de los 12 álbumes del catálogo de estudio estándar de The Beatles, incluido *Magical Mystery Tour* según su edición LP estadounidense.
+- [x] Registrar *Yellow Submarine* por separado como banda sonora, para no confundirla con los álbumes de estudio estrictos.
+- [ ] Verificar álbum por álbum las listas de canciones, fechas, créditos y enlaces oficiales antes de marcar todos los registros como verificados.
+- [ ] Continuar con Led Zeppelin, Pink Floyd, Queen y las demás bandas.
 - [ ] Añadir una web visual para explorar bandas, álbumes y canciones.
 
 ## Idioma
