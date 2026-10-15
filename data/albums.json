@@ -1047,8 +1047,8 @@
     "title": "Magical Mystery Tour",
     "album_type": "studio",
     "original_release_date": "1967-11-27",
-    "country_or_market": "Reino Unido",
-    "edition_note": "Se registra la edición LP estadounidense de 11 canciones, incorporada al catálogo estándar internacional en la era del CD; en Reino Unido apareció originalmente como doble EP.",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "LP estadounidense de 11 canciones, incorporado al catálogo estándar internacional en la era del CD; en Reino Unido apareció originalmente como doble EP. Se usa el lanzamiento del LP estadounidense para la fecha y secuencia de este registro.",
     "label": "Capitol Records",
     "genres": [
       "rock",
@@ -1389,6 +1389,131 @@
       {
         "title": "The Beatles — página oficial de The Beatles",
         "url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
+        "url": "https://www.thebeatles.com/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-beatles-yellow-submarine-1969",
+    "band_id": "the-beatles",
+    "title": "Yellow Submarine",
+    "album_type": "soundtrack",
+    "original_release_date": "1969-01-17",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Banda sonora original de la película; se conserva en el archivo como tipo soundtrack, separada de los álbumes de estudio estrictos. Incluye canciones de los Beatles y piezas instrumentales de George Martin.",
+    "label": "Apple Records",
+    "genres": [
+      "soundtrack",
+      "psychedelic rock",
+      "orchestral pop"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.thebeatles.com/yellow-submarine",
+      "rights_note": "Se enlaza la página oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Yellow Submarine",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/yellow-submarine"
+      },
+      {
+        "position": 2,
+        "title": "Only a Northern Song",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/yellow-submarine"
+      },
+      {
+        "position": 3,
+        "title": "All Together Now",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/yellow-submarine"
+      },
+      {
+        "position": 4,
+        "title": "Hey Bulldog",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/yellow-submarine"
+      },
+      {
+        "position": 5,
+        "title": "It's All Too Much",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/yellow-submarine"
+      },
+      {
+        "position": 6,
+        "title": "All You Need Is Love",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/yellow-submarine"
+      },
+      {
+        "position": 7,
+        "title": "Pepperland",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/yellow-submarine"
+      },
+      {
+        "position": 8,
+        "title": "Sea of Time",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/yellow-submarine"
+      },
+      {
+        "position": 9,
+        "title": "Sea of Holes",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/yellow-submarine"
+      },
+      {
+        "position": 10,
+        "title": "Sea of Monsters",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/yellow-submarine"
+      },
+      {
+        "position": 11,
+        "title": "March of the Meanies",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/yellow-submarine"
+      },
+      {
+        "position": 12,
+        "title": "Pepperland Laid Waste",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/yellow-submarine"
+      },
+      {
+        "position": 13,
+        "title": "Yellow Submarine in Pepperland",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/yellow-submarine"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Yellow Submarine — página oficial de The Beatles",
+        "url": "https://www.thebeatles.com/yellow-submarine"
       },
       {
         "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
