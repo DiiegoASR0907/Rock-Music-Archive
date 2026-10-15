@@ -28,8 +28,8 @@ Fuente primaria: https://www.thebeatles.com/albums
 
 - [x] *Please Please Me*: 14 pistas y orden contrastados con la tienda oficial; créditos y duraciones de las 14 pistas cargados y contrastados.
 - [x] *With The Beatles*: 14 pistas y orden contrastados con la tienda oficial; créditos y duraciones de las 14 pistas cargados y contrastados.
-- [x] *Rubber Soul*: lista de 14 pistas contrastada con la tienda oficial; créditos cargados, duraciones pendientes.
-- [x] *Revolver*: lista de 14 pistas contrastada con la tienda oficial; créditos cargados, duraciones pendientes.
+- [x] *Rubber Soul*: lista de 14 pistas, créditos y duraciones cargados y contrastados con fuentes de referencia.
+- [x] *Revolver*: lista de 14 pistas, créditos y duraciones cargados y contrastados con fuentes de referencia.
 - [x] *Abbey Road*: 17 pistas, incluido *Her Majesty*, registradas; créditos cargados, duraciones pendientes y créditos sujetos a revisión cruzada.
 - [x] *A Hard Day's Night*: 13 pistas y orden contrastados con la tienda oficial; créditos cargados, duraciones pendientes.
 - [x] *Beatles for Sale*: 14 pistas y orden contrastados con la tienda oficial; créditos cargados, duraciones pendientes.
@@ -42,7 +42,7 @@ Fuente primaria: https://www.thebeatles.com/albums
 
 ## Datos aún pendientes
 
-Las duraciones no se rellenan por estimación. Primera tanda completada: 28 duraciones de pista en *Please Please Me* y *With The Beatles*, contrastadas con las fichas pista por pista de The Paul McCartney Project. Los créditos de todos los álbumes ya están poblados; quedan auditorías cruzadas de atribuciones dudosas, en particular créditos colectivos y arreglos tradicionales. Las portadas se enlazan desde páginas oficiales; el repositorio no redistribuye imágenes sin licencia. Un álbum solo se marcará como `verified` cuando la lista, la fecha, la edición y las fuentes pertinentes estén comprobadas.
+Las duraciones no se rellenan por estimación. Primera fase de duraciones completada para cuatro álbumes: 56 duraciones de pista en *Please Please Me*, *With The Beatles*, *Rubber Soul* y *Revolver*, contrastadas con fichas pista por pista de The Paul McCartney Project. Los créditos de todos los álbumes ya están poblados; quedan auditorías cruzadas de atribuciones dudosas, en particular créditos colectivos y arreglos tradicionales. Las portadas se enlazan desde páginas oficiales; el repositorio no redistribuye imágenes sin licencia. Un álbum solo se marcará como `verified` cuando la lista, la fecha, la edición y las fuentes pertinentes estén comprobadas.
 
 ## Fuentes oficiales útiles
 
@@ -75,3 +75,6 @@ Las duraciones no se rellenan por estimación. Primera tanda completada: 28 dura
 - *With The Beatles* (mono): https://www.the-paulmccartney-project.com/album/with-the-beatles/
 - Índice de canciones de The Beatles: https://www.thebeatles.com/songs
 - Índice secundario de composición: https://aboutthebeatles.com/song-index
+
+- *Rubber Soul* (LP mono británico): https://www.the-paulmccartney-project.com/album/rubber-soul/
+- *Revolver* (LP mono británico): https://www.the-paulmccartney-project.com/album/revolver/
