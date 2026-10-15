@@ -31,7 +31,8 @@ Construir un catálogo fiable y ampliable con:
 
 - [x] Repositorio creado.
 - [x] Estructura inicial y criterios documentados.
-- [ ] Verificar y cargar las primeras discografías completas.
+- [x] Añadir el primer álbum verificado: *Abbey Road* (1969), con 17 pistas y fuentes oficiales.
+- [ ] Completar la discografía de estudio de The Beatles y continuar con las demás bandas.
 - [ ] Añadir una web visual para explorar bandas, álbumes y canciones.
 
 ## Idioma
