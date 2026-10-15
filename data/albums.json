@@ -177,6 +177,14 @@
       {
         "title": "Créditos de composición contrastados durante la auditoría",
         "url": "https://www.thebeatles.com/i-saw-her-standing-there"
+      },
+      {
+        "title": "About The Beatles — índice de canciones y créditos de composición (fuente secundaria de contraste)",
+        "url": "https://aboutthebeatles.com/song-index"
+      },
+      {
+        "title": "The Beatles — índice oficial de canciones",
+        "url": "https://www.thebeatles.com/songs"
       }
     ],
     "verification_status": "needs_verification"
@@ -357,6 +365,14 @@
       {
         "title": "Créditos de composición contrastados durante la auditoría",
         "url": "https://www.thebeatles.com/beatles"
+      },
+      {
+        "title": "About The Beatles — índice de canciones y créditos de composición (fuente secundaria de contraste)",
+        "url": "https://aboutthebeatles.com/song-index"
+      },
+      {
+        "title": "The Beatles — índice oficial de canciones",
+        "url": "https://www.thebeatles.com/songs"
       }
     ],
     "verification_status": "needs_verification"
@@ -386,91 +402,130 @@
         "position": 1,
         "title": "A Hard Day's Night",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
       },
       {
         "position": 2,
         "title": "I Should Have Known Better",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
       },
       {
         "position": 3,
         "title": "If I Fell",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
       },
       {
         "position": 4,
         "title": "I'm Happy Just to Dance with You",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
       },
       {
         "position": 5,
         "title": "And I Love Her",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
       },
       {
         "position": 6,
         "title": "Tell Me Why",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
       },
       {
         "position": 7,
         "title": "Can't Buy Me Love",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
       },
       {
         "position": 8,
         "title": "Any Time at All",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
       },
       {
         "position": 9,
         "title": "I'll Cry Instead",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
       },
       {
         "position": 10,
         "title": "Things We Said Today",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
       },
       {
         "position": 11,
         "title": "When I Get Home",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
       },
       {
         "position": 12,
         "title": "You Can't Do That",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
       },
       {
         "position": 13,
         "title": "I'll Be Back",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
       }
     ],
@@ -490,6 +545,14 @@
       {
         "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
         "url": "https://www.thebeatles.com/albums"
+      },
+      {
+        "title": "About The Beatles — índice de canciones y créditos de composición (fuente secundaria de contraste)",
+        "url": "https://aboutthebeatles.com/song-index"
+      },
+      {
+        "title": "The Beatles — índice oficial de canciones",
+        "url": "https://www.thebeatles.com/songs"
       }
     ],
     "verification_status": "needs_verification"
@@ -519,98 +582,136 @@
         "position": 1,
         "title": "No Reply",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
       },
       {
         "position": 2,
         "title": "I'm a Loser",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
       },
       {
         "position": 3,
         "title": "Baby's in Black",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
       },
       {
         "position": 4,
         "title": "Rock and Roll Music",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Chuck Berry"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
       },
       {
         "position": 5,
         "title": "I'll Follow the Sun",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
       },
       {
         "position": 6,
         "title": "Mr. Moonlight",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Roy Lee Johnson"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
       },
       {
         "position": 7,
         "title": "Kansas City/Hey-Hey-Hey-Hey!",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Jerry Leiber",
+          "Mike Stoller",
+          "Richard Penniman"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
       },
       {
         "position": 8,
         "title": "Eight Days a Week",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
       },
       {
         "position": 9,
         "title": "Words of Love",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Buddy Holly"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
       },
       {
         "position": 10,
         "title": "Honey Don't",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Carl Perkins"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
       },
       {
         "position": 11,
         "title": "Every Little Thing",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
       },
       {
         "position": 12,
         "title": "I Don't Want to Spoil the Party",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
       },
       {
         "position": 13,
         "title": "What You're Doing",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
       },
       {
         "position": 14,
         "title": "Everybody's Trying to Be My Baby",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Carl Perkins"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
       }
     ],
@@ -630,6 +731,14 @@
       {
         "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
         "url": "https://www.thebeatles.com/albums"
+      },
+      {
+        "title": "About The Beatles — índice de canciones y créditos de composición (fuente secundaria de contraste)",
+        "url": "https://aboutthebeatles.com/song-index"
+      },
+      {
+        "title": "The Beatles — índice oficial de canciones",
+        "url": "https://www.thebeatles.com/songs"
       }
     ],
     "verification_status": "needs_verification"
@@ -659,98 +768,137 @@
         "position": 1,
         "title": "Help!",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 2,
         "title": "The Night Before",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 3,
         "title": "You've Got to Hide Your Love Away",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 4,
         "title": "I Need You",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 5,
         "title": "Another Girl",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 6,
         "title": "You're Going to Lose That Girl",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 7,
         "title": "Ticket to Ride",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 8,
         "title": "Act Naturally",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Johnny Russell",
+          "Voni Morrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 9,
         "title": "It's Only Love",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 10,
         "title": "You Like Me Too Much",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 11,
         "title": "Tell Me What You See",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 12,
         "title": "I've Just Seen a Face",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 13,
         "title": "Yesterday",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/help-lp"
       },
       {
         "position": 14,
         "title": "Dizzy Miss Lizzy",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Larry Williams"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/help-lp"
       }
     ],
@@ -766,6 +914,14 @@
       {
         "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
         "url": "https://www.thebeatles.com/albums"
+      },
+      {
+        "title": "About The Beatles — índice de canciones y créditos de composición (fuente secundaria de contraste)",
+        "url": "https://aboutthebeatles.com/song-index"
+      },
+      {
+        "title": "The Beatles — índice oficial de canciones",
+        "url": "https://www.thebeatles.com/songs"
       }
     ],
     "verification_status": "needs_verification"
@@ -795,98 +951,139 @@
         "position": 1,
         "title": "Drive My Car",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
       },
       {
         "position": 2,
         "title": "Norwegian Wood (This Bird Has Flown)",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
       },
       {
         "position": 3,
         "title": "You Won't See Me",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
       },
       {
         "position": 4,
         "title": "Nowhere Man",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
       },
       {
         "position": 5,
         "title": "Think for Yourself",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
       },
       {
         "position": 6,
         "title": "The Word",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
       },
       {
         "position": 7,
         "title": "Michelle",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
       },
       {
         "position": 8,
         "title": "What Goes On",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney",
+          "Richard Starkey"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
       },
       {
         "position": 9,
         "title": "Girl",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
       },
       {
         "position": 10,
         "title": "I'm Looking Through You",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
       },
       {
         "position": 11,
         "title": "In My Life",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
       },
       {
         "position": 12,
         "title": "Wait",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
       },
       {
         "position": 13,
         "title": "If I Needed Someone",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
       },
       {
         "position": 14,
         "title": "Run for Your Life",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
       }
     ],
@@ -902,6 +1099,14 @@
       {
         "title": "Rubber Soul — lista oficial de canciones",
         "url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
+      },
+      {
+        "title": "About The Beatles — índice de canciones y créditos de composición (fuente secundaria de contraste)",
+        "url": "https://aboutthebeatles.com/song-index"
+      },
+      {
+        "title": "The Beatles — índice oficial de canciones",
+        "url": "https://www.thebeatles.com/songs"
       }
     ],
     "verification_status": "needs_verification"
@@ -931,98 +1136,136 @@
         "position": 1,
         "title": "Taxman",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
       },
       {
         "position": 2,
         "title": "Eleanor Rigby",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
       },
       {
         "position": 3,
         "title": "I'm Only Sleeping",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
       },
       {
         "position": 4,
         "title": "Love You To",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
       },
       {
         "position": 5,
         "title": "Here, There and Everywhere",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
       },
       {
         "position": 6,
         "title": "Yellow Submarine",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
       },
       {
         "position": 7,
         "title": "She Said She Said",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
       },
       {
         "position": 8,
         "title": "Good Day Sunshine",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
       },
       {
         "position": 9,
         "title": "And Your Bird Can Sing",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
       },
       {
         "position": 10,
         "title": "For No One",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
       },
       {
         "position": 11,
         "title": "Doctor Robert",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
       },
       {
         "position": 12,
         "title": "I Want to Tell You",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
       },
       {
         "position": 13,
         "title": "Got to Get You into My Life",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
       },
       {
         "position": 14,
         "title": "Tomorrow Never Knows",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
       }
     ],
@@ -1038,6 +1281,14 @@
       {
         "title": "Revolver — lista oficial de canciones",
         "url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
+      },
+      {
+        "title": "About The Beatles — índice de canciones y créditos de composición (fuente secundaria de contraste)",
+        "url": "https://aboutthebeatles.com/song-index"
+      },
+      {
+        "title": "The Beatles — índice oficial de canciones",
+        "url": "https://www.thebeatles.com/songs"
       }
     ],
     "verification_status": "needs_verification"
@@ -1067,91 +1318,129 @@
         "position": 1,
         "title": "Sgt. Pepper's Lonely Hearts Club Band",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 2,
         "title": "With a Little Help from My Friends",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 3,
         "title": "Lucy in the Sky with Diamonds",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 4,
         "title": "Getting Better",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 5,
         "title": "Fixing a Hole",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 6,
         "title": "She's Leaving Home",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 7,
         "title": "Being for the Benefit of Mr. Kite!",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 8,
         "title": "Within You Without You",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 9,
         "title": "When I'm Sixty-Four",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 10,
         "title": "Lovely Rita",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 11,
         "title": "Good Morning Good Morning",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 12,
         "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       },
       {
         "position": 13,
         "title": "A Day in the Life",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
       }
     ],
@@ -1171,6 +1460,14 @@
       {
         "title": "Sgt. Pepper's Lonely Hearts Club Band — lista oficial de canciones",
         "url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
+      },
+      {
+        "title": "About The Beatles — índice de canciones y créditos de composición (fuente secundaria de contraste)",
+        "url": "https://aboutthebeatles.com/song-index"
+      },
+      {
+        "title": "The Beatles — índice oficial de canciones",
+        "url": "https://www.thebeatles.com/songs"
       }
     ],
     "verification_status": "needs_verification"
@@ -1200,77 +1497,111 @@
         "position": 1,
         "title": "Magical Mystery Tour",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
       },
       {
         "position": 2,
         "title": "The Fool on the Hill",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
       },
       {
         "position": 3,
         "title": "Flying",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney",
+          "George Harrison",
+          "Richard Starkey"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
       },
       {
         "position": 4,
         "title": "Blue Jay Way",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
       },
       {
         "position": 5,
         "title": "Your Mother Should Know",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
       },
       {
         "position": 6,
         "title": "I Am the Walrus",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
       },
       {
         "position": 7,
         "title": "Hello, Goodbye",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
       },
       {
         "position": 8,
         "title": "Strawberry Fields Forever",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
       },
       {
         "position": 9,
         "title": "Penny Lane",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
       },
       {
         "position": 10,
         "title": "Baby, You're a Rich Man",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
       },
       {
         "position": 11,
         "title": "All You Need Is Love",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
       }
     ],
@@ -1286,6 +1617,14 @@
       {
         "title": "Magical Mystery Tour — lista oficial de canciones",
         "url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
+      },
+      {
+        "title": "About The Beatles — índice de canciones y créditos de composición (fuente secundaria de contraste)",
+        "url": "https://aboutthebeatles.com/song-index"
+      },
+      {
+        "title": "The Beatles — índice oficial de canciones",
+        "url": "https://www.thebeatles.com/songs"
       }
     ],
     "verification_status": "needs_verification"
@@ -1316,210 +1655,285 @@
         "position": 1,
         "title": "Back in the U.S.S.R.",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 2,
         "title": "Dear Prudence",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 3,
         "title": "Glass Onion",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 4,
         "title": "Ob-La-Di, Ob-La-Da",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 5,
         "title": "Wild Honey Pie",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 6,
         "title": "The Continuing Story of Bungalow Bill",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 7,
         "title": "While My Guitar Gently Weeps",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 8,
         "title": "Happiness Is a Warm Gun",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 9,
         "title": "Martha My Dear",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 10,
         "title": "I'm So Tired",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 11,
         "title": "Blackbird",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 12,
         "title": "Piggies",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 13,
         "title": "Rocky Raccoon",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 14,
         "title": "Don't Pass Me By",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Richard Starkey"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 15,
         "title": "Why Don't We Do It in the Road?",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 16,
         "title": "I Will",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 17,
         "title": "Julia",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 18,
         "title": "Birthday",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 19,
         "title": "Yer Blues",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 20,
         "title": "Mother Nature's Son",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 21,
         "title": "Everybody's Got Something to Hide Except Me and My Monkey",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 22,
         "title": "Sexy Sadie",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 23,
         "title": "Helter Skelter",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 24,
         "title": "Long, Long, Long",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 25,
         "title": "Revolution 1",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 26,
         "title": "Honey Pie",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 27,
         "title": "Savoy Truffle",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 28,
         "title": "Cry Baby Cry",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 29,
         "title": "Revolution 9",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney",
+          "George Harrison",
+          "Richard Starkey"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       },
       {
         "position": 30,
         "title": "Good Night",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
       }
     ],
@@ -1539,6 +1953,14 @@
       {
         "title": "The Beatles — lista oficial de canciones",
         "url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+      },
+      {
+        "title": "About The Beatles — índice de canciones y créditos de composición (fuente secundaria de contraste)",
+        "url": "https://aboutthebeatles.com/song-index"
+      },
+      {
+        "title": "The Beatles — índice oficial de canciones",
+        "url": "https://www.thebeatles.com/songs"
       }
     ],
     "verification_status": "needs_verification"
@@ -1568,91 +1990,121 @@
         "position": 1,
         "title": "Yellow Submarine",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
       },
       {
         "position": 2,
         "title": "Only a Northern Song",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
       },
       {
         "position": 3,
         "title": "All Together Now",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
       },
       {
         "position": 4,
         "title": "Hey Bulldog",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
       },
       {
         "position": 5,
         "title": "It's All Too Much",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
       },
       {
         "position": 6,
         "title": "All You Need Is Love",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
       },
       {
         "position": 7,
         "title": "Pepperland",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Martin"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
       },
       {
         "position": 8,
         "title": "Sea of Time",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Martin"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
       },
       {
         "position": 9,
         "title": "Sea of Holes",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Martin"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
       },
       {
         "position": 10,
         "title": "Sea of Monsters",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Martin"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
       },
       {
         "position": 11,
         "title": "March of the Meanies",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Martin"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
       },
       {
         "position": 12,
         "title": "Pepperland Laid Waste",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Martin"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
       },
       {
         "position": 13,
         "title": "Yellow Submarine in Pepperland",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Martin"
+        ],
         "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
       }
     ],
@@ -1668,6 +2120,14 @@
       {
         "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
         "url": "https://www.thebeatles.com/albums"
+      },
+      {
+        "title": "About The Beatles — índice de canciones y créditos de composición (fuente secundaria de contraste)",
+        "url": "https://aboutthebeatles.com/song-index"
+      },
+      {
+        "title": "The Beatles — índice oficial de canciones",
+        "url": "https://www.thebeatles.com/songs"
       }
     ],
     "verification_status": "needs_verification"
@@ -1869,6 +2329,14 @@
       {
         "title": "Abbey Road Anniversary Edition — tienda oficial de The Beatles (tracklist)",
         "url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+      },
+      {
+        "title": "About The Beatles — índice de canciones y créditos de composición (fuente secundaria de contraste)",
+        "url": "https://aboutthebeatles.com/song-index"
+      },
+      {
+        "title": "The Beatles — índice oficial de canciones",
+        "url": "https://www.thebeatles.com/songs"
       }
     ],
     "verification_status": "verified"
@@ -1898,84 +2366,120 @@
         "position": 1,
         "title": "Two of Us",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 2,
         "title": "Dig a Pony",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 3,
         "title": "Across the Universe",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 4,
         "title": "I Me Mine",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 5,
         "title": "Dig It",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney",
+          "George Harrison",
+          "Richard Starkey"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 6,
         "title": "Let It Be",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 7,
         "title": "Maggie Mae",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "Traditional",
+          "The Beatles (arrangement)"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 8,
         "title": "I've Got a Feeling",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 9,
         "title": "One After 909",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 10,
         "title": "The Long and Winding Road",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 11,
         "title": "For You Blue",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "George Harrison"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       },
       {
         "position": 12,
         "title": "Get Back",
         "duration": null,
-        "writers": [],
+        "writers": [
+          "John Lennon",
+          "Paul McCartney"
+        ],
         "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
       }
     ],
@@ -1999,6 +2503,14 @@
       {
         "title": "Let It Be — lista oficial de canciones",
         "url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
+      },
+      {
+        "title": "About The Beatles — índice de canciones y créditos de composición (fuente secundaria de contraste)",
+        "url": "https://aboutthebeatles.com/song-index"
+      },
+      {
+        "title": "The Beatles — índice oficial de canciones",
+        "url": "https://www.thebeatles.com/songs"
       }
     ],
     "verification_status": "needs_verification"
