@@ -1,5 +1,1403 @@
 [
   {
+    "id": "the-beatles-please-please-me-1963",
+    "band_id": "the-beatles",
+    "title": "Please Please Me",
+    "album_type": "studio",
+    "original_release_date": "1963-03-22",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "label": "Parlophone",
+    "genres": [
+      "rock",
+      "beat",
+      "pop rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.thebeatles.com/please-please-me",
+      "rights_note": "Se enlaza la página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "I Saw Her Standing There",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/please-please-me"
+      },
+      {
+        "position": 2,
+        "title": "Misery",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/please-please-me"
+      },
+      {
+        "position": 3,
+        "title": "Anna (Go to Him)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/please-please-me"
+      },
+      {
+        "position": 4,
+        "title": "Chains",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/please-please-me"
+      },
+      {
+        "position": 5,
+        "title": "Boys",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/please-please-me"
+      },
+      {
+        "position": 6,
+        "title": "Ask Me Why",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/please-please-me"
+      },
+      {
+        "position": 7,
+        "title": "Please Please Me",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/please-please-me"
+      },
+      {
+        "position": 8,
+        "title": "Love Me Do",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/please-please-me"
+      },
+      {
+        "position": 9,
+        "title": "P.S. I Love You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/please-please-me"
+      },
+      {
+        "position": 10,
+        "title": "Baby It's You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/please-please-me"
+      },
+      {
+        "position": 11,
+        "title": "Do You Want to Know a Secret",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/please-please-me"
+      },
+      {
+        "position": 12,
+        "title": "A Taste of Honey",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/please-please-me"
+      },
+      {
+        "position": 13,
+        "title": "There's a Place",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/please-please-me"
+      },
+      {
+        "position": 14,
+        "title": "Twist and Shout",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/please-please-me"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Please Please Me — página oficial de The Beatles",
+        "url": "https://www.thebeatles.com/please-please-me"
+      },
+      {
+        "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
+        "url": "https://www.thebeatles.com/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-beatles-with-the-beatles-1963",
+    "band_id": "the-beatles",
+    "title": "With The Beatles",
+    "album_type": "studio",
+    "original_release_date": "1963-11-22",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "label": "Parlophone",
+    "genres": [
+      "rock",
+      "beat",
+      "pop rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.thebeatles.com/with-the-beatles",
+      "rights_note": "Se enlaza la página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "It Won't Be Long",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/with-the-beatles"
+      },
+      {
+        "position": 2,
+        "title": "All I've Got to Do",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/with-the-beatles"
+      },
+      {
+        "position": 3,
+        "title": "All My Loving",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/with-the-beatles"
+      },
+      {
+        "position": 4,
+        "title": "Don't Bother Me",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/with-the-beatles"
+      },
+      {
+        "position": 5,
+        "title": "Little Child",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/with-the-beatles"
+      },
+      {
+        "position": 6,
+        "title": "Till There Was You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/with-the-beatles"
+      },
+      {
+        "position": 7,
+        "title": "Please Mister Postman",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/with-the-beatles"
+      },
+      {
+        "position": 8,
+        "title": "Roll Over Beethoven",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/with-the-beatles"
+      },
+      {
+        "position": 9,
+        "title": "Hold Me Tight",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/with-the-beatles"
+      },
+      {
+        "position": 10,
+        "title": "You Really Got a Hold on Me",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/with-the-beatles"
+      },
+      {
+        "position": 11,
+        "title": "I Wanna Be Your Man",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/with-the-beatles"
+      },
+      {
+        "position": 12,
+        "title": "Devil in Her Heart",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/with-the-beatles"
+      },
+      {
+        "position": 13,
+        "title": "Not a Second Time",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/with-the-beatles"
+      },
+      {
+        "position": 14,
+        "title": "Money (That's What I Want)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/with-the-beatles"
+      }
+    ],
+    "sources": [
+      {
+        "title": "With The Beatles — página oficial de The Beatles",
+        "url": "https://www.thebeatles.com/with-the-beatles"
+      },
+      {
+        "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
+        "url": "https://www.thebeatles.com/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-beatles-a-hard-days-night-1964",
+    "band_id": "the-beatles",
+    "title": "A Hard Day's Night",
+    "album_type": "studio",
+    "original_release_date": "1964-07-10",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "label": "Parlophone",
+    "genres": [
+      "rock",
+      "beat",
+      "pop rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.thebeatles.com/a-hard-days-night",
+      "rights_note": "Se enlaza la página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "A Hard Day's Night",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/a-hard-days-night"
+      },
+      {
+        "position": 2,
+        "title": "I Should Have Known Better",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/a-hard-days-night"
+      },
+      {
+        "position": 3,
+        "title": "If I Fell",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/a-hard-days-night"
+      },
+      {
+        "position": 4,
+        "title": "I'm Happy Just to Dance with You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/a-hard-days-night"
+      },
+      {
+        "position": 5,
+        "title": "And I Love Her",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/a-hard-days-night"
+      },
+      {
+        "position": 6,
+        "title": "Tell Me Why",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/a-hard-days-night"
+      },
+      {
+        "position": 7,
+        "title": "Can't Buy Me Love",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/a-hard-days-night"
+      },
+      {
+        "position": 8,
+        "title": "Any Time at All",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/a-hard-days-night"
+      },
+      {
+        "position": 9,
+        "title": "I'll Cry Instead",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/a-hard-days-night"
+      },
+      {
+        "position": 10,
+        "title": "Things We Said Today",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/a-hard-days-night"
+      },
+      {
+        "position": 11,
+        "title": "When I Get Home",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/a-hard-days-night"
+      },
+      {
+        "position": 12,
+        "title": "You Can't Do That",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/a-hard-days-night"
+      },
+      {
+        "position": 13,
+        "title": "I'll Be Back",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/a-hard-days-night"
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Hard Day's Night — página oficial de The Beatles",
+        "url": "https://www.thebeatles.com/a-hard-days-night"
+      },
+      {
+        "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
+        "url": "https://www.thebeatles.com/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-beatles-beatles-for-sale-1964",
+    "band_id": "the-beatles",
+    "title": "Beatles for Sale",
+    "album_type": "studio",
+    "original_release_date": "1964-12-04",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "label": "Parlophone",
+    "genres": [
+      "rock",
+      "folk rock",
+      "beat"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.thebeatles.com/beatles-for-sale",
+      "rights_note": "Se enlaza la página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "No Reply",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/beatles-for-sale"
+      },
+      {
+        "position": 2,
+        "title": "I'm a Loser",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/beatles-for-sale"
+      },
+      {
+        "position": 3,
+        "title": "Baby's in Black",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/beatles-for-sale"
+      },
+      {
+        "position": 4,
+        "title": "Rock and Roll Music",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/beatles-for-sale"
+      },
+      {
+        "position": 5,
+        "title": "I'll Follow the Sun",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/beatles-for-sale"
+      },
+      {
+        "position": 6,
+        "title": "Mr. Moonlight",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/beatles-for-sale"
+      },
+      {
+        "position": 7,
+        "title": "Kansas City/Hey-Hey-Hey-Hey!",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/beatles-for-sale"
+      },
+      {
+        "position": 8,
+        "title": "Eight Days a Week",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/beatles-for-sale"
+      },
+      {
+        "position": 9,
+        "title": "Words of Love",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/beatles-for-sale"
+      },
+      {
+        "position": 10,
+        "title": "Honey Don't",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/beatles-for-sale"
+      },
+      {
+        "position": 11,
+        "title": "Every Little Thing",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/beatles-for-sale"
+      },
+      {
+        "position": 12,
+        "title": "I Don't Want to Spoil the Party",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/beatles-for-sale"
+      },
+      {
+        "position": 13,
+        "title": "What You're Doing",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/beatles-for-sale"
+      },
+      {
+        "position": 14,
+        "title": "Everybody's Trying to Be My Baby",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/beatles-for-sale"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Beatles for Sale — página oficial de The Beatles",
+        "url": "https://www.thebeatles.com/beatles-for-sale"
+      },
+      {
+        "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
+        "url": "https://www.thebeatles.com/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-beatles-help-1965",
+    "band_id": "the-beatles",
+    "title": "Help!",
+    "album_type": "studio",
+    "original_release_date": "1965-08-06",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "label": "Parlophone",
+    "genres": [
+      "rock",
+      "folk rock",
+      "pop rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.thebeatles.com/help",
+      "rights_note": "Se enlaza la página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Help!",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/help"
+      },
+      {
+        "position": 2,
+        "title": "The Night Before",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/help"
+      },
+      {
+        "position": 3,
+        "title": "You've Got to Hide Your Love Away",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/help"
+      },
+      {
+        "position": 4,
+        "title": "I Need You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/help"
+      },
+      {
+        "position": 5,
+        "title": "Another Girl",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/help"
+      },
+      {
+        "position": 6,
+        "title": "You're Going to Lose That Girl",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/help"
+      },
+      {
+        "position": 7,
+        "title": "Ticket to Ride",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/help"
+      },
+      {
+        "position": 8,
+        "title": "Act Naturally",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/help"
+      },
+      {
+        "position": 9,
+        "title": "It's Only Love",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/help"
+      },
+      {
+        "position": 10,
+        "title": "You Like Me Too Much",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/help"
+      },
+      {
+        "position": 11,
+        "title": "Tell Me What You See",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/help"
+      },
+      {
+        "position": 12,
+        "title": "I've Just Seen a Face",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/help"
+      },
+      {
+        "position": 13,
+        "title": "Yesterday",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/help"
+      },
+      {
+        "position": 14,
+        "title": "Dizzy Miss Lizzy",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/help"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Help! — página oficial de The Beatles",
+        "url": "https://www.thebeatles.com/help"
+      },
+      {
+        "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
+        "url": "https://www.thebeatles.com/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-beatles-rubber-soul-1965",
+    "band_id": "the-beatles",
+    "title": "Rubber Soul",
+    "album_type": "studio",
+    "original_release_date": "1965-12-03",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "label": "Parlophone",
+    "genres": [
+      "rock",
+      "folk rock",
+      "pop rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.thebeatles.com/rubber-soul",
+      "rights_note": "Se enlaza la página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Drive My Car",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/rubber-soul"
+      },
+      {
+        "position": 2,
+        "title": "Norwegian Wood (This Bird Has Flown)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/rubber-soul"
+      },
+      {
+        "position": 3,
+        "title": "You Won't See Me",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/rubber-soul"
+      },
+      {
+        "position": 4,
+        "title": "Nowhere Man",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/rubber-soul"
+      },
+      {
+        "position": 5,
+        "title": "Think for Yourself",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/rubber-soul"
+      },
+      {
+        "position": 6,
+        "title": "The Word",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/rubber-soul"
+      },
+      {
+        "position": 7,
+        "title": "Michelle",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/rubber-soul"
+      },
+      {
+        "position": 8,
+        "title": "What Goes On",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/rubber-soul"
+      },
+      {
+        "position": 9,
+        "title": "Girl",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/rubber-soul"
+      },
+      {
+        "position": 10,
+        "title": "I'm Looking Through You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/rubber-soul"
+      },
+      {
+        "position": 11,
+        "title": "In My Life",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/rubber-soul"
+      },
+      {
+        "position": 12,
+        "title": "Wait",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/rubber-soul"
+      },
+      {
+        "position": 13,
+        "title": "If I Needed Someone",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/rubber-soul"
+      },
+      {
+        "position": 14,
+        "title": "Run for Your Life",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/rubber-soul"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rubber Soul — página oficial de The Beatles",
+        "url": "https://www.thebeatles.com/rubber-soul"
+      },
+      {
+        "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
+        "url": "https://www.thebeatles.com/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-beatles-revolver-1966",
+    "band_id": "the-beatles",
+    "title": "Revolver",
+    "album_type": "studio",
+    "original_release_date": "1966-08-05",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "label": "Parlophone",
+    "genres": [
+      "rock",
+      "psychedelic rock",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.thebeatles.com/revolver",
+      "rights_note": "Se enlaza la página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Taxman",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/revolver"
+      },
+      {
+        "position": 2,
+        "title": "Eleanor Rigby",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/revolver"
+      },
+      {
+        "position": 3,
+        "title": "I'm Only Sleeping",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/revolver"
+      },
+      {
+        "position": 4,
+        "title": "Love You To",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/revolver"
+      },
+      {
+        "position": 5,
+        "title": "Here, There and Everywhere",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/revolver"
+      },
+      {
+        "position": 6,
+        "title": "Yellow Submarine",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/revolver"
+      },
+      {
+        "position": 7,
+        "title": "She Said She Said",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/revolver"
+      },
+      {
+        "position": 8,
+        "title": "Good Day Sunshine",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/revolver"
+      },
+      {
+        "position": 9,
+        "title": "And Your Bird Can Sing",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/revolver"
+      },
+      {
+        "position": 10,
+        "title": "For No One",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/revolver"
+      },
+      {
+        "position": 11,
+        "title": "Doctor Robert",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/revolver"
+      },
+      {
+        "position": 12,
+        "title": "I Want to Tell You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/revolver"
+      },
+      {
+        "position": 13,
+        "title": "Got to Get You into My Life",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/revolver"
+      },
+      {
+        "position": 14,
+        "title": "Tomorrow Never Knows",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/revolver"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Revolver — página oficial de The Beatles",
+        "url": "https://www.thebeatles.com/revolver"
+      },
+      {
+        "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
+        "url": "https://www.thebeatles.com/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-beatles-sgt-peppers-lonely-hearts-club-band-1967",
+    "band_id": "the-beatles",
+    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+    "album_type": "studio",
+    "original_release_date": "1967-06-01",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "label": "Parlophone",
+    "genres": [
+      "rock",
+      "psychedelic rock",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band",
+      "rights_note": "Se enlaza la página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Sgt. Pepper's Lonely Hearts Club Band",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band"
+      },
+      {
+        "position": 2,
+        "title": "With a Little Help from My Friends",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band"
+      },
+      {
+        "position": 3,
+        "title": "Lucy in the Sky with Diamonds",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band"
+      },
+      {
+        "position": 4,
+        "title": "Getting Better",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band"
+      },
+      {
+        "position": 5,
+        "title": "Fixing a Hole",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band"
+      },
+      {
+        "position": 6,
+        "title": "She's Leaving Home",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band"
+      },
+      {
+        "position": 7,
+        "title": "Being for the Benefit of Mr. Kite!",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band"
+      },
+      {
+        "position": 8,
+        "title": "Within You Without You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band"
+      },
+      {
+        "position": 9,
+        "title": "When I'm Sixty-Four",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band"
+      },
+      {
+        "position": 10,
+        "title": "Lovely Rita",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band"
+      },
+      {
+        "position": 11,
+        "title": "Good Morning Good Morning",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band"
+      },
+      {
+        "position": 12,
+        "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band"
+      },
+      {
+        "position": 13,
+        "title": "A Day in the Life",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sgt. Pepper's Lonely Hearts Club Band — página oficial de The Beatles",
+        "url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band"
+      },
+      {
+        "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
+        "url": "https://www.thebeatles.com/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-beatles-magical-mystery-tour-1967",
+    "band_id": "the-beatles",
+    "title": "Magical Mystery Tour",
+    "album_type": "studio",
+    "original_release_date": "1967-11-27",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Se registra la edición LP estadounidense de 11 canciones, incorporada al catálogo estándar internacional en la era del CD; en Reino Unido apareció originalmente como doble EP.",
+    "label": "Capitol Records",
+    "genres": [
+      "rock",
+      "psychedelic rock",
+      "pop rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.thebeatles.com/magical-mystery-tour",
+      "rights_note": "Se enlaza la página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Magical Mystery Tour",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/magical-mystery-tour"
+      },
+      {
+        "position": 2,
+        "title": "The Fool on the Hill",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/magical-mystery-tour"
+      },
+      {
+        "position": 3,
+        "title": "Flying",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/magical-mystery-tour"
+      },
+      {
+        "position": 4,
+        "title": "Blue Jay Way",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/magical-mystery-tour"
+      },
+      {
+        "position": 5,
+        "title": "Your Mother Should Know",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/magical-mystery-tour"
+      },
+      {
+        "position": 6,
+        "title": "I Am the Walrus",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/magical-mystery-tour"
+      },
+      {
+        "position": 7,
+        "title": "Hello, Goodbye",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/magical-mystery-tour"
+      },
+      {
+        "position": 8,
+        "title": "Strawberry Fields Forever",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/magical-mystery-tour"
+      },
+      {
+        "position": 9,
+        "title": "Penny Lane",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/magical-mystery-tour"
+      },
+      {
+        "position": 10,
+        "title": "Baby, You're a Rich Man",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/magical-mystery-tour"
+      },
+      {
+        "position": 11,
+        "title": "All You Need Is Love",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/magical-mystery-tour"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Magical Mystery Tour — página oficial de The Beatles",
+        "url": "https://www.thebeatles.com/magical-mystery-tour"
+      },
+      {
+        "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
+        "url": "https://www.thebeatles.com/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-beatles-the-beatles-1968",
+    "band_id": "the-beatles",
+    "title": "The Beatles",
+    "album_type": "studio",
+    "original_release_date": "1968-11-22",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "label": "Apple Records",
+    "genres": [
+      "rock",
+      "folk rock",
+      "hard rock",
+      "psychedelic rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.thebeatles.com/the-beatles",
+      "rights_note": "Se enlaza la página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Back in the U.S.S.R.",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 2,
+        "title": "Dear Prudence",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 3,
+        "title": "Glass Onion",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 4,
+        "title": "Ob-La-Di, Ob-La-Da",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 5,
+        "title": "Wild Honey Pie",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 6,
+        "title": "The Continuing Story of Bungalow Bill",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 7,
+        "title": "While My Guitar Gently Weeps",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 8,
+        "title": "Happiness Is a Warm Gun",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 9,
+        "title": "Martha My Dear",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 10,
+        "title": "I'm So Tired",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 11,
+        "title": "Blackbird",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 12,
+        "title": "Piggies",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 13,
+        "title": "Rocky Raccoon",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 14,
+        "title": "Don't Pass Me By",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 15,
+        "title": "Why Don't We Do It in the Road?",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 16,
+        "title": "I Will",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 17,
+        "title": "Julia",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 18,
+        "title": "Birthday",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 19,
+        "title": "Yer Blues",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 20,
+        "title": "Mother Nature's Son",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 21,
+        "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 22,
+        "title": "Sexy Sadie",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 23,
+        "title": "Helter Skelter",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 24,
+        "title": "Long, Long, Long",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 25,
+        "title": "Revolution 1",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 26,
+        "title": "Honey Pie",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 27,
+        "title": "Savoy Truffle",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 28,
+        "title": "Cry Baby Cry",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 29,
+        "title": "Revolution 9",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "position": 30,
+        "title": "Good Night",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/the-beatles"
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Beatles — página oficial de The Beatles",
+        "url": "https://www.thebeatles.com/the-beatles"
+      },
+      {
+        "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
+        "url": "https://www.thebeatles.com/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
     "id": "the-beatles-abbey-road-1969",
     "band_id": "the-beatles",
     "title": "Abbey Road",
@@ -199,5 +1597,123 @@
       }
     ],
     "verification_status": "verified"
+  },
+  {
+    "id": "the-beatles-let-it-be-1970",
+    "band_id": "the-beatles",
+    "title": "Let It Be",
+    "album_type": "studio",
+    "original_release_date": "1970-05-08",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales.",
+    "label": "Apple Records",
+    "genres": [
+      "rock",
+      "roots rock",
+      "blues rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.thebeatles.com/let-it-be",
+      "rights_note": "Se enlaza la página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Two of Us",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/let-it-be"
+      },
+      {
+        "position": 2,
+        "title": "Dig a Pony",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/let-it-be"
+      },
+      {
+        "position": 3,
+        "title": "Across the Universe",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/let-it-be"
+      },
+      {
+        "position": 4,
+        "title": "I Me Mine",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/let-it-be"
+      },
+      {
+        "position": 5,
+        "title": "Dig It",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/let-it-be"
+      },
+      {
+        "position": 6,
+        "title": "Let It Be",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/let-it-be"
+      },
+      {
+        "position": 7,
+        "title": "Maggie Mae",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/let-it-be"
+      },
+      {
+        "position": 8,
+        "title": "I've Got a Feeling",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/let-it-be"
+      },
+      {
+        "position": 9,
+        "title": "One After 909",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/let-it-be"
+      },
+      {
+        "position": 10,
+        "title": "The Long and Winding Road",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/let-it-be"
+      },
+      {
+        "position": 11,
+        "title": "For You Blue",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/let-it-be"
+      },
+      {
+        "position": 12,
+        "title": "Get Back",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.thebeatles.com/let-it-be"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Let It Be — página oficial de The Beatles",
+        "url": "https://www.thebeatles.com/let-it-be"
+      },
+      {
+        "title": "Discografía oficial de The Beatles (fechas de lanzamiento)",
+        "url": "https://www.thebeatles.com/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
