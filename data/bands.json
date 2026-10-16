@@ -163,5 +163,28 @@
       }
     ],
     "status": "needs_verification"
+  },
+  {
+    "id": "the-doors",
+    "name": "The Doors",
+    "country_of_origin": "Estados Unidos",
+    "formed_year": 1965,
+    "disbanded_year": 1973,
+    "genres": [
+      "psychedelic rock",
+      "blues rock"
+    ],
+    "official_website": "https://thedoors.com/",
+    "sources": [
+      {
+        "title": "The Doors — sitio oficial",
+        "url": "https://thedoors.com/"
+      },
+      {
+        "title": "The Doors — discografía oficial",
+        "url": "https://thedoors.com/music"
+      }
+    ],
+    "status": "starter_record"
   }
 ]
