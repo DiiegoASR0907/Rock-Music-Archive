@@ -30332,7 +30332,40 @@
       "source_url": "https://www.bobdylan.com/albums/?filter=studio",
       "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
     },
-    "tracks": [],
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Let’s Stick Together",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      },
+      {
+        "position": 2,
+        "title": "When Did You Leave Heaven?",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      },
+      {
+        "position": 3,
+        "title": "Sally Sue Brown",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      },
+      {
+        "position": 4,
+        "title": "Death Is Not the End",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      }
+    ],
     "sources": [
       {
         "title": "Bob Dylan — discografía oficial, filtro de álbumes de estudio",
