@@ -4352,5 +4352,1587 @@
       }
     ],
     "verification_status": "verified"
+  },
+  {
+    "id": "pink-floyd-the-piper-at-the-gates-of-dawn-1967",
+    "band_id": "pink-floyd",
+    "title": "The Piper at the Gates of Dawn",
+    "album_type": "studio",
+    "original_release_date": "1967-08-05",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas basada en la discografía oficial de Pink Floyd; créditos de composición, duraciones y duración total pendientes de contraste por edición. Ummagumma es un álbum doble mixto: el primer LP contiene interpretaciones en directo y el segundo material de estudio. More y Obscured by Clouds son bandas sonoras publicadas como álbumes de Pink Floyd.",
+    "label": "Columbia",
+    "genres": [
+      "Psychedelic rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://archive.pinkfloyd.com/music/albums",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Astronomy Domine",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 2,
+        "title": "Lucifer Sam",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 3,
+        "title": "Matilda Mother",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 4,
+        "title": "Flaming",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 5,
+        "title": "Pow R. Toc H.",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 6,
+        "title": "Take Up Thy Stethoscope and Walk",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 7,
+        "title": "Interstellar Overdrive",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 8,
+        "title": "The Gnome",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 9,
+        "title": "Chapter 24",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 10,
+        "title": "The Scarecrow",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 11,
+        "title": "Bike",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
+        "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "pink-floyd-a-saucerful-of-secrets-1968",
+    "band_id": "pink-floyd",
+    "title": "A Saucerful of Secrets",
+    "album_type": "studio",
+    "original_release_date": "1968-06-29",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas basada en la discografía oficial de Pink Floyd; créditos de composición, duraciones y duración total pendientes de contraste por edición. Ummagumma es un álbum doble mixto: el primer LP contiene interpretaciones en directo y el segundo material de estudio. More y Obscured by Clouds son bandas sonoras publicadas como álbumes de Pink Floyd.",
+    "label": "Columbia",
+    "genres": [
+      "Psychedelic rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://archive.pinkfloyd.com/music/albums",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Let There Be More Light",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 2,
+        "title": "Remember a Day",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 3,
+        "title": "Set the Controls for the Heart of the Sun",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 4,
+        "title": "Corporal Clegg",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 5,
+        "title": "A Saucerful of Secrets",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 6,
+        "title": "See-Saw",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 7,
+        "title": "Jugband Blues",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
+        "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "pink-floyd-more-1969",
+    "band_id": "pink-floyd",
+    "title": "More",
+    "album_type": "studio",
+    "original_release_date": "1969-06-13",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas basada en la discografía oficial de Pink Floyd; créditos de composición, duraciones y duración total pendientes de contraste por edición. Ummagumma es un álbum doble mixto: el primer LP contiene interpretaciones en directo y el segundo material de estudio. More y Obscured by Clouds son bandas sonoras publicadas como álbumes de Pink Floyd.",
+    "label": "Columbia",
+    "genres": [
+      "Psychedelic rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://archive.pinkfloyd.com/music/albums",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Cirrus Minor",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 2,
+        "title": "The Nile Song",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 3,
+        "title": "Crying Song",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 4,
+        "title": "Up the Khyber",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 5,
+        "title": "Green Is the Colour",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 6,
+        "title": "Cymbaline",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 7,
+        "title": "Party Sequence",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 8,
+        "title": "Main Theme",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 9,
+        "title": "Ibiza Bar",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 10,
+        "title": "More Blues",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 11,
+        "title": "Quicksilver",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 12,
+        "title": "A Spanish Piece",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 13,
+        "title": "Dramatic Theme",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
+        "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "pink-floyd-ummagumma-1969",
+    "band_id": "pink-floyd",
+    "title": "Ummagumma",
+    "album_type": "studio",
+    "original_release_date": "1969-10-25",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas basada en la discografía oficial de Pink Floyd; créditos de composición, duraciones y duración total pendientes de contraste por edición. Ummagumma es un álbum doble mixto: el primer LP contiene interpretaciones en directo y el segundo material de estudio. More y Obscured by Clouds son bandas sonoras publicadas como álbumes de Pink Floyd.",
+    "label": "Harvest",
+    "genres": [
+      "Progressive rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://archive.pinkfloyd.com/music/albums",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Astronomy Domine (Live)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 2,
+        "title": "Careful with That Axe, Eugene (Live)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 3,
+        "title": "Set the Controls for the Heart of the Sun (Live)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 4,
+        "title": "A Saucerful of Secrets (Live)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 5,
+        "title": "Sysyphus, Part 1",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 6,
+        "title": "Sysyphus, Part 2",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 7,
+        "title": "Sysyphus, Part 3",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 8,
+        "title": "Sysyphus, Part 4",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 9,
+        "title": "Grantchester Meadows",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 10,
+        "title": "Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 11,
+        "title": "The Narrow Way, Part 1",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 12,
+        "title": "The Narrow Way, Part 2",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 13,
+        "title": "The Narrow Way, Part 3",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 14,
+        "title": "The Grand Vizier's Garden Party: Entrance",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 15,
+        "title": "The Grand Vizier's Garden Party: Entertainment",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 16,
+        "title": "The Grand Vizier's Garden Party: Exit",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
+        "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "pink-floyd-atom-heart-mother-1970",
+    "band_id": "pink-floyd",
+    "title": "Atom Heart Mother",
+    "album_type": "studio",
+    "original_release_date": "1970-10-02",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas basada en la discografía oficial de Pink Floyd; créditos de composición, duraciones y duración total pendientes de contraste por edición. Ummagumma es un álbum doble mixto: el primer LP contiene interpretaciones en directo y el segundo material de estudio. More y Obscured by Clouds son bandas sonoras publicadas como álbumes de Pink Floyd.",
+    "label": "Harvest",
+    "genres": [
+      "Progressive rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://archive.pinkfloyd.com/music/albums",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Atom Heart Mother",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 2,
+        "title": "If",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 3,
+        "title": "Summer '68",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 4,
+        "title": "Fat Old Sun",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 5,
+        "title": "Alan's Psychedelic Breakfast",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
+        "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "pink-floyd-meddle-1971",
+    "band_id": "pink-floyd",
+    "title": "Meddle",
+    "album_type": "studio",
+    "original_release_date": "1971-10-31",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas basada en la discografía oficial de Pink Floyd; créditos de composición, duraciones y duración total pendientes de contraste por edición. Ummagumma es un álbum doble mixto: el primer LP contiene interpretaciones en directo y el segundo material de estudio. More y Obscured by Clouds son bandas sonoras publicadas como álbumes de Pink Floyd.",
+    "label": "Harvest",
+    "genres": [
+      "Progressive rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://archive.pinkfloyd.com/music/albums",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "One of These Days",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 2,
+        "title": "A Pillow of Winds",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 3,
+        "title": "Fearless",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 4,
+        "title": "San Tropez",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 5,
+        "title": "Seamus",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 6,
+        "title": "Echoes",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
+        "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "pink-floyd-obscured-by-clouds-1972",
+    "band_id": "pink-floyd",
+    "title": "Obscured by Clouds",
+    "album_type": "studio",
+    "original_release_date": "1972-06-03",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas basada en la discografía oficial de Pink Floyd; créditos de composición, duraciones y duración total pendientes de contraste por edición. Ummagumma es un álbum doble mixto: el primer LP contiene interpretaciones en directo y el segundo material de estudio. More y Obscured by Clouds son bandas sonoras publicadas como álbumes de Pink Floyd.",
+    "label": "Harvest",
+    "genres": [
+      "Progressive rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://archive.pinkfloyd.com/music/albums",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Obscured by Clouds",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 2,
+        "title": "When You're In",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 3,
+        "title": "Burning Bridges",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 4,
+        "title": "The Gold It's in the...",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 5,
+        "title": "Wot's... Uh the Deal",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 6,
+        "title": "Mudmen",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 7,
+        "title": "Childhood's End",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 8,
+        "title": "Free Four",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 9,
+        "title": "Stay",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 10,
+        "title": "Absolutely Curtains",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
+        "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "pink-floyd-the-dark-side-of-the-moon-1973",
+    "band_id": "pink-floyd",
+    "title": "The Dark Side of the Moon",
+    "album_type": "studio",
+    "original_release_date": "1973-03-01",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas basada en la discografía oficial de Pink Floyd; créditos de composición, duraciones y duración total pendientes de contraste por edición. Ummagumma es un álbum doble mixto: el primer LP contiene interpretaciones en directo y el segundo material de estudio. More y Obscured by Clouds son bandas sonoras publicadas como álbumes de Pink Floyd.",
+    "label": "Harvest",
+    "genres": [
+      "Progressive rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://archive.pinkfloyd.com/music/albums",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Speak to Me",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 2,
+        "title": "Breathe (In the Air)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 3,
+        "title": "On the Run",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 4,
+        "title": "Time",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 5,
+        "title": "The Great Gig in the Sky",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 6,
+        "title": "Money",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 7,
+        "title": "Us and Them",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 8,
+        "title": "Any Colour You Like",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 9,
+        "title": "Brain Damage",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 10,
+        "title": "Eclipse",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
+        "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "pink-floyd-wish-you-were-here-1975",
+    "band_id": "pink-floyd",
+    "title": "Wish You Were Here",
+    "album_type": "studio",
+    "original_release_date": "1975-09-12",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas basada en la discografía oficial de Pink Floyd; créditos de composición, duraciones y duración total pendientes de contraste por edición. Ummagumma es un álbum doble mixto: el primer LP contiene interpretaciones en directo y el segundo material de estudio. More y Obscured by Clouds son bandas sonoras publicadas como álbumes de Pink Floyd.",
+    "label": "Harvest",
+    "genres": [
+      "Progressive rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://archive.pinkfloyd.com/music/albums",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Shine On You Crazy Diamond, Parts I–V",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 2,
+        "title": "Welcome to the Machine",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 3,
+        "title": "Have a Cigar",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 4,
+        "title": "Wish You Were Here",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 5,
+        "title": "Shine On You Crazy Diamond, Parts VI–IX",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
+        "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "pink-floyd-animals-1977",
+    "band_id": "pink-floyd",
+    "title": "Animals",
+    "album_type": "studio",
+    "original_release_date": "1977-01-23",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas basada en la discografía oficial de Pink Floyd; créditos de composición, duraciones y duración total pendientes de contraste por edición. Ummagumma es un álbum doble mixto: el primer LP contiene interpretaciones en directo y el segundo material de estudio. More y Obscured by Clouds son bandas sonoras publicadas como álbumes de Pink Floyd.",
+    "label": "Harvest",
+    "genres": [
+      "Progressive rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://archive.pinkfloyd.com/music/albums",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Pigs on the Wing, Part 1",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 2,
+        "title": "Dogs",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 3,
+        "title": "Pigs (Three Different Ones)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 4,
+        "title": "Sheep",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 5,
+        "title": "Pigs on the Wing, Part 2",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
+        "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "pink-floyd-the-wall-1979",
+    "band_id": "pink-floyd",
+    "title": "The Wall",
+    "album_type": "studio",
+    "original_release_date": "1979-11-30",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas basada en la discografía oficial de Pink Floyd; créditos de composición, duraciones y duración total pendientes de contraste por edición. Ummagumma es un álbum doble mixto: el primer LP contiene interpretaciones en directo y el segundo material de estudio. More y Obscured by Clouds son bandas sonoras publicadas como álbumes de Pink Floyd.",
+    "label": "Harvest",
+    "genres": [
+      "Progressive rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://archive.pinkfloyd.com/music/albums",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "In the Flesh?",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 2,
+        "title": "The Thin Ice",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 3,
+        "title": "Another Brick in the Wall, Part 1",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 4,
+        "title": "The Happiest Days of Our Lives",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 5,
+        "title": "Another Brick in the Wall, Part 2",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 6,
+        "title": "Mother",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 7,
+        "title": "Goodbye Blue Sky",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 8,
+        "title": "Empty Spaces",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 9,
+        "title": "Young Lust",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 10,
+        "title": "One of My Turns",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 11,
+        "title": "Don't Leave Me Now",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 12,
+        "title": "Another Brick in the Wall, Part 3",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 13,
+        "title": "Goodbye Cruel World",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 14,
+        "title": "Hey You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 15,
+        "title": "Is There Anybody Out There?",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 16,
+        "title": "Nobody Home",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 17,
+        "title": "Vera",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 18,
+        "title": "Bring the Boys Back Home",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 19,
+        "title": "Comfortably Numb",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 20,
+        "title": "The Show Must Go On",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 21,
+        "title": "In the Flesh",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 22,
+        "title": "Run Like Hell",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 23,
+        "title": "Waiting for the Worms",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 24,
+        "title": "Stop",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 25,
+        "title": "The Trial",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 26,
+        "title": "Outside the Wall",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
+        "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "pink-floyd-the-final-cut-1983",
+    "band_id": "pink-floyd",
+    "title": "The Final Cut",
+    "album_type": "studio",
+    "original_release_date": "1983-03-21",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas basada en la discografía oficial de Pink Floyd; créditos de composición, duraciones y duración total pendientes de contraste por edición. Ummagumma es un álbum doble mixto: el primer LP contiene interpretaciones en directo y el segundo material de estudio. More y Obscured by Clouds son bandas sonoras publicadas como álbumes de Pink Floyd.",
+    "label": "Harvest",
+    "genres": [
+      "Progressive rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://archive.pinkfloyd.com/music/albums",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "The Post War Dream",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 2,
+        "title": "Your Possible Pasts",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 3,
+        "title": "One of the Few",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 4,
+        "title": "The Hero's Return",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 5,
+        "title": "The Gunner's Dream",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 6,
+        "title": "Paranoid Eyes",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 7,
+        "title": "Get Your Filthy Hands Off My Desert",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 8,
+        "title": "The Fletcher Memorial Home",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 9,
+        "title": "Southampton Dock",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 10,
+        "title": "The Final Cut",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 11,
+        "title": "Not Now John",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 12,
+        "title": "Two Suns in the Sunset",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
+        "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "pink-floyd-a-momentary-lapse-of-reason-1987",
+    "band_id": "pink-floyd",
+    "title": "A Momentary Lapse of Reason",
+    "album_type": "studio",
+    "original_release_date": "1987-09-07",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas basada en la discografía oficial de Pink Floyd; créditos de composición, duraciones y duración total pendientes de contraste por edición. Ummagumma es un álbum doble mixto: el primer LP contiene interpretaciones en directo y el segundo material de estudio. More y Obscured by Clouds son bandas sonoras publicadas como álbumes de Pink Floyd.",
+    "label": "EMI",
+    "genres": [
+      "Progressive rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://archive.pinkfloyd.com/music/albums",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Signs of Life",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 2,
+        "title": "Learning to Fly",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 3,
+        "title": "The Dogs of War",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 4,
+        "title": "One Slip",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 5,
+        "title": "On the Turning Away",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 6,
+        "title": "Yet Another Movie",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 7,
+        "title": "Round and Around",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 8,
+        "title": "A New Machine, Part 1",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 9,
+        "title": "Terminal Frost",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 10,
+        "title": "A New Machine, Part 2",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 11,
+        "title": "Sorrow",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
+        "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "pink-floyd-the-division-bell-1994",
+    "band_id": "pink-floyd",
+    "title": "The Division Bell",
+    "album_type": "studio",
+    "original_release_date": "1994-03-28",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas basada en la discografía oficial de Pink Floyd; créditos de composición, duraciones y duración total pendientes de contraste por edición. Ummagumma es un álbum doble mixto: el primer LP contiene interpretaciones en directo y el segundo material de estudio. More y Obscured by Clouds son bandas sonoras publicadas como álbumes de Pink Floyd.",
+    "label": "EMI",
+    "genres": [
+      "Progressive rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://archive.pinkfloyd.com/music/albums",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Cluster One",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 2,
+        "title": "What Do You Want from Me",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 3,
+        "title": "Poles Apart",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 4,
+        "title": "Marooned",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 5,
+        "title": "A Great Day for Freedom",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 6,
+        "title": "Wearing the Inside Out",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 7,
+        "title": "Take It Back",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 8,
+        "title": "Coming Back to Life",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 9,
+        "title": "Keep Talking",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 10,
+        "title": "Lost for Words",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 11,
+        "title": "High Hopes",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
+        "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "pink-floyd-the-endless-river-2014",
+    "band_id": "pink-floyd",
+    "title": "The Endless River",
+    "album_type": "studio",
+    "original_release_date": "2014-11-10",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas basada en la discografía oficial de Pink Floyd; créditos de composición, duraciones y duración total pendientes de contraste por edición. Ummagumma es un álbum doble mixto: el primer LP contiene interpretaciones en directo y el segundo material de estudio. More y Obscured by Clouds son bandas sonoras publicadas como álbumes de Pink Floyd.",
+    "label": "Parlophone",
+    "genres": [
+      "Progressive rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://archive.pinkfloyd.com/music/albums",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Things Left Unsaid",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 2,
+        "title": "It's What We Do",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 3,
+        "title": "Ebb and Flow",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 4,
+        "title": "Sum",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 5,
+        "title": "Skins",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 6,
+        "title": "Unsung",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 7,
+        "title": "Anisina",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 8,
+        "title": "The Lost Art of Conversation",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 9,
+        "title": "On Noodle Street",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 10,
+        "title": "Night Light",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 11,
+        "title": "Allons-y (1)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 12,
+        "title": "Autumn '68",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 13,
+        "title": "Allons-y (2)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 14,
+        "title": "Talkin' Hawkin'",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 15,
+        "title": "Calling",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 16,
+        "title": "Eyes to Pearls",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 17,
+        "title": "Surfacing",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      },
+      {
+        "position": 18,
+        "title": "Louder Than Words",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
+        "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
