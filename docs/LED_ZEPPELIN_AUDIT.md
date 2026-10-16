@@ -39,10 +39,22 @@ Se sustituyeron las 15 duraciones por las publicadas en la discografía de Jimmy
 - **“You Shook Me”**: se eliminó J. B. Lenoir del crédito de composición y se dejó Willie Dixon.
 - **“Hats Off to (Roy) Harper”**: se normalizó Charles Obscure como seudónimo de Jimmy Page, manteniendo la referencia al material tradicional.
 - **“When the Levee Breaks”** y **“In My Time of Dying”**: se añadieron notas que distinguen los créditos de la versión de Led Zeppelin de las obras de blues/gospel de origen.
-- **“Boogie with Stu”**: se añadió Ritchie Valens como atribución que aparece en algunas bases de datos, dejando una nota explícita para confirmar el crédito legal contra la edición física.
+- **“Boogie with Stu”**: se retiró Ritchie Valens del arreglo `writers` porque la atribución no está confirmada como crédito legal de la edición de referencia. Se mantiene en `credit_note` como discrepancia pendiente de comprobar contra los créditos editoriales de la edición física.
 - **“Whole Lotta Love”** y **“Bring It On Home”**: se documentó la relación con las obras de blues de origen y se evita tratar todas las partes de un arreglo como si tuvieran necesariamente la misma atribución.
 
 La fuente oficial de Led Zeppelin diferencia las listas originales de los discos y las pistas extra de los discos complementarios de las ediciones deluxe; por ejemplo, *Physical Graffiti* mantiene 15 pistas en el álbum original y lista aparte siete mezclas/versiones adicionales. [Discografía oficial de Physical Graffiti](https://discography.ledzeppelin.com/pg).
+
+## Segunda fase: contraste sistemático pendiente/en curso
+
+La revisión inicial no equivale todavía a una comparación pista por pista con un ejemplar físico identificado para los ocho álbumes distintos de *Physical Graffiti*. La discografía oficial sirve para fijar la secuencia original y separar el disco principal del material extra, pero no publica de forma consistente duración y créditos editoriales completos para cada pista. AllMusic se usa como fuente secundaria de contraste, no como prueba primaria de lo impreso en una edición específica.
+
+Para cerrar la segunda fase, cada pista debe contrastarse con (1) créditos del LP/CD de referencia o una reproducción legible del sello/contraportada/etiqueta; (2) duración de esa misma edición o un catálogo editorial fiable ligado a ella; y (3) una fuente independiente cuando haya diferencias. Las diferencias de segundos se registrarán como variantes de edición, no se corregirán automáticamente. En canciones adaptadas de blues, folk o espirituales, `writers` debe reflejar los créditos atribuibles a la grabación/edición elegida y `credit_note` explicar por separado la obra de origen, arreglos, seudónimos y disputas.
+
+### Estado de trabajo
+
+- *Physical Graffiti*: duraciones cotejadas con la discografía oficial de Jimmy Page; créditos de canciones basadas en obras anteriores aún requieren comprobación contra créditos editoriales de la edición física.
+- *Led Zeppelin*, *Led Zeppelin II*, *Led Zeppelin III*, *Led Zeppelin IV*, *Houses of the Holy*, *Presence*, *In Through the Out Door* y *Coda*: secuencia y fecha cotejadas con la discografía oficial; las duraciones/créditos del archivo proceden principalmente de páginas de álbum de AllMusic y no se deben describir como verificados contra un LP/CD concreto.
+- Casos prioritarios de crédito: “Babe I’m Gonna Leave You”, “Dazed and Confused”, “Gallows Pole”, “Hats Off to (Roy) Harper”, “When the Levee Breaks”, “Nobody’s Fault but Mine”, “We’re Gonna Groove” y “I Can’t Quit You Baby”.
 
 ## Limitaciones y próximos controles
 
