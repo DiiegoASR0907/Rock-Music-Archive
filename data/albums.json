@@ -24878,5 +24878,360 @@
       }
     ],
     "verification_status": "needs_verification"
+  },
+  {
+    "id": "fleetwood-mac-penguin",
+    "band_id": "fleetwood-mac",
+    "title": "Penguin",
+    "album_type": "studio",
+    "original_release_date": "1973-03-16",
+    "country_or_market": "Reino Unido/Estados Unidos",
+    "edition_note": "Cobertura inicial; fecha y orden de pistas sujetos a auditoría global posterior.",
+    "label": "Reprise Records",
+    "genres": [
+      "blues rock",
+      "rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.fleetwoodmacofficial.com/",
+      "rights_note": "Se enlaza la discografía del artista; no se almacena copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Remember Me",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Bright Fire",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Dissatisfied",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "(I'm a) Road Runner",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "The Derelict",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Revelation",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Did You Ever Love Me",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Night Watch",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 9,
+        "title": "Caught in the Rain",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fleetwood Mac — sitio oficial",
+        "url": "https://www.fleetwoodmacofficial.com/"
+      },
+      {
+        "title": "Fleetwood Mac — índice discográfico",
+        "url": "https://www.fleetwoodmac-uk.com/albumindex.htm"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "fleetwood-mac-mystery-to-me",
+    "band_id": "fleetwood-mac",
+    "title": "Mystery to Me",
+    "album_type": "studio",
+    "original_release_date": "1973-10-15",
+    "country_or_market": "Reino Unido/Estados Unidos",
+    "edition_note": "Cobertura inicial; fecha y orden de pistas sujetos a auditoría global posterior.",
+    "label": "Reprise Records",
+    "genres": [
+      "blues rock",
+      "rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.fleetwoodmacofficial.com/",
+      "rights_note": "Se enlaza la discografía del artista; no se almacena copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Emerald Eyes",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Believe Me",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Just Crazy Love",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Hypnotized",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "Forever",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Keep on Going",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "The City",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Miles Away",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 9,
+        "title": "Somebody",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 10,
+        "title": "The Way I Feel",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 11,
+        "title": "For Your Love",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 12,
+        "title": "Why",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fleetwood Mac — sitio oficial",
+        "url": "https://www.fleetwoodmacofficial.com/"
+      },
+      {
+        "title": "Fleetwood Mac — índice discográfico",
+        "url": "https://www.fleetwoodmac-uk.com/albumindex.htm"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "fleetwood-mac-heroes-hard-find",
+    "band_id": "fleetwood-mac",
+    "title": "Heroes Are Hard to Find",
+    "album_type": "studio",
+    "original_release_date": "1974-09-13",
+    "country_or_market": "Reino Unido/Estados Unidos",
+    "edition_note": "Cobertura inicial; fecha y orden de pistas sujetos a auditoría global posterior.",
+    "label": "Reprise Records",
+    "genres": [
+      "blues rock",
+      "rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.fleetwoodmacofficial.com/",
+      "rights_note": "Se enlaza la discografía del artista; no se almacena copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Heroes Are Hard to Find",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Coming Home",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Angel",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Bermuda Triangle",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "Come a Little Bit Closer",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "She's Changing Me",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Bad Loser",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Silver Heels",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 9,
+        "title": "Prove Your Love",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 10,
+        "title": "Born Enchanter",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 11,
+        "title": "Safe Harbour",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fleetwood Mac — sitio oficial",
+        "url": "https://www.fleetwoodmacofficial.com/"
+      },
+      {
+        "title": "Fleetwood Mac — índice discográfico",
+        "url": "https://www.fleetwoodmac-uk.com/albumindex.htm"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
