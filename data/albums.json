@@ -29387,7 +29387,40 @@
       "source_url": "https://www.bobdylan.com/albums/?filter=studio",
       "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
     },
-    "tracks": [],
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Tangled Up in Blue",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      },
+      {
+        "position": 2,
+        "title": "Simple Twist of Fate",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      },
+      {
+        "position": 3,
+        "title": "You’re a Big Girl Now",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      },
+      {
+        "position": 4,
+        "title": "Idiot Wind",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      }
+    ],
     "sources": [
       {
         "title": "Bob Dylan — discografía oficial, filtro de álbumes de estudio",
