@@ -186,5 +186,29 @@
       }
     ],
     "status": "starter_record"
+  },
+  {
+    "id": "the-velvet-underground",
+    "name": "The Velvet Underground",
+    "country_of_origin": "Estados Unidos",
+    "formed_year": 1964,
+    "disbanded_year": 1973,
+    "genres": [
+      "art rock",
+      "proto-punk",
+      "experimental rock"
+    ],
+    "official_website": "https://www.thevelvetundergroundmusic.com/",
+    "sources": [
+      {
+        "title": "AllMusic — The Velvet Underground",
+        "url": "https://www.allmusic.com/artist/the-velvet-underground-mn0000840402"
+      },
+      {
+        "title": "The Velvet Underground discography",
+        "url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_discography"
+      }
+    ],
+    "status": "starter_record"
   }
 ]
