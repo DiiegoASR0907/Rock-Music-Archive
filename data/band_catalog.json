@@ -169,9 +169,9 @@
         "blues rock"
       ],
       "region": "Reino Unido/Estados Unidos",
-      "coverage_status": "queued",
+      "coverage_status": "in_progress",
       "priority": 1,
-      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+      "notes": "Primera carga añadida: Are You Experienced (1967, edición original británica), Axis: Bold as Love (1967) y Electric Ladyland (1968). Duraciones y créditos pista por pista pendientes de verificación. No iniciar auditoría global hasta completar la cobertura inicial de todas las bandas priorizadas."
     },
     {
       "id": "creedence-clearwater-revival",
