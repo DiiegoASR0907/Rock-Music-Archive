@@ -52,8 +52,9 @@ Para cerrar la segunda fase, cada pista debe contrastarse con (1) créditos del 
 
 ### Estado de trabajo
 
+- *Led Zeppelin* (debut): primera pasada de duración y créditos completada contra las notas de la edición estadounidense remasterizada de Atlantic de 1994, que identifica el álbum original como Atlantic 8216. Se corrigieron las duraciones de “Good Times Bad Times” (2:46), “You Shook Me” (6:28), “Your Time Is Gonna Come” (4:14), “Black Mountain Side” (2:05) y “Communication Breakdown” (2:27). Para “You Shook Me” se restableció J. B. Lenoir porque figura junto con Willie Dixon en esas notas. Fuente: https://albumlinernotes.com/Led_Zeppelin_I.html. Esto verifica lo que acredita esa edición de referencia; no elimina diferencias de otros prensajes ni resuelve todas las discusiones históricas.
 - *Physical Graffiti*: duraciones cotejadas con la discografía oficial de Jimmy Page; créditos de canciones basadas en obras anteriores aún requieren comprobación contra créditos editoriales de la edición física.
-- *Led Zeppelin*, *Led Zeppelin II*, *Led Zeppelin III*, *Led Zeppelin IV*, *Houses of the Holy*, *Presence*, *In Through the Out Door* y *Coda*: secuencia y fecha cotejadas con la discografía oficial; las duraciones/créditos del archivo proceden principalmente de páginas de álbum de AllMusic y no se deben describir como verificados contra un LP/CD concreto.
+- *Led Zeppelin II*, *Led Zeppelin III*, *Led Zeppelin IV*, *Houses of the Holy*, *Presence*, *In Through the Out Door* y *Coda*: secuencia y fecha cotejadas con la discografía oficial; las duraciones/créditos del archivo proceden principalmente de páginas de álbum de AllMusic y no se deben describir como verificados contra un LP/CD concreto.
 - Casos prioritarios de crédito: “Babe I’m Gonna Leave You”, “Dazed and Confused”, “Gallows Pole”, “Hats Off to (Roy) Harper”, “When the Levee Breaks”, “Nobody’s Fault but Mine”, “We’re Gonna Groove” y “I Can’t Quit You Baby”.
 
 ## Limitaciones y próximos controles
