@@ -28113,11 +28113,104 @@
       "source_url": "https://www.bobdylan.com/albums/?filter=studio",
       "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
     },
-    "tracks": [],
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Subterranean Homesick Blues",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 2,
+        "title": "She Belongs to Me",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 3,
+        "title": "Maggie's Farm",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 4,
+        "title": "Love Minus Zero/No Limit",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 5,
+        "title": "Outlaw Blues",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 6,
+        "title": "On the Road Again",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 7,
+        "title": "Bob Dylan's 115th Dream",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 8,
+        "title": "Mr. Tambourine Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 9,
+        "title": "Gates of Eden",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 10,
+        "title": "It's Alright, Ma (I'm Only Bleeding)",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 11,
+        "title": "It's All Over Now, Baby Blue",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      }
+    ],
     "sources": [
       {
-        "title": "Bob Dylan — discografía oficial, filtro de álbumes de estudio",
+        "title": "Discografía oficial de Bob Dylan",
         "url": "https://www.bobdylan.com/albums/?filter=studio"
+      },
+      {
+        "title": "Índice oficial de canciones",
+        "url": "https://www.bobdylan.com/songs/"
       }
     ],
     "verification_status": "needs_verification"
@@ -28141,11 +28234,88 @@
       "source_url": "https://www.bobdylan.com/albums/?filter=studio",
       "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
     },
-    "tracks": [],
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Like a Rolling Stone",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 2,
+        "title": "Tombstone Blues",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 3,
+        "title": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 4,
+        "title": "From a Buick 6",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 5,
+        "title": "Ballad of a Thin Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 6,
+        "title": "Queen Jane Approximately",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 7,
+        "title": "Highway 61 Revisited",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 8,
+        "title": "Just Like Tom Thumb's Blues",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 9,
+        "title": "Desolation Row",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      }
+    ],
     "sources": [
       {
-        "title": "Bob Dylan — discografía oficial, filtro de álbumes de estudio",
+        "title": "Discografía oficial de Bob Dylan",
         "url": "https://www.bobdylan.com/albums/?filter=studio"
+      },
+      {
+        "title": "Índice oficial de canciones",
+        "url": "https://www.bobdylan.com/songs/"
       }
     ],
     "verification_status": "needs_verification"
