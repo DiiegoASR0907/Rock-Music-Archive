@@ -327,5 +327,29 @@
       }
     ],
     "status": "starter_record"
+  },
+  {
+    "id": "lynyrd-skynyrd",
+    "name": "Lynyrd Skynyrd",
+    "country_of_origin": "Estados Unidos",
+    "formed_year": 1964,
+    "disbanded_year": null,
+    "genres": [
+      "southern rock",
+      "hard rock",
+      "blues rock"
+    ],
+    "official_website": "https://lynyrdskynyrd.com/",
+    "sources": [
+      {
+        "title": "Historia oficial de Lynyrd Skynyrd",
+        "url": "https://lynyrdskynyrd.com/history"
+      },
+      {
+        "title": "Discografía oficial de Lynyrd Skynyrd",
+        "url": "https://lynyrdskynyrd.com/music"
+      }
+    ],
+    "status": "starter_record"
   }
 ]
