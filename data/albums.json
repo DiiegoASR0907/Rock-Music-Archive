@@ -28714,7 +28714,56 @@
       "source_url": "https://www.bobdylan.com/albums/?filter=studio",
       "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
     },
-    "tracks": [],
+    "tracks": [
+      {
+        "position": 1,
+        "title": "All the Tired Horses",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      },
+      {
+        "position": 2,
+        "title": "Alberta #1",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      },
+      {
+        "position": 3,
+        "title": "I Forgot More Than You’ll Ever Know",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      },
+      {
+        "position": 4,
+        "title": "Days of ’49",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      },
+      {
+        "position": 5,
+        "title": "Early Mornin’ Rain",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      },
+      {
+        "position": 6,
+        "title": "In Search of Little Sadie",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      }
+    ],
     "sources": [
       {
         "title": "Bob Dylan — discografía oficial, filtro de álbumes de estudio",
