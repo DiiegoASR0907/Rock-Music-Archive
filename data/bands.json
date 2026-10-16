@@ -139,5 +139,29 @@
       }
     ],
     "status": "needs_verification"
+  },
+  {
+    "id": "the-kinks",
+    "name": "The Kinks",
+    "country_of_origin": "Reino Unido",
+    "formed_year": 1963,
+    "disbanded_year": 1996,
+    "genres": [
+      "British Invasion",
+      "rock",
+      "art rock"
+    ],
+    "official_website": "https://thekinks.info/",
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "The Kinks discography — cronología y ediciones",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
+      }
+    ],
+    "status": "needs_verification"
   }
 ]
