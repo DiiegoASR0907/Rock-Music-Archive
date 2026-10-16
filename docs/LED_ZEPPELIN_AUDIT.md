@@ -27,9 +27,26 @@ Se registra una edición original de referencia por álbum, con el mercado indic
 
 Las pistas adicionales de los discos complementarios de las ediciones deluxe de 2014–2015 no se mezclan con el orden original. Tampoco se incorporan álbumes en directo ni recopilatorios. En particular, `Coda` se conserva como álbum de estudio de archivo de ocho pistas, tal como fue publicado en 1982.
 
+## Resultados de la primera revisión de discrepancias
+
+### Duraciones: *Physical Graffiti*
+
+Se sustituyeron las 15 duraciones por las publicadas en la discografía de Jimmy Page, fuente primaria especialmente útil para este álbum. La fuente muestra, por ejemplo, “Kashmir” en 8:37 y “Ten Years Gone” en 6:34; algunas listas de prensajes antiguos presentan tiempos distintos, incluso errores impresos en la carátula. Cada pista del álbum apunta ahora a esa fuente de duración. [Discografía de Jimmy Page — Physical Graffiti](https://jimmypage.com/discography/led-zeppelin/physical-graffiti/).
+
+### Créditos y obras de origen revisados
+
+- **“The Lemon Song”**: se reemplazó Willie Dixon por Chester Arthur Burnett (Howlin’ Wolf) en la lista de compositores y se añadió una nota sobre su relación con “Killing Floor”.
+- **“You Shook Me”**: se eliminó J. B. Lenoir del crédito de composición y se dejó Willie Dixon.
+- **“Hats Off to (Roy) Harper”**: se normalizó Charles Obscure como seudónimo de Jimmy Page, manteniendo la referencia al material tradicional.
+- **“When the Levee Breaks”** y **“In My Time of Dying”**: se añadieron notas que distinguen los créditos de la versión de Led Zeppelin de las obras de blues/gospel de origen.
+- **“Boogie with Stu”**: se añadió Ritchie Valens como atribución que aparece en algunas bases de datos, dejando una nota explícita para confirmar el crédito legal contra la edición física.
+- **“Whole Lotta Love”** y **“Bring It On Home”**: se documentó la relación con las obras de blues de origen y se evita tratar todas las partes de un arreglo como si tuvieran necesariamente la misma atribución.
+
+La fuente oficial de Led Zeppelin diferencia las listas originales de los discos y las pistas extra de los discos complementarios de las ediciones deluxe; por ejemplo, *Physical Graffiti* mantiene 15 pistas en el álbum original y lista aparte siete mezclas/versiones adicionales. [Discografía oficial de Physical Graffiti](https://discography.ledzeppelin.com/pg).
+
 ## Limitaciones y próximos controles
 
-- Las duraciones publicadas pueden diferir por segundos entre prensajes, CD, remasterizaciones y fuentes de catálogo. El total calculado a partir de las duraciones individuales no debe tomarse como duración maestra universal.
+- Las duraciones publicadas pueden diferir entre prensajes, CD, remasterizaciones y fuentes de catálogo. En *Physical Graffiti* se priorizó la página de Jimmy Page para las duraciones; en los demás álbumes queda pendiente una comparación sistemática pista por pista con fuentes primarias o créditos de la edición física. El total calculado a partir de las duraciones individuales no debe tomarse como duración maestra universal.
 - Los créditos de composición de canciones adaptadas o basadas en material tradicional pueden aparecer de forma distinta según la fuente y la edición; deben revisarse con los créditos de la edición física si se requiere una auditoría editorial exhaustiva.
 - `verification_status: "verified"` indica que los campos requeridos tienen datos y referencias identificables; no implica que todas las ediciones históricas tengan idénticos tiempos o créditos.
 
