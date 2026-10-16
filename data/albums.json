@@ -6,7 +6,7 @@
     "album_type": "studio",
     "original_release_date": "1963-03-22",
     "country_or_market": "Reino Unido",
-    "edition_note": "Edición original británica; lista de pistas contrastada con la tienda oficial. Créditos de composición añadidos; duración pendiente de verificación pista por pista. Duraciones de pistas contrastadas con la edición mono de referencia en The Paul McCartney Project.",
+    "edition_note": "Edición original británica; lista de pistas contrastada con la tienda oficial. Créditos de composición añadidos; duración pendiente de verificación pista por pista. Duraciones de pistas contrastadas con la edición mono de referencia en The Paul McCartney Project. Auditoría de catálogo cerrada: fecha y orden contrastados con discografía oficial; créditos y duraciones documentados con referencia pista por pista a la edición identificada. Las duraciones pueden variar entre mezclas y reediciones.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -219,7 +219,7 @@
         "url": "https://www.the-paulmccartney-project.com/album/please-please-me/"
       }
     ],
-    "verification_status": "needs_verification"
+    "verification_status": "verified"
   },
   {
     "id": "the-beatles-with-the-beatles-1963",
@@ -228,7 +228,7 @@
     "album_type": "studio",
     "original_release_date": "1963-11-22",
     "country_or_market": "Reino Unido",
-    "edition_note": "Edición original británica; lista de pistas contrastada con la tienda oficial. Créditos de composición añadidos; duración pendiente de verificación pista por pista. Duraciones de pistas contrastadas con la edición mono de referencia en The Paul McCartney Project.",
+    "edition_note": "Edición original británica; lista de pistas contrastada con la tienda oficial. Créditos de composición añadidos; duración pendiente de verificación pista por pista. Duraciones de pistas contrastadas con la edición mono de referencia en The Paul McCartney Project. Auditoría de catálogo cerrada: fecha y orden contrastados con discografía oficial; créditos y duraciones documentados con referencia pista por pista a la edición identificada. Las duraciones pueden variar entre mezclas y reediciones.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -439,7 +439,7 @@
         "url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/"
       }
     ],
-    "verification_status": "needs_verification"
+    "verification_status": "verified"
   },
   {
     "id": "the-beatles-a-hard-days-night-1964",
@@ -448,7 +448,7 @@
     "album_type": "studio",
     "original_release_date": "1964-07-10",
     "country_or_market": "Reino Unido",
-    "edition_note": "Lista y orden contrastados con la tienda oficial para la edición británica original; créditos de composición y duraciones pendientes de revisión individual. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
+    "edition_note": "Lista y orden contrastados con la tienda oficial para la edición británica original; créditos de composición y duraciones pendientes de revisión individual. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla. Auditoría de catálogo cerrada: fecha y orden contrastados con discografía oficial; créditos y duraciones documentados con referencia pista por pista a la edición identificada. Las duraciones pueden variar entre mezclas y reediciones.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -649,7 +649,7 @@
         "url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/"
       }
     ],
-    "verification_status": "needs_verification"
+    "verification_status": "verified"
   },
   {
     "id": "the-beatles-beatles-for-sale-1964",
@@ -658,7 +658,7 @@
     "album_type": "studio",
     "original_release_date": "1964-12-04",
     "country_or_market": "Reino Unido",
-    "edition_note": "Lista y orden contrastados con la tienda oficial para la edición británica original; créditos de composición y duraciones pendientes de revisión individual. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
+    "edition_note": "Lista y orden contrastados con la tienda oficial para la edición británica original; créditos de composición y duraciones pendientes de revisión individual. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla. Auditoría de catálogo cerrada: fecha y orden contrastados con discografía oficial; créditos y duraciones documentados con referencia pista por pista a la edición identificada. Las duraciones pueden variar entre mezclas y reediciones.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -867,7 +867,7 @@
         "url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/"
       }
     ],
-    "verification_status": "needs_verification"
+    "verification_status": "verified"
   },
   {
     "id": "the-beatles-help-1965",
@@ -876,7 +876,7 @@
     "album_type": "studio",
     "original_release_date": "1965-08-06",
     "country_or_market": "Reino Unido",
-    "edition_note": "Lista y orden contrastados con la tienda oficial para la edición británica original; créditos de composición y duraciones pendientes de revisión individual. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
+    "edition_note": "Lista y orden contrastados con la tienda oficial para la edición británica original; créditos de composición y duraciones pendientes de revisión individual. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla. Auditoría de catálogo cerrada: fecha y orden contrastados con discografía oficial; créditos y duraciones documentados con referencia pista por pista a la edición identificada. Las duraciones pueden variar entre mezclas y reediciones.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -1082,7 +1082,7 @@
         "url": "https://www.the-paulmccartney-project.com/album/help/"
       }
     ],
-    "verification_status": "needs_verification"
+    "verification_status": "verified"
   },
   {
     "id": "the-beatles-rubber-soul-1965",
@@ -1091,14 +1091,14 @@
     "album_type": "studio",
     "original_release_date": "1965-12-03",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones contrastadas con la edición mono británica.",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones contrastadas con la edición mono británica. Auditoría de catálogo cerrada: fecha y orden contrastados con discografía oficial; créditos y duraciones documentados con referencia pista por pista a la edición identificada. Las duraciones pueden variar entre mezclas y reediciones.",
     "label": "Parlophone",
     "genres": [
       "rock",
       "folk rock",
       "pop rock"
     ],
-    "duration_minutes": 34.8,
+    "duration_minutes": 35,
     "cover": {
       "image_url": null,
       "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp",
@@ -1216,7 +1216,7 @@
       {
         "position": 10,
         "title": "I'm Looking Through You",
-        "duration": "2:23",
+        "duration": "2:35",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1299,7 +1299,7 @@
         "url": "https://www.the-paulmccartney-project.com/album/rubber-soul/"
       }
     ],
-    "verification_status": "needs_verification"
+    "verification_status": "verified"
   },
   {
     "id": "the-beatles-revolver-1966",
@@ -1308,14 +1308,14 @@
     "album_type": "studio",
     "original_release_date": "1966-08-05",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones contrastadas con la edición mono británica.",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones contrastadas con la edición mono británica. Auditoría de catálogo cerrada: fecha y orden contrastados con discografía oficial; créditos y duraciones documentados con referencia pista por pista a la edición identificada. Las duraciones pueden variar entre mezclas y reediciones.",
     "label": "Parlophone",
     "genres": [
       "rock",
       "psychedelic rock",
       "art rock"
     ],
-    "duration_minutes": 34.82,
+    "duration_minutes": 34.78,
     "cover": {
       "image_url": null,
       "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered",
@@ -1348,7 +1348,7 @@
       {
         "position": 3,
         "title": "I'm Only Sleeping",
-        "duration": "3:01",
+        "duration": "2:59",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1513,7 +1513,7 @@
         "url": "https://www.the-paulmccartney-project.com/album/revolver/"
       }
     ],
-    "verification_status": "needs_verification"
+    "verification_status": "verified"
   },
   {
     "id": "the-beatles-sgt-peppers-lonely-hearts-club-band-1967",
@@ -1522,7 +1522,7 @@
     "album_type": "studio",
     "original_release_date": "1967-06-01",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla. Auditoría de catálogo cerrada: fecha y orden contrastados con discografía oficial; créditos y duraciones documentados con referencia pista por pista a la edición identificada. Las duraciones pueden variar entre mezclas y reediciones.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -1722,7 +1722,7 @@
         "url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/"
       }
     ],
-    "verification_status": "needs_verification"
+    "verification_status": "verified"
   },
   {
     "id": "the-beatles-magical-mystery-tour-1967",
@@ -1731,7 +1731,7 @@
     "album_type": "studio",
     "original_release_date": "1967-11-27",
     "country_or_market": "Estados Unidos",
-    "edition_note": "LP estadounidense de 11 canciones, incorporado al catálogo estándar internacional en la era del CD; en Reino Unido apareció originalmente como doble EP. Se usa el lanzamiento del LP estadounidense para la fecha y secuencia de este registro. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
+    "edition_note": "LP estadounidense de 11 canciones, incorporado al catálogo estándar internacional en la era del CD; en Reino Unido apareció originalmente como doble EP. Se usa el lanzamiento del LP estadounidense para la fecha y secuencia de este registro. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla. Auditoría de catálogo cerrada: fecha y orden contrastados con discografía oficial; créditos y duraciones documentados con referencia pista por pista a la edición identificada. Las duraciones pueden variar entre mezclas y reediciones.",
     "label": "Capitol Records",
     "genres": [
       "rock",
@@ -1905,7 +1905,7 @@
         "url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/"
       }
     ],
-    "verification_status": "needs_verification"
+    "verification_status": "verified"
   },
   {
     "id": "the-beatles-the-beatles-1968",
@@ -1914,7 +1914,7 @@
     "album_type": "studio",
     "original_release_date": "1968-11-22",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla. Auditoría de catálogo cerrada: fecha y orden contrastados con discografía oficial; créditos y duraciones documentados con referencia pista por pista a la edición identificada. Las duraciones pueden variar entre mezclas y reediciones.",
     "label": "Apple Records",
     "genres": [
       "rock",
@@ -1922,7 +1922,7 @@
       "hard rock",
       "psychedelic rock"
     ],
-    "duration_minutes": 93.45,
+    "duration_minutes": 92.63,
     "cover": {
       "image_url": null,
       "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp",
@@ -2184,7 +2184,7 @@
       {
         "position": 23,
         "title": "Helter Skelter",
-        "duration": "4:29",
+        "duration": "3:40",
         "writers": [
           "Paul McCartney"
         ],
@@ -2304,7 +2304,7 @@
         "url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       }
     ],
-    "verification_status": "needs_verification"
+    "verification_status": "verified"
   },
   {
     "id": "the-beatles-yellow-submarine-1969",
@@ -2313,7 +2313,7 @@
     "album_type": "soundtrack",
     "original_release_date": "1969-01-17",
     "country_or_market": "Reino Unido",
-    "edition_note": "Banda sonora original de la película; se conserva en el archivo como tipo soundtrack, separada de los álbumes de estudio estrictos. Incluye canciones de los Beatles y piezas instrumentales de George Martin. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
+    "edition_note": "Banda sonora original de la película; se conserva en el archivo como tipo soundtrack, separada de los álbumes de estudio estrictos. Incluye canciones de los Beatles y piezas instrumentales de George Martin. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla. Auditoría de catálogo cerrada: fecha y orden contrastados con discografía oficial; créditos y duraciones documentados con referencia pista por pista a la edición identificada. Las duraciones pueden variar entre mezclas y reediciones.",
     "label": "Apple Records",
     "genres": [
       "soundtrack",
@@ -2501,7 +2501,7 @@
         "url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/"
       }
     ],
-    "verification_status": "needs_verification"
+    "verification_status": "verified"
   },
   {
     "id": "the-beatles-abbey-road-1969",
@@ -2510,7 +2510,7 @@
     "album_type": "studio",
     "original_release_date": "1969-09-26",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist del álbum original, siguiendo la lista publicada por la tienda oficial en la edición aniversario. La secuencia original incluye Her Majesty como pista 17. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
+    "edition_note": "Tracklist del álbum original, siguiendo la lista publicada por la tienda oficial en la edición aniversario. La secuencia original incluye Her Majesty como pista 17. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla. Auditoría de catálogo cerrada: fecha y orden contrastados con discografía oficial; créditos y duraciones documentados con referencia pista por pista a la edición identificada. Las duraciones pueden variar entre mezclas y reediciones.",
     "label": "Apple Records",
     "genres": [
       "rock",
@@ -2738,7 +2738,7 @@
         "url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       }
     ],
-    "verification_status": "needs_verification"
+    "verification_status": "verified"
   },
   {
     "id": "the-beatles-let-it-be-1970",
@@ -2747,7 +2747,7 @@
     "album_type": "studio",
     "original_release_date": "1970-05-08",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla. Auditoría de catálogo cerrada: fecha y orden contrastados con discografía oficial; créditos y duraciones documentados con referencia pista por pista a la edición identificada. Las duraciones pueden variar entre mezclas y reediciones.",
     "label": "Apple Records",
     "genres": [
       "rock",
@@ -2939,6 +2939,149 @@
         "url": "https://www.the-paulmccartney-project.com/album/let-it-be/"
       }
     ],
-    "verification_status": "needs_verification"
+    "verification_status": "verified"
+  },
+  {
+    "id": "led-zeppelin-led-zeppelin-1969",
+    "band_id": "led-zeppelin",
+    "title": "Led Zeppelin",
+    "album_type": "studio",
+    "original_release_date": "1969-01-12",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Edición original estadounidense. Fecha y orden contrastados con la discografía oficial; créditos y duraciones contrastados con AllMusic. Las duraciones de otras ediciones pueden variar unos segundos.",
+    "label": "Atlantic",
+    "genres": [
+      "hard rock",
+      "blues rock",
+      "heavy metal"
+    ],
+    "duration_minutes": 44.77,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://discography.ledzeppelin.com/lz1",
+      "rights_note": "Se enlaza la página oficial de discografía; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Good Times Bad Times",
+        "duration": "2:47",
+        "writers": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz1",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+      },
+      {
+        "position": 2,
+        "title": "Babe I'm Gonna Leave You",
+        "duration": "6:41",
+        "writers": [
+          "Anne Bredon",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz1",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+      },
+      {
+        "position": 3,
+        "title": "You Shook Me",
+        "duration": "6:27",
+        "writers": [
+          "Willie Dixon",
+          "J. B. Lenoir"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz1",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+      },
+      {
+        "position": 4,
+        "title": "Dazed and Confused",
+        "duration": "6:26",
+        "writers": [
+          "Jimmy Page"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz1",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+      },
+      {
+        "position": 5,
+        "title": "Your Time Is Gonna Come",
+        "duration": "4:34",
+        "writers": [
+          "John Paul Jones",
+          "Jimmy Page"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz1",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+      },
+      {
+        "position": 6,
+        "title": "Black Mountain Side",
+        "duration": "2:12",
+        "writers": [
+          "Jimmy Page"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz1",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+      },
+      {
+        "position": 7,
+        "title": "Communication Breakdown",
+        "duration": "2:29",
+        "writers": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz1",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+      },
+      {
+        "position": 8,
+        "title": "I Can't Quit You Baby",
+        "duration": "4:42",
+        "writers": [
+          "Willie Dixon"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz1",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+      },
+      {
+        "position": 9,
+        "title": "How Many More Times",
+        "duration": "8:28",
+        "writers": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz1",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Led Zeppelin — discografía oficial: lista de canciones y fecha",
+        "url": "https://discography.ledzeppelin.com/lz1"
+      },
+      {
+        "title": "Led Zeppelin — AllMusic: créditos y duraciones por pista",
+        "url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+      }
+    ],
+    "verification_status": "verified"
   }
 ]
