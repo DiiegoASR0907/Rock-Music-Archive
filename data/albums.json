@@ -3414,14 +3414,14 @@
     "album_type": "studio",
     "original_release_date": "1971-11-08",
     "country_or_market": "Estados Unidos",
-    "edition_note": "Edición original del álbum, secuencia original de 8 pistas; no incluye el material adicional de las reediciones deluxe. Fecha y orden contrastados con la discografía oficial de Led Zeppelin; compositores y duraciones contrastados con AllMusic. Las duraciones pueden variar ligeramente según edición y remasterización. Nota de auditoría: las duraciones y los créditos son referencias secundarias de catálogo (AllMusic u otra fuente indicada por pista), no una transcripción cotejada contra un ejemplar físico identificado del LP original; las diferencias por edición y los créditos históricos discutidos siguen abiertos.",
+    "edition_note": "Secuencia original estadounidense de 8 pistas; referencia de créditos y duraciones: notas reproducidas de la edición remasterizada de Atlantic de 1994, que identifican el lanzamiento original como Atlantic 7208 (8 de noviembre de 1971). Las duraciones pueden variar entre ediciones. Esta revisión transcribe lo impreso en la edición de referencia; no resuelve por sí sola diferencias históricas o editoriales.",
     "label": "Swan Song",
     "genres": [
       "hard rock",
       "blues rock",
       "heavy metal"
     ],
-    "duration_minutes": 42.55,
+    "duration_minutes": 42.46666666666667,
     "cover": {
       "image_url": null,
       "source_url": "https://discography.ledzeppelin.com/lz4",
@@ -3431,15 +3431,15 @@
       {
         "position": 1,
         "title": "Black Dog",
-        "duration": "4:57",
+        "duration": "4:54",
         "writers": [
           "John Paul Jones",
           "Jimmy Page",
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz4",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_IV.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_IV.html"
       },
       {
         "position": 2,
@@ -3452,20 +3452,20 @@
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz4",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_IV.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_IV.html"
       },
       {
         "position": 3,
         "title": "The Battle of Evermore",
-        "duration": "5:52",
+        "duration": "5:51",
         "writers": [
           "Jimmy Page",
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz4",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_IV.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_IV.html"
       },
       {
         "position": 4,
@@ -3476,8 +3476,8 @@
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz4",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_IV.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_IV.html"
       },
       {
         "position": 5,
@@ -3489,8 +3489,8 @@
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz4",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_IV.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_IV.html"
       },
       {
         "position": 6,
@@ -3501,8 +3501,8 @@
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz4",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_IV.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_IV.html"
       },
       {
         "position": 7,
@@ -3513,33 +3513,37 @@
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz4",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_IV.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_IV.html"
       },
       {
         "position": 8,
         "title": "When the Levee Breaks",
-        "duration": "7:08",
+        "duration": "7:07",
         "writers": [
-          "John Bonham",
-          "John Paul Jones",
-          "Memphis Minnie",
           "Jimmy Page",
-          "Robert Plant"
+          "Robert Plant",
+          "John Paul Jones",
+          "John Bonham",
+          "Memphis Minnie"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz4",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736",
-        "writer_source_url": "https://www.shazam.com/song/580708184/when-the-levee-breaks",
-        "credit_note": "Reelaboración del blues de Kansas Joe McCoy y Memphis Minnie. El campo writers refleja los créditos de la versión de Led Zeppelin; Kansas Joe McCoy se documenta aquí como autor de la obra de origen, no como crédito principal de la versión."
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_IV.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_IV.html",
+        "credit_note": "Las notas de la edición de referencia acreditan a Jimmy Page, Robert Plant, John Paul Jones, John Bonham y Memphis Minnie. La canción reelabora el blues de 1929 asociado a Memphis Minnie y Kansas Joe McCoy; distinguir el crédito impreso para la versión de Led Zeppelin de la autoría de la obra de origen y de posibles diferencias entre ediciones."
       }
     ],
     "sources": [
       {
-        "title": "Led Zeppelin IV — discografía oficial de Led Zeppelin: fecha y lista original",
+        "title": "Led Zeppelin IV — discografía oficial: fecha, secuencia y material extra separado",
         "url": "https://discography.ledzeppelin.com/lz4"
       },
       {
-        "title": "Led Zeppelin IV — AllMusic: compositores y duraciones por pista",
+        "title": "Led Zeppelin IV — notas de la edición remasterizada de Atlantic de 1994: créditos y duraciones",
+        "url": "https://albumlinernotes.com/Led_Zeppelin_IV.html"
+      },
+      {
+        "title": "Led Zeppelin IV — AllMusic: fuente secundaria de contraste",
         "url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
       }
     ],
