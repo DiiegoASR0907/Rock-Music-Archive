@@ -3938,7 +3938,7 @@
     "album_type": "studio",
     "original_release_date": "1976-03-31",
     "country_or_market": "Estados Unidos",
-    "edition_note": "Edición original del álbum, secuencia original de 7 pistas; no incluye el material adicional de las reediciones deluxe. Fecha y orden contrastados con la discografía oficial de Led Zeppelin; compositores y duraciones contrastados con AllMusic. Las duraciones pueden variar ligeramente según edición y remasterización. Nota de auditoría: las duraciones y los créditos son referencias secundarias de catálogo (AllMusic u otra fuente indicada por pista), no una transcripción cotejada contra un ejemplar físico identificado del LP original; las diferencias por edición y los créditos históricos discutidos siguen abiertos.",
+    "edition_note": "Edición original estadounidense de siete pistas, en la secuencia del LP de 1976; no incluye las cinco pistas del disco complementario de la edición deluxe de 2015. La secuencia y la fecha se contrastan con la discografía oficial; los créditos se contrastan con AllMusic y se enlazan a las notas reproducidas de una edición de referencia para su revisión. Las duraciones existentes se dejan intactas, tal como se acordó; las diferencias de segundos entre fuentes y ediciones siguen documentadas como variantes, no como errores resueltos.",
     "label": "Swan Song",
     "genres": [
       "hard rock",
@@ -3962,7 +3962,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pres",
         "duration_source_url": "https://www.allmusic.com/album/presence-mw0000194594",
-        "writer_source_url": "https://www.allmusic.com/album/presence-mw0000194594"
+        "writer_source_url": "https://albumlinernotes.com/Presence.html",
+        "credit_note": "Se conserva el crédito de Jimmy Page y Robert Plant tal como lo presentan las fuentes de catálogo para la canción original. No se detecta en esta pasada una adaptación declarada de una obra anterior; cualquier semejanza musical no se convierte por sí sola en crédito de composición."
       },
       {
         "position": 2,
@@ -3974,7 +3975,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pres",
         "duration_source_url": "https://www.allmusic.com/album/presence-mw0000194594",
-        "writer_source_url": "https://www.allmusic.com/album/presence-mw0000194594"
+        "writer_source_url": "https://albumlinernotes.com/Presence.html",
+        "credit_note": "Crédito de composición de Page y Plant según la referencia de la edición. No se ha identificado en las fuentes consultadas una obra anterior acreditada como fuente; queda pendiente la comprobación directa de los créditos impresos del LP."
       },
       {
         "position": 3,
@@ -3988,7 +3990,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pres",
         "duration_source_url": "https://www.allmusic.com/album/presence-mw0000194594",
-        "writer_source_url": "https://www.allmusic.com/album/presence-mw0000194594"
+        "writer_source_url": "https://albumlinernotes.com/Presence.html",
+        "credit_note": "La edición de catálogo acredita a John Bonham, John Paul Jones, Jimmy Page y Robert Plant. La anécdota asociada al título y la letra se refiere a una experiencia en Nueva Orleans; no equivale a una adaptación de una canción anterior."
       },
       {
         "position": 4,
@@ -4000,7 +4003,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pres",
         "duration_source_url": "https://www.allmusic.com/album/presence-mw0000194594",
-        "writer_source_url": "https://www.allmusic.com/album/presence-mw0000194594"
+        "writer_source_url": "https://albumlinernotes.com/Presence.html",
+        "credit_note": "La versión de Led Zeppelin se acredita a Jimmy Page y Robert Plant en las fuentes de catálogo consultadas. Existe una canción anterior del mismo título grabada por Blind Willie Johnson en 1927; la relación musical e histórica debe distinguirse del crédito editorial impreso para la versión de Zeppelin. Esta pasada no resuelve por sí sola la atribución legal o de dominio público."
       },
       {
         "position": 5,
@@ -4012,7 +4016,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pres",
         "duration_source_url": "https://www.allmusic.com/album/presence-mw0000194594",
-        "writer_source_url": "https://www.allmusic.com/album/presence-mw0000194594"
+        "writer_source_url": "https://albumlinernotes.com/Presence.html",
+        "credit_note": "Crédito de Page y Plant según la referencia de catálogo. Su estilo evoca rockabilly y rock and roll temprano, pero no se añade un compositor externo sin una fuente editorial que lo acredite."
       },
       {
         "position": 6,
@@ -4024,7 +4029,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pres",
         "duration_source_url": "https://www.allmusic.com/album/presence-mw0000194594",
-        "writer_source_url": "https://www.allmusic.com/album/presence-mw0000194594"
+        "writer_source_url": "https://albumlinernotes.com/Presence.html",
+        "credit_note": "Crédito de Page y Plant según la referencia de catálogo. No se ha identificado una adaptación declarada de material anterior en las fuentes consultadas."
       },
       {
         "position": 7,
@@ -4036,17 +4042,26 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pres",
         "duration_source_url": "https://www.allmusic.com/album/presence-mw0000194594",
-        "writer_source_url": "https://www.allmusic.com/album/presence-mw0000194594"
+        "writer_source_url": "https://albumlinernotes.com/Presence.html",
+        "credit_note": "Crédito de Page y Plant según la referencia de catálogo. La canción suele compararse musicalmente con “Since I've Been Loving You”, pero esa semejanza no demuestra que sea una adaptación ni modifica por sí misma los créditos."
       }
     ],
     "sources": [
       {
-        "title": "Presence — discografía oficial de Led Zeppelin: fecha y lista original",
+        "title": "Presence — discografía oficial de Led Zeppelin: fecha y secuencia original",
         "url": "https://discography.ledzeppelin.com/pres"
       },
       {
-        "title": "Presence — AllMusic: compositores y duraciones por pista",
-        "url": "https://www.allmusic.com/album/presence-mw0000194594"
+        "title": "Presence — notas reproducidas de la edición del álbum",
+        "url": "https://albumlinernotes.com/Presence.html"
+      },
+      {
+        "title": "Presence — AllMusic: créditos y contraste de duraciones",
+        "url": "https://www.allmusic.com/album/release/presence-mr0004424648"
+      },
+      {
+        "title": "Presence — Qobuz: créditos de escritores y tiempos de la remasterización",
+        "url": "https://www.qobuz.com/us-en/album/presence-led-zeppelin/0603497887071"
       }
     ],
     "verification_status": "verified"
