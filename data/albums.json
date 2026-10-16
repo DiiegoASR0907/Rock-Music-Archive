@@ -3083,5 +3083,1185 @@
       }
     ],
     "verification_status": "verified"
+  },
+  {
+    "id": "led-zeppelin-led-zeppelin-ii-1969",
+    "band_id": "led-zeppelin",
+    "title": "Led Zeppelin II",
+    "album_type": "studio",
+    "original_release_date": "1969-10-22",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Edición original del álbum, secuencia original de 9 pistas; no incluye el material adicional de las reediciones deluxe. Fecha y orden contrastados con la discografía oficial de Led Zeppelin; compositores y duraciones contrastados con AllMusic. Las duraciones pueden variar ligeramente según edición y remasterización.",
+    "label": "Swan Song",
+    "genres": [
+      "hard rock",
+      "blues rock",
+      "heavy metal"
+    ],
+    "duration_minutes": 41.67,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://discography.ledzeppelin.com/lz2",
+      "rights_note": "Se enlaza la página oficial de discografía; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Whole Lotta Love",
+        "duration": "5:35",
+        "writers": [
+          "John Bonham",
+          "Willie Dixon",
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz2",
+        "duration_source_url": "https://www.allmusic.com/album/r11460",
+        "writer_source_url": "https://www.allmusic.com/album/r11460"
+      },
+      {
+        "position": 2,
+        "title": "What Is and What Should Never Be",
+        "duration": "4:45",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz2",
+        "duration_source_url": "https://www.allmusic.com/album/r11460",
+        "writer_source_url": "https://www.allmusic.com/album/r11460"
+      },
+      {
+        "position": 3,
+        "title": "The Lemon Song",
+        "duration": "6:19",
+        "writers": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz2",
+        "duration_source_url": "https://www.allmusic.com/album/r11460",
+        "writer_source_url": "https://www.allmusic.com/album/r11460"
+      },
+      {
+        "position": 4,
+        "title": "Thank You",
+        "duration": "4:49",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz2",
+        "duration_source_url": "https://www.allmusic.com/album/r11460",
+        "writer_source_url": "https://www.allmusic.com/album/r11460"
+      },
+      {
+        "position": 5,
+        "title": "Heartbreaker",
+        "duration": "4:14",
+        "writers": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz2",
+        "duration_source_url": "https://www.allmusic.com/album/r11460",
+        "writer_source_url": "https://www.allmusic.com/album/r11460"
+      },
+      {
+        "position": 6,
+        "title": "Living Loving Maid (She's Just a Woman)",
+        "duration": "2:39",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz2",
+        "duration_source_url": "https://www.allmusic.com/album/r11460",
+        "writer_source_url": "https://www.allmusic.com/album/r11460"
+      },
+      {
+        "position": 7,
+        "title": "Ramble On",
+        "duration": "4:34",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz2",
+        "duration_source_url": "https://www.allmusic.com/album/r11460",
+        "writer_source_url": "https://www.allmusic.com/album/r11460"
+      },
+      {
+        "position": 8,
+        "title": "Moby Dick",
+        "duration": "4:25",
+        "writers": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz2",
+        "duration_source_url": "https://www.allmusic.com/album/r11460",
+        "writer_source_url": "https://www.allmusic.com/album/r11460"
+      },
+      {
+        "position": 9,
+        "title": "Bring It On Home",
+        "duration": "4:20",
+        "writers": [
+          "John Bonham",
+          "Willie Dixon",
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz2",
+        "duration_source_url": "https://www.allmusic.com/album/r11460",
+        "writer_source_url": "https://www.allmusic.com/album/r11460"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Led Zeppelin II — discografía oficial de Led Zeppelin: fecha y lista original",
+        "url": "https://discography.ledzeppelin.com/lz2"
+      },
+      {
+        "title": "Led Zeppelin II — AllMusic: compositores y duraciones por pista",
+        "url": "https://www.allmusic.com/album/r11460"
+      }
+    ],
+    "verification_status": "verified"
+  },
+  {
+    "id": "led-zeppelin-led-zeppelin-iii-1970",
+    "band_id": "led-zeppelin",
+    "title": "Led Zeppelin III",
+    "album_type": "studio",
+    "original_release_date": "1970-10-05",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Edición original del álbum, secuencia original de 10 pistas; no incluye el material adicional de las reediciones deluxe. Fecha y orden contrastados con la discografía oficial de Led Zeppelin; compositores y duraciones contrastados con AllMusic. Las duraciones pueden variar ligeramente según edición y remasterización.",
+    "label": "Swan Song",
+    "genres": [
+      "hard rock",
+      "blues rock",
+      "heavy metal"
+    ],
+    "duration_minutes": 42.97,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://discography.ledzeppelin.com/lz3",
+      "rights_note": "Se enlaza la página oficial de discografía; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Immigrant Song",
+        "duration": "2:25",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz3",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+      },
+      {
+        "position": 2,
+        "title": "Friends",
+        "duration": "3:54",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz3",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+      },
+      {
+        "position": 3,
+        "title": "Celebration Day",
+        "duration": "3:29",
+        "writers": [
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz3",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+      },
+      {
+        "position": 4,
+        "title": "Since I've Been Loving You",
+        "duration": "7:23",
+        "writers": [
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz3",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+      },
+      {
+        "position": 5,
+        "title": "Out on the Tiles",
+        "duration": "4:06",
+        "writers": [
+          "John Bonham",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz3",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+      },
+      {
+        "position": 6,
+        "title": "Gallows Pole",
+        "duration": "4:56",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant",
+          "Traditional"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz3",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+      },
+      {
+        "position": 7,
+        "title": "Tangerine",
+        "duration": "3:10",
+        "writers": [
+          "Jimmy Page"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz3",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+      },
+      {
+        "position": 8,
+        "title": "That's the Way",
+        "duration": "5:37",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz3",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+      },
+      {
+        "position": 9,
+        "title": "Bron-Y-Aur Stomp",
+        "duration": "4:16",
+        "writers": [
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz3",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+      },
+      {
+        "position": 10,
+        "title": "Hats Off to (Roy) Harper",
+        "duration": "3:42",
+        "writers": [
+          "Charles Obscure",
+          "Traditional"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz3",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Led Zeppelin III — discografía oficial de Led Zeppelin: fecha y lista original",
+        "url": "https://discography.ledzeppelin.com/lz3"
+      },
+      {
+        "title": "Led Zeppelin III — AllMusic: compositores y duraciones por pista",
+        "url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+      }
+    ],
+    "verification_status": "verified"
+  },
+  {
+    "id": "led-zeppelin-led-zeppelin-iv-1971",
+    "band_id": "led-zeppelin",
+    "title": "Led Zeppelin IV",
+    "album_type": "studio",
+    "original_release_date": "1971-11-08",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Edición original del álbum, secuencia original de 8 pistas; no incluye el material adicional de las reediciones deluxe. Fecha y orden contrastados con la discografía oficial de Led Zeppelin; compositores y duraciones contrastados con AllMusic. Las duraciones pueden variar ligeramente según edición y remasterización.",
+    "label": "Swan Song",
+    "genres": [
+      "hard rock",
+      "blues rock",
+      "heavy metal"
+    ],
+    "duration_minutes": 42.55,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://discography.ledzeppelin.com/lz4",
+      "rights_note": "Se enlaza la página oficial de discografía; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Black Dog",
+        "duration": "4:57",
+        "writers": [
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz4",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
+      },
+      {
+        "position": 2,
+        "title": "Rock and Roll",
+        "duration": "3:40",
+        "writers": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz4",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
+      },
+      {
+        "position": 3,
+        "title": "The Battle of Evermore",
+        "duration": "5:52",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz4",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
+      },
+      {
+        "position": 4,
+        "title": "Stairway to Heaven",
+        "duration": "8:02",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz4",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
+      },
+      {
+        "position": 5,
+        "title": "Misty Mountain Hop",
+        "duration": "4:38",
+        "writers": [
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz4",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
+      },
+      {
+        "position": 6,
+        "title": "Four Sticks",
+        "duration": "4:45",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz4",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
+      },
+      {
+        "position": 7,
+        "title": "Going to California",
+        "duration": "3:31",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz4",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
+      },
+      {
+        "position": 8,
+        "title": "When the Levee Breaks",
+        "duration": "7:08",
+        "writers": [
+          "John Bonham",
+          "John Paul Jones",
+          "Memphis Minnie",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/lz4",
+        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736",
+        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Led Zeppelin IV — discografía oficial de Led Zeppelin: fecha y lista original",
+        "url": "https://discography.ledzeppelin.com/lz4"
+      },
+      {
+        "title": "Led Zeppelin IV — AllMusic: compositores y duraciones por pista",
+        "url": "https://www.allmusic.com/album/led-zeppelin-iv-mw0000190736"
+      }
+    ],
+    "verification_status": "verified"
+  },
+  {
+    "id": "led-zeppelin-houses-of-the-holy-1973",
+    "band_id": "led-zeppelin",
+    "title": "Houses of the Holy",
+    "album_type": "studio",
+    "original_release_date": "1973-03-28",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Edición original del álbum, secuencia original de 8 pistas; no incluye el material adicional de las reediciones deluxe. Fecha y orden contrastados con la discografía oficial de Led Zeppelin; compositores y duraciones contrastados con AllMusic. Las duraciones pueden variar ligeramente según edición y remasterización.",
+    "label": "Swan Song",
+    "genres": [
+      "hard rock",
+      "blues rock",
+      "heavy metal"
+    ],
+    "duration_minutes": 40.87,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://discography.ledzeppelin.com/hoth",
+      "rights_note": "Se enlaza la página oficial de discografía; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "The Song Remains the Same",
+        "duration": "5:30",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/hoth",
+        "duration_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648",
+        "writer_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+      },
+      {
+        "position": 2,
+        "title": "The Rain Song",
+        "duration": "7:39",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/hoth",
+        "duration_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648",
+        "writer_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+      },
+      {
+        "position": 3,
+        "title": "Over the Hills and Far Away",
+        "duration": "4:50",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/hoth",
+        "duration_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648",
+        "writer_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+      },
+      {
+        "position": 4,
+        "title": "The Crunge",
+        "duration": "3:17",
+        "writers": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/hoth",
+        "duration_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648",
+        "writer_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+      },
+      {
+        "position": 5,
+        "title": "Dancing Days",
+        "duration": "3:43",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/hoth",
+        "duration_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648",
+        "writer_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+      },
+      {
+        "position": 6,
+        "title": "D'yer Mak'er",
+        "duration": "4:22",
+        "writers": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/hoth",
+        "duration_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648",
+        "writer_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+      },
+      {
+        "position": 7,
+        "title": "No Quarter",
+        "duration": "7:00",
+        "writers": [
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/hoth",
+        "duration_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648",
+        "writer_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+      },
+      {
+        "position": 8,
+        "title": "The Ocean",
+        "duration": "4:31",
+        "writers": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/hoth",
+        "duration_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648",
+        "writer_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Houses of the Holy — discografía oficial de Led Zeppelin: fecha y lista original",
+        "url": "https://discography.ledzeppelin.com/hoth"
+      },
+      {
+        "title": "Houses of the Holy — AllMusic: compositores y duraciones por pista",
+        "url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+      }
+    ],
+    "verification_status": "verified"
+  },
+  {
+    "id": "led-zeppelin-physical-graffiti-1975",
+    "band_id": "led-zeppelin",
+    "title": "Physical Graffiti",
+    "album_type": "studio",
+    "original_release_date": "1975-02-24",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Edición original del álbum, secuencia original de 15 pistas; no incluye el material adicional de las reediciones deluxe. Fecha y orden contrastados con la discografía oficial de Led Zeppelin; compositores y duraciones contrastados con AllMusic. Las duraciones pueden variar ligeramente según edición y remasterización.",
+    "label": "Swan Song",
+    "genres": [
+      "hard rock",
+      "blues rock",
+      "heavy metal"
+    ],
+    "duration_minutes": 82.65,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://discography.ledzeppelin.com/pg",
+      "rights_note": "Se enlaza la página oficial de discografía; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Custard Pie",
+        "duration": "4:14",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pg",
+        "duration_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623",
+        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+      },
+      {
+        "position": 2,
+        "title": "The Rover",
+        "duration": "5:37",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pg",
+        "duration_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623",
+        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+      },
+      {
+        "position": 3,
+        "title": "In My Time of Dying",
+        "duration": "11:06",
+        "writers": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pg",
+        "duration_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623",
+        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+      },
+      {
+        "position": 4,
+        "title": "Houses of the Holy",
+        "duration": "4:02",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pg",
+        "duration_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623",
+        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+      },
+      {
+        "position": 5,
+        "title": "Trampled Under Foot",
+        "duration": "5:35",
+        "writers": [
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pg",
+        "duration_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623",
+        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+      },
+      {
+        "position": 6,
+        "title": "Kashmir",
+        "duration": "8:28",
+        "writers": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pg",
+        "duration_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623",
+        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+      },
+      {
+        "position": 7,
+        "title": "In the Light",
+        "duration": "8:47",
+        "writers": [
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pg",
+        "duration_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623",
+        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+      },
+      {
+        "position": 8,
+        "title": "Bron-Yr-Aur",
+        "duration": "2:07",
+        "writers": [
+          "Jimmy Page"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pg",
+        "duration_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623",
+        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+      },
+      {
+        "position": 9,
+        "title": "Down by the Seaside",
+        "duration": "5:16",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pg",
+        "duration_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623",
+        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+      },
+      {
+        "position": 10,
+        "title": "Ten Years Gone",
+        "duration": "6:31",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pg",
+        "duration_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623",
+        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+      },
+      {
+        "position": 11,
+        "title": "Night Flight",
+        "duration": "3:37",
+        "writers": [
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pg",
+        "duration_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623",
+        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+      },
+      {
+        "position": 12,
+        "title": "The Wanton Song",
+        "duration": "4:10",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pg",
+        "duration_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623",
+        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+      },
+      {
+        "position": 13,
+        "title": "Boogie with Stu",
+        "duration": "3:53",
+        "writers": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant",
+          "Ian Stewart"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pg",
+        "duration_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623",
+        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+      },
+      {
+        "position": 14,
+        "title": "Black Country Woman",
+        "duration": "4:33",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pg",
+        "duration_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623",
+        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+      },
+      {
+        "position": 15,
+        "title": "Sick Again",
+        "duration": "4:43",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pg",
+        "duration_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623",
+        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Physical Graffiti — discografía oficial de Led Zeppelin: fecha y lista original",
+        "url": "https://discography.ledzeppelin.com/pg"
+      },
+      {
+        "title": "Physical Graffiti — AllMusic: compositores y duraciones por pista",
+        "url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+      }
+    ],
+    "verification_status": "verified"
+  },
+  {
+    "id": "led-zeppelin-presence-1976",
+    "band_id": "led-zeppelin",
+    "title": "Presence",
+    "album_type": "studio",
+    "original_release_date": "1976-03-31",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Edición original del álbum, secuencia original de 7 pistas; no incluye el material adicional de las reediciones deluxe. Fecha y orden contrastados con la discografía oficial de Led Zeppelin; compositores y duraciones contrastados con AllMusic. Las duraciones pueden variar ligeramente según edición y remasterización.",
+    "label": "Swan Song",
+    "genres": [
+      "hard rock",
+      "blues rock",
+      "heavy metal"
+    ],
+    "duration_minutes": 44.77,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://discography.ledzeppelin.com/pres",
+      "rights_note": "Se enlaza la página oficial de discografía; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Achilles Last Stand",
+        "duration": "10:31",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pres",
+        "duration_source_url": "https://www.allmusic.com/album/presence-mw0000194594",
+        "writer_source_url": "https://www.allmusic.com/album/presence-mw0000194594"
+      },
+      {
+        "position": 2,
+        "title": "For Your Life",
+        "duration": "6:25",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pres",
+        "duration_source_url": "https://www.allmusic.com/album/presence-mw0000194594",
+        "writer_source_url": "https://www.allmusic.com/album/presence-mw0000194594"
+      },
+      {
+        "position": 3,
+        "title": "Royal Orleans",
+        "duration": "2:59",
+        "writers": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pres",
+        "duration_source_url": "https://www.allmusic.com/album/presence-mw0000194594",
+        "writer_source_url": "https://www.allmusic.com/album/presence-mw0000194594"
+      },
+      {
+        "position": 4,
+        "title": "Nobody's Fault but Mine",
+        "duration": "6:28",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pres",
+        "duration_source_url": "https://www.allmusic.com/album/presence-mw0000194594",
+        "writer_source_url": "https://www.allmusic.com/album/presence-mw0000194594"
+      },
+      {
+        "position": 5,
+        "title": "Candy Store Rock",
+        "duration": "4:11",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pres",
+        "duration_source_url": "https://www.allmusic.com/album/presence-mw0000194594",
+        "writer_source_url": "https://www.allmusic.com/album/presence-mw0000194594"
+      },
+      {
+        "position": 6,
+        "title": "Hots on for Nowhere",
+        "duration": "4:44",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pres",
+        "duration_source_url": "https://www.allmusic.com/album/presence-mw0000194594",
+        "writer_source_url": "https://www.allmusic.com/album/presence-mw0000194594"
+      },
+      {
+        "position": 7,
+        "title": "Tea for One",
+        "duration": "9:28",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/pres",
+        "duration_source_url": "https://www.allmusic.com/album/presence-mw0000194594",
+        "writer_source_url": "https://www.allmusic.com/album/presence-mw0000194594"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Presence — discografía oficial de Led Zeppelin: fecha y lista original",
+        "url": "https://discography.ledzeppelin.com/pres"
+      },
+      {
+        "title": "Presence — AllMusic: compositores y duraciones por pista",
+        "url": "https://www.allmusic.com/album/presence-mw0000194594"
+      }
+    ],
+    "verification_status": "verified"
+  },
+  {
+    "id": "led-zeppelin-in-through-the-out-door-1979",
+    "band_id": "led-zeppelin",
+    "title": "In Through the Out Door",
+    "album_type": "studio",
+    "original_release_date": "1979-08-15",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Edición original del álbum, secuencia original de 7 pistas; no incluye el material adicional de las reediciones deluxe. Fecha y orden contrastados con la discografía oficial de Led Zeppelin; compositores y duraciones contrastados con AllMusic. Las duraciones pueden variar ligeramente según edición y remasterización.",
+    "label": "Swan Song",
+    "genres": [
+      "hard rock",
+      "blues rock",
+      "heavy metal"
+    ],
+    "duration_minutes": 42.55,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://discography.ledzeppelin.com/ittod",
+      "rights_note": "Se enlaza la página oficial de discografía; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "In the Evening",
+        "duration": "6:50",
+        "writers": [
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/ittod",
+        "duration_source_url": "https://www.allmusic.com/album/in-through-the-out-door-mw0000650404",
+        "writer_source_url": "https://www.allmusic.com/album/in-through-the-out-door-mw0000650404"
+      },
+      {
+        "position": 2,
+        "title": "South Bound Saurez",
+        "duration": "4:14",
+        "writers": [
+          "John Paul Jones",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/ittod",
+        "duration_source_url": "https://www.allmusic.com/album/in-through-the-out-door-mw0000650404",
+        "writer_source_url": "https://www.allmusic.com/album/in-through-the-out-door-mw0000650404"
+      },
+      {
+        "position": 3,
+        "title": "Fool in the Rain",
+        "duration": "6:12",
+        "writers": [
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/ittod",
+        "duration_source_url": "https://www.allmusic.com/album/in-through-the-out-door-mw0000650404",
+        "writer_source_url": "https://www.allmusic.com/album/in-through-the-out-door-mw0000650404"
+      },
+      {
+        "position": 4,
+        "title": "Hot Dog",
+        "duration": "3:17",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/ittod",
+        "duration_source_url": "https://www.allmusic.com/album/in-through-the-out-door-mw0000650404",
+        "writer_source_url": "https://www.allmusic.com/album/in-through-the-out-door-mw0000650404"
+      },
+      {
+        "position": 5,
+        "title": "Carouselambra",
+        "duration": "10:34",
+        "writers": [
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/ittod",
+        "duration_source_url": "https://www.allmusic.com/album/in-through-the-out-door-mw0000650404",
+        "writer_source_url": "https://www.allmusic.com/album/in-through-the-out-door-mw0000650404"
+      },
+      {
+        "position": 6,
+        "title": "All My Love",
+        "duration": "5:56",
+        "writers": [
+          "John Paul Jones",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/ittod",
+        "duration_source_url": "https://www.allmusic.com/album/in-through-the-out-door-mw0000650404",
+        "writer_source_url": "https://www.allmusic.com/album/in-through-the-out-door-mw0000650404"
+      },
+      {
+        "position": 7,
+        "title": "I'm Gonna Crawl",
+        "duration": "5:30",
+        "writers": [
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/ittod",
+        "duration_source_url": "https://www.allmusic.com/album/in-through-the-out-door-mw0000650404",
+        "writer_source_url": "https://www.allmusic.com/album/in-through-the-out-door-mw0000650404"
+      }
+    ],
+    "sources": [
+      {
+        "title": "In Through the Out Door — discografía oficial de Led Zeppelin: fecha y lista original",
+        "url": "https://discography.ledzeppelin.com/ittod"
+      },
+      {
+        "title": "In Through the Out Door — AllMusic: compositores y duraciones por pista",
+        "url": "https://www.allmusic.com/album/in-through-the-out-door-mw0000650404"
+      }
+    ],
+    "verification_status": "verified"
+  },
+  {
+    "id": "led-zeppelin-coda-1982",
+    "band_id": "led-zeppelin",
+    "title": "Coda",
+    "album_type": "studio",
+    "original_release_date": "1982-11-19",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Edición original del álbum, secuencia original de 8 pistas; no incluye el material adicional de las reediciones deluxe. Fecha y orden contrastados con la discografía oficial de Led Zeppelin; compositores y duraciones contrastados con AllMusic. Las duraciones pueden variar ligeramente según edición y remasterización.",
+    "label": "Swan Song",
+    "genres": [
+      "hard rock",
+      "blues rock",
+      "heavy metal"
+    ],
+    "duration_minutes": 32.97,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://discography.ledzeppelin.com/coda",
+      "rights_note": "Se enlaza la página oficial de discografía; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "We're Gonna Groove",
+        "duration": "2:38",
+        "writers": [
+          "James Albert Bethea",
+          "Ben E. King"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/coda",
+        "duration_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
+        "writer_source_url": "https://www.allmusic.com/album/coda-mw0000194592"
+      },
+      {
+        "position": 2,
+        "title": "Poor Tom",
+        "duration": "3:02",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/coda",
+        "duration_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
+        "writer_source_url": "https://www.allmusic.com/album/coda-mw0000194592"
+      },
+      {
+        "position": 3,
+        "title": "I Can't Quit You Baby",
+        "duration": "4:18",
+        "writers": [
+          "Willie Dixon"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/coda",
+        "duration_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
+        "writer_source_url": "https://www.allmusic.com/album/coda-mw0000194592"
+      },
+      {
+        "position": 4,
+        "title": "Walter's Walk",
+        "duration": "4:31",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/coda",
+        "duration_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
+        "writer_source_url": "https://www.allmusic.com/album/coda-mw0000194592"
+      },
+      {
+        "position": 5,
+        "title": "Ozone Baby",
+        "duration": "3:35",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/coda",
+        "duration_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
+        "writer_source_url": "https://www.allmusic.com/album/coda-mw0000194592"
+      },
+      {
+        "position": 6,
+        "title": "Darlene",
+        "duration": "5:07",
+        "writers": [
+          "John Bonham",
+          "John Paul Jones",
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/coda",
+        "duration_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
+        "writer_source_url": "https://www.allmusic.com/album/coda-mw0000194592"
+      },
+      {
+        "position": 7,
+        "title": "Bonzo's Montreux",
+        "duration": "4:18",
+        "writers": [
+          "John Bonham"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/coda",
+        "duration_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
+        "writer_source_url": "https://www.allmusic.com/album/coda-mw0000194592"
+      },
+      {
+        "position": 8,
+        "title": "Wearing and Tearing",
+        "duration": "5:29",
+        "writers": [
+          "Jimmy Page",
+          "Robert Plant"
+        ],
+        "source_url": "https://discography.ledzeppelin.com/coda",
+        "duration_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
+        "writer_source_url": "https://www.allmusic.com/album/coda-mw0000194592"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Coda — discografía oficial de Led Zeppelin: fecha y lista original",
+        "url": "https://discography.ledzeppelin.com/coda"
+      },
+      {
+        "title": "Coda — AllMusic: compositores y duraciones por pista",
+        "url": "https://www.allmusic.com/album/coda-mw0000194592"
+      }
+    ],
+    "verification_status": "verified"
   }
 ]
