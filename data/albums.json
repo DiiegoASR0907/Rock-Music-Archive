@@ -29524,7 +29524,32 @@
       "source_url": "https://www.bobdylan.com/albums/?filter=studio",
       "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
     },
-    "tracks": [],
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Hurricane",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      },
+      {
+        "position": 2,
+        "title": "Isis",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      },
+      {
+        "position": 3,
+        "title": "Mozambique",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      }
+    ],
     "sources": [
       {
         "title": "Bob Dylan — discografía oficial, filtro de álbumes de estudio",
