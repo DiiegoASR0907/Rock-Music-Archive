@@ -20462,5 +20462,875 @@
       }
     ],
     "verification_status": "needs_verification"
+  },
+  {
+    "id": "eagles-eagles",
+    "band_id": "eagles",
+    "title": "Eagles",
+    "album_type": "studio",
+    "original_release_date": "1972-06-01",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia de la edición original estadounidense. Lista de canciones registrada como cobertura inicial; duraciones y créditos individuales pendientes de verificación.",
+    "label": "Asylum Records",
+    "genres": [
+      "country rock",
+      "rock",
+      "soft rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://eagles.com/pages/releases",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Take It Easy",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "Witchy Woman",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Chug All Night",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Most of Us Are Sad",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Nightingale",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Train Leaves Here This Morning",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Take the Devil",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "Earlybird",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "Peaceful Easy Feeling",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 10,
+        "title": "Tryin'",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eagles — catálogo oficial de lanzamientos",
+        "url": "https://eagles.com/pages/releases"
+      },
+      {
+        "title": "Rhino — The Studio Albums 1972–1979",
+        "url": "https://www.rhino.com/product/the-studio-albums-1972-1979"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "eagles-desperado",
+    "band_id": "eagles",
+    "title": "Desperado",
+    "album_type": "studio",
+    "original_release_date": "1973-04-17",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia de la edición original estadounidense. Lista de canciones registrada como cobertura inicial; duraciones y créditos individuales pendientes de verificación.",
+    "label": "Asylum Records",
+    "genres": [
+      "country rock",
+      "rock",
+      "soft rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://eagles.com/pages/releases",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Doolin-Dalton",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "Twenty-One",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Out of Control",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Tequila Sunrise",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Desperado",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Certain Kind of Fool",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Doolin-Dalton (Instrumental)",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "Outlaw Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "Saturday Night",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 10,
+        "title": "Bitter Creek",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 11,
+        "title": "Doolin-Dalton/Desperado (Reprise)",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eagles — catálogo oficial de lanzamientos",
+        "url": "https://eagles.com/pages/releases"
+      },
+      {
+        "title": "Rhino — The Studio Albums 1972–1979",
+        "url": "https://www.rhino.com/product/the-studio-albums-1972-1979"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "eagles-on-the-border",
+    "band_id": "eagles",
+    "title": "On the Border",
+    "album_type": "studio",
+    "original_release_date": "1974-03-22",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia de la edición original estadounidense. Lista de canciones registrada como cobertura inicial; duraciones y créditos individuales pendientes de verificación.",
+    "label": "Asylum Records",
+    "genres": [
+      "country rock",
+      "rock",
+      "soft rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://eagles.com/pages/releases",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Already Gone",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "You Never Cry Like a Lover",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Midnight Flyer",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "My Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "On the Border",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "James Dean",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Ol' 55",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "Is It True?",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "Good Day in Hell",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 10,
+        "title": "The Best of My Love",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eagles — catálogo oficial de lanzamientos",
+        "url": "https://eagles.com/pages/releases"
+      },
+      {
+        "title": "Rhino — The Studio Albums 1972–1979",
+        "url": "https://www.rhino.com/product/the-studio-albums-1972-1979"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "eagles-one-of-these-nights",
+    "band_id": "eagles",
+    "title": "One of These Nights",
+    "album_type": "studio",
+    "original_release_date": "1975-06-10",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia de la edición original estadounidense. Lista de canciones registrada como cobertura inicial; duraciones y créditos individuales pendientes de verificación.",
+    "label": "Asylum Records",
+    "genres": [
+      "country rock",
+      "rock",
+      "soft rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://eagles.com/pages/releases",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "One of These Nights",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "Too Many Hands",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Hollywood Waltz",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Journey of the Sorcerer",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Lyin' Eyes",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Take It to the Limit",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Visions",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "After the Thrill Is Gone",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "I Wish You Peace",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eagles — catálogo oficial de lanzamientos",
+        "url": "https://eagles.com/pages/releases"
+      },
+      {
+        "title": "Rhino — The Studio Albums 1972–1979",
+        "url": "https://www.rhino.com/product/the-studio-albums-1972-1979"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "eagles-hotel-california",
+    "band_id": "eagles",
+    "title": "Hotel California",
+    "album_type": "studio",
+    "original_release_date": "1976-12-08",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia de la edición original estadounidense. Lista de canciones registrada como cobertura inicial; duraciones y créditos individuales pendientes de verificación.",
+    "label": "Asylum Records",
+    "genres": [
+      "country rock",
+      "rock",
+      "soft rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://eagles.com/pages/releases",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Hotel California",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "New Kid in Town",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Life in the Fast Lane",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Wasted Time",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Wasted Time (Reprise)",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Victim of Love",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Pretty Maids All in a Row",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "Try and Love Again",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "The Last Resort",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eagles — catálogo oficial de lanzamientos",
+        "url": "https://eagles.com/pages/releases"
+      },
+      {
+        "title": "Rhino — The Studio Albums 1972–1979",
+        "url": "https://www.rhino.com/product/the-studio-albums-1972-1979"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "eagles-the-long-run",
+    "band_id": "eagles",
+    "title": "The Long Run",
+    "album_type": "studio",
+    "original_release_date": "1979-09-24",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia de la edición original estadounidense. Lista de canciones registrada como cobertura inicial; duraciones y créditos individuales pendientes de verificación.",
+    "label": "Asylum Records",
+    "genres": [
+      "country rock",
+      "rock",
+      "soft rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://eagles.com/pages/releases",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "The Long Run",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "I Can't Tell You Why",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "In the City",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "The Disco Strangler",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "King of Hollywood",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Heartache Tonight",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Those Shoes",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "Teenage Jail",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "The Greeks Don't Want No Freaks",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 10,
+        "title": "The Sad Cafe",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.rhino.com/product/the-studio-albums-1972-1979",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eagles — catálogo oficial de lanzamientos",
+        "url": "https://eagles.com/pages/releases"
+      },
+      {
+        "title": "Rhino — The Studio Albums 1972–1979",
+        "url": "https://www.rhino.com/product/the-studio-albums-1972-1979"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "eagles-long-road-out-of-eden",
+    "band_id": "eagles",
+    "title": "Long Road Out of Eden",
+    "album_type": "studio",
+    "original_release_date": "2007-10-30",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia de la edición original estadounidense. Lista de canciones registrada como cobertura inicial; duraciones y créditos individuales pendientes de verificación.",
+    "label": "Lost Highway Records",
+    "genres": [
+      "country rock",
+      "rock",
+      "soft rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://eagles.com/pages/releases",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "No More Walks in the Wood",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "How Long",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Busy Being Fabulous",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "What Do I Do with My Heart",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Guilty of the Crime",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "I Don't Want to Hear Any More",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Waiting in the Weeds",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "No More Cloudy Days",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "Fast Company",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 10,
+        "title": "Do Something",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 11,
+        "title": "You Are Not Alone",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 12,
+        "title": "Long Road Out of Eden",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 13,
+        "title": "I Dreamed There Was No War",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 14,
+        "title": "Somebody",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 15,
+        "title": "Frail Grasp on the Big Picture",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 16,
+        "title": "Last Good Time in Town",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 17,
+        "title": "I Love to Watch a Woman Dance",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 18,
+        "title": "Business as Usual",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 19,
+        "title": "Center of the Universe",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 20,
+        "title": "It's Your World Now",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eagles — catálogo oficial de lanzamientos",
+        "url": "https://eagles.com/pages/releases"
+      },
+      {
+        "title": "Rhino — The Studio Albums 1972–1979",
+        "url": "https://www.rhino.com/product/the-studio-albums-1972-1979"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
