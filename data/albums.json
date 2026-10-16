@@ -27742,11 +27742,120 @@
       "source_url": "https://www.bobdylan.com/albums/?filter=studio",
       "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
     },
-    "tracks": [],
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Blowin' in the Wind",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 2,
+        "title": "Girl from the North Country",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 3,
+        "title": "Masters of War",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 4,
+        "title": "Down the Highway",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 5,
+        "title": "Bob Dylan's Blues",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 6,
+        "title": "A Hard Rain's a-Gonna Fall",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 7,
+        "title": "Don't Think Twice, It's All Right",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 8,
+        "title": "Bob Dylan's Dream",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 9,
+        "title": "Oxford Town",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 10,
+        "title": "Talkin' World War III Blues",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 11,
+        "title": "Corrina, Corrina",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 12,
+        "title": "Honey, Just Allow Me One More Chance",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 13,
+        "title": "I Shall Be Free",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      }
+    ],
     "sources": [
       {
-        "title": "Bob Dylan — discografía oficial, filtro de álbumes de estudio",
+        "title": "Discografía oficial de Bob Dylan",
         "url": "https://www.bobdylan.com/albums/?filter=studio"
+      },
+      {
+        "title": "Índice oficial de canciones",
+        "url": "https://www.bobdylan.com/songs/"
       }
     ],
     "verification_status": "needs_verification"
@@ -27770,11 +27879,96 @@
       "source_url": "https://www.bobdylan.com/albums/?filter=studio",
       "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
     },
-    "tracks": [],
+    "tracks": [
+      {
+        "position": 1,
+        "title": "The Times They Are a-Changin'",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 2,
+        "title": "Ballad of Hollis Brown",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 3,
+        "title": "With God on Our Side",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 4,
+        "title": "One Too Many Mornings",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 5,
+        "title": "North Country Blues",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 6,
+        "title": "Only a Pawn in Their Game",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 7,
+        "title": "Boots of Spanish Leather",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 8,
+        "title": "When the Ship Comes In",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 9,
+        "title": "The Lonesome Death of Hattie Carroll",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 10,
+        "title": "Restless Farewell",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      }
+    ],
     "sources": [
       {
-        "title": "Bob Dylan — discografía oficial, filtro de álbumes de estudio",
+        "title": "Discografía oficial de Bob Dylan",
         "url": "https://www.bobdylan.com/albums/?filter=studio"
+      },
+      {
+        "title": "Índice oficial de canciones",
+        "url": "https://www.bobdylan.com/songs/"
       }
     ],
     "verification_status": "needs_verification"
@@ -27798,11 +27992,104 @@
       "source_url": "https://www.bobdylan.com/albums/?filter=studio",
       "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
     },
-    "tracks": [],
+    "tracks": [
+      {
+        "position": 1,
+        "title": "All I Really Want to Do",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 2,
+        "title": "Black Crow Blues",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 3,
+        "title": "Spanish Harlem Incident",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 4,
+        "title": "Chimes of Freedom",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 5,
+        "title": "I Shall Be Free No. 10",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 6,
+        "title": "To Ramona",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 7,
+        "title": "Motorpsycho Nitemare",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 8,
+        "title": "My Back Pages",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 9,
+        "title": "I Don't Believe You (She Acts Like We Never Have Met)",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 10,
+        "title": "Ballad in Plain D",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      },
+      {
+        "position": 11,
+        "title": "It Ain't Me, Babe",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Duración y créditos pendientes de verificación global."
+      }
+    ],
     "sources": [
       {
-        "title": "Bob Dylan — discografía oficial, filtro de álbumes de estudio",
+        "title": "Discografía oficial de Bob Dylan",
         "url": "https://www.bobdylan.com/albums/?filter=studio"
+      },
+      {
+        "title": "Índice oficial de canciones",
+        "url": "https://www.bobdylan.com/songs/"
       }
     ],
     "verification_status": "needs_verification"
