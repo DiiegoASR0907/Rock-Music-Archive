@@ -4210,7 +4210,7 @@
     "album_type": "studio",
     "original_release_date": "1982-11-19",
     "country_or_market": "Estados Unidos",
-    "edition_note": "Edición original del álbum, secuencia original de 8 pistas; no incluye el material adicional de las reediciones deluxe. Fecha y orden contrastados con la discografía oficial de Led Zeppelin; compositores y duraciones contrastados con AllMusic. Las duraciones pueden variar ligeramente según edición y remasterización. Nota de auditoría: las duraciones y los créditos son referencias secundarias de catálogo (AllMusic u otra fuente indicada por pista), no una transcripción cotejada contra un ejemplar físico identificado del LP original; las diferencias por edición y los créditos históricos discutidos siguen abiertos.",
+    "edition_note": "Edición original estadounidense de Swan Song 90051, publicada el 19 de noviembre de 1982; secuencia original de 8 pistas. Se excluyen las 15 pistas adicionales de los dos discos complementarios de la edición deluxe de 2015. Primera pasada de créditos contrastada con las notas reproducidas de la edición remasterizada Swan Song 92444-2, que identifica el lanzamiento original, y con la discografía oficial y Jimmy Page. Las duraciones registradas se conservan como referencia de catálogo; las notas de la edición muestran variantes y no se han sustituido los tiempos automáticamente. No equivale a una verificación física del LP original ni resuelve por completo cuestiones históricas/editoriales.",
     "label": "Swan Song",
     "genres": [
       "hard rock",
@@ -4234,8 +4234,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/coda",
         "duration_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
-        "writer_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
-        "credit_note": "Crédito de la canción original: James Albert Bethea y Ben E. King; confirmar si la edición de referencia acredita además el arreglo específico de Led Zeppelin."
+        "writer_source_url": "https://albumlinernotes.com/Coda.html",
+        "credit_note": "Las notas de la edición identifican a Ben E. King y James Bethea como compositores y describen una grabación en directo del Royal Albert Hall (9 de enero de 1970) con sobregrabaciones de guitarra posteriores. Jimmy Page confirma que se trataba de una toma en vivo transformada con sobregrabaciones; la duración y el crédito histórico deben distinguirse de otras ediciones."
       },
       {
         "position": 2,
@@ -4247,7 +4247,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/coda",
         "duration_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
-        "writer_source_url": "https://www.allmusic.com/album/coda-mw0000194592"
+        "writer_source_url": "https://albumlinernotes.com/Coda.html",
+        "credit_note": "Las notas sitúan la grabación en Olympic Studios el 6 de mayo de 1970; corresponde a material de las sesiones de Led Zeppelin III, no a una composición nueva de 1982."
       },
       {
         "position": 3,
@@ -4258,7 +4259,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/coda",
         "duration_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
-        "writer_source_url": "https://www.allmusic.com/album/coda-mw0000194592"
+        "writer_source_url": "https://albumlinernotes.com/Coda.html",
+        "credit_note": "Se conserva el crédito de Willie Dixon. Las notas de Coda describen esta toma como una grabación durante ensayo en el Royal Albert Hall el 1 de septiembre de 1970; no debe confundirse con la versión del álbum debut ni con la fecha de publicación de Coda."
       },
       {
         "position": 4,
@@ -4270,7 +4272,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/coda",
         "duration_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
-        "writer_source_url": "https://www.allmusic.com/album/coda-mw0000194592"
+        "writer_source_url": "https://albumlinernotes.com/Coda.html",
+        "credit_note": "Las notas sitúan la grabación en Stargroves el 15 de mayo de 1972. Es material anterior a Coda asociado a las sesiones de Houses of the Holy; la fecha de lanzamiento del álbum no es la fecha de grabación."
       },
       {
         "position": 5,
@@ -4282,7 +4285,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/coda",
         "duration_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
-        "writer_source_url": "https://www.allmusic.com/album/coda-mw0000194592"
+        "writer_source_url": "https://albumlinernotes.com/Coda.html",
+        "credit_note": "Crédito de Jimmy Page y Robert Plant. Las notas sitúan la grabación en Polar Studios el 14 de noviembre de 1978, durante el periodo de In Through the Out Door."
       },
       {
         "position": 6,
@@ -4296,7 +4300,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/coda",
         "duration_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
-        "writer_source_url": "https://www.allmusic.com/album/coda-mw0000194592"
+        "writer_source_url": "https://albumlinernotes.com/Coda.html",
+        "credit_note": "Crédito de John Bonham, John Paul Jones, Jimmy Page y Robert Plant según las notas. Grabada en Polar Studios el 16 de noviembre de 1978; Jimmy Page comenta que surgió durante las sesiones de In Through the Out Door tras asistir a un concierto de Jerry Lee Lewis."
       },
       {
         "position": 7,
@@ -4307,7 +4312,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/coda",
         "duration_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
-        "writer_source_url": "https://www.allmusic.com/album/coda-mw0000194592"
+        "writer_source_url": "https://albumlinernotes.com/Coda.html",
+        "credit_note": "Crédito de John Bonham. Las notas sitúan la grabación en Mountain Studios, Montreux, el 9 de diciembre de 1976. Jimmy Page explica que añadió una parte de teclado/sintetizador como sobregrabación para Coda; no es simplemente una toma publicada sin cambios."
       },
       {
         "position": 8,
@@ -4319,17 +4325,30 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/coda",
         "duration_source_url": "https://www.allmusic.com/album/coda-mw0000194592",
-        "writer_source_url": "https://www.allmusic.com/album/coda-mw0000194592"
+        "writer_source_url": "https://albumlinernotes.com/Coda.html",
+        "credit_note": "Crédito de Jimmy Page y Robert Plant. Las notas sitúan la grabación en Polar Studios el 21 de noviembre de 1978, durante las sesiones de In Through the Out Door."
       }
     ],
     "sources": [
       {
-        "title": "Coda — discografía oficial de Led Zeppelin: fecha y lista original",
+        "title": "Coda — discografía oficial de Led Zeppelin: lista original y separación del material deluxe",
         "url": "https://discography.ledzeppelin.com/coda"
       },
       {
-        "title": "Coda — AllMusic: compositores y duraciones por pista",
+        "title": "Coda — notas reproducidas de la edición remasterizada Swan Song 92444-2: créditos, duraciones y sesiones",
+        "url": "https://albumlinernotes.com/Coda.html"
+      },
+      {
+        "title": "Coda — Jimmy Page: contexto de grabación y sobregrabaciones",
+        "url": "https://jimmypage.com/discography/led-zeppelin/coda/"
+      },
+      {
+        "title": "Coda — AllMusic: duraciones y compositores por pista",
         "url": "https://www.allmusic.com/album/coda-mw0000194592"
+      },
+      {
+        "title": "Coda — Rhino: duraciones de la reedición remasterizada",
+        "url": "https://www.rhino.com/product/coda"
       }
     ],
     "verification_status": "verified"
