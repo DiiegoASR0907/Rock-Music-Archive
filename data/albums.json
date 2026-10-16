@@ -786,6 +786,140 @@
     "verification_status": "verified"
   },
   {
+    "id": "the-kinks-the-kinks-1964",
+    "band_id": "the-kinks",
+    "title": "The Kinks",
+    "album_type": "studio",
+    "original_release_date": "1964-10-02",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "Pye",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Beautiful Delilah",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "So Mystifying",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Just Can't Go to Sleep",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Long Tall Shorty",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "I Took My Baby Home",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "I'm a Lover Not a Fighter",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "You Really Got Me",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Cadillac",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Bald Headed Woman",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Revenge",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "Too Much Monkey Business",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 12,
+        "title": "I've Been Driving on Bald Mountain",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "The Kinks — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
     "id": "the-beatles-beatles-for-sale-1964",
     "band_id": "the-beatles",
     "title": "Beatles for Sale",
@@ -1138,6 +1272,140 @@
     "verification_status": "needs_verification"
   },
   {
+    "id": "the-kinks-kinda-kinks-1965",
+    "band_id": "the-kinks",
+    "title": "Kinda Kinks",
+    "album_type": "studio",
+    "original_release_date": "1965-03-05",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "Pye",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Look for Me Baby",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": " got My Feet on the Ground",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Nothin' in the World Can Stop Me Worryin' 'Bout That Girl",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Naggin' Woman",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "Wonder Where My Baby Is Tonight",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Tired of Waiting for You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "Dancing in the Street",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Don't Ever Change",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Come on Now",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "So Long",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "You Shouldn't Be Sad",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 12,
+        "title": "Something Better Beginning",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Kinda Kinks — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
     "id": "the-beatles-help-1965",
     "band_id": "the-beatles",
     "title": "Help!",
@@ -1482,6 +1750,140 @@
       {
         "title": "The Rolling Stones — discografía oficial",
         "url": "https://www.universal-music.co.jp/rolling-stones/discography/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-kinks-the-kink-kontroversy-1965",
+    "band_id": "the-kinks",
+    "title": "The Kink Kontroversy",
+    "album_type": "studio",
+    "original_release_date": "1965-11-26",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "Pye",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Milk Cow Blues",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Ring the Bells",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Gotta Get the First Plane Home",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "When I See That Girl of Mine",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "I Am Free",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Till the End of the Day",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "The World Keeps Going Round",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "I'm on an Island",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Where Have All the Good Times Gone",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "It's Too Late",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "What's in Store for Me",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 12,
+        "title": "You Can't Win",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "The Kink Kontroversy — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
       }
     ],
     "verification_status": "needs_verification"
@@ -2202,6 +2604,156 @@
     "verification_status": "verified"
   },
   {
+    "id": "the-kinks-face-to-face-1966",
+    "band_id": "the-kinks",
+    "title": "Face to Face",
+    "album_type": "studio",
+    "original_release_date": "1966-10-28",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "Pye",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Party Line",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Rosie Won't You Please Come Home",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Dandy",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Too Much on My Mind",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "Session Man",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Rainy Day in June",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "A House in the Country",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Holiday in Waikiki",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Most Exclusive Residence for Sale",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Fancy",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "Little Miss Queen of Darkness",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 12,
+        "title": "You're Lookin' Fine",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 13,
+        "title": "Sunny Afternoon",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 14,
+        "title": "I'll Remember",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Face to Face — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
     "id": "the-who-a-quick-one-1966",
     "band_id": "the-who",
     "title": "A Quick One",
@@ -2763,6 +3315,148 @@
       {
         "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
         "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-kinks-something-else-by-the-kinks-1967",
+    "band_id": "the-kinks",
+    "title": "Something Else by the Kinks",
+    "album_type": "studio",
+    "original_release_date": "1967-09-15",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "Pye",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "David Watts",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Death of a Clown",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Two Sisters",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "No Return",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "Harry Rag",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Tin Soldier Man",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "Situation Vacant",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Love Me Till the Sun Shines",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Lazy Old Sun",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Afternoon Tea",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "Funny Face",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 12,
+        "title": "End of the Season",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 13,
+        "title": "Waterloo Sunset",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Something Else by the Kinks — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
       }
     ],
     "verification_status": "needs_verification"
@@ -3685,6 +4379,140 @@
       }
     ],
     "verification_status": "verified"
+  },
+  {
+    "id": "the-kinks-the-kinks-are-the-village-green-preservation-society-1968",
+    "band_id": "the-kinks",
+    "title": "The Kinks Are the Village Green Preservation Society",
+    "album_type": "studio",
+    "original_release_date": "1968-11-22",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "Pye",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "The Village Green Preservation Society",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Do You Remember Walter",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Picture Book",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Johnny Thunder",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "Last of the Steam-Powered Trains",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Big Sky",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "Sitting by the Riverside",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Animal Farm",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Village Green",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Starstruck",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "Phenomenal Cat",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 12,
+        "title": "All of My Friends Were There",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "The Kinks Are the Village Green Preservation Society — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
   },
   {
     "id": "the-rolling-stones-beggars-banquet-1968",
@@ -4733,6 +5561,140 @@
     "verification_status": "verified"
   },
   {
+    "id": "the-kinks-arthur-or-the-decline-and-fall-of-the-british-empire-1969",
+    "band_id": "the-kinks",
+    "title": "Arthur (Or the Decline and Fall of the British Empire)",
+    "album_type": "studio",
+    "original_release_date": "1969-10-10",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "Pye",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Victoria",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Yes Sir, No Sir",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Some Mother's Son",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Drivin'",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "Brainwashed",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Australia",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "Shangri-La",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Mr. Churchill Says",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "She's Bought a Hat Like Princess Marina",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Young and Innocent Days",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "Nothing to Say",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 12,
+        "title": "Arthur",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Arthur (Or the Decline and Fall of the British Empire) — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
     "id": "led-zeppelin-led-zeppelin-ii-1969",
     "band_id": "led-zeppelin",
     "title": "Led Zeppelin II",
@@ -5568,6 +6530,148 @@
     "verification_status": "verified"
   },
   {
+    "id": "the-kinks-lola-versus-powerman-and-the-moneygoround-part-one-1970",
+    "band_id": "the-kinks",
+    "title": "Lola Versus Powerman and the Moneygoround, Part One",
+    "album_type": "studio",
+    "original_release_date": "1970-11-27",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "Pye",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "The Contenders",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Strangers",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Denmark Street",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Get Back in Line",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "Lola",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Top of the Pops",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "The Moneygoround",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "This Time Tomorrow",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "A Long Way from Home",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Rats",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "Apeman",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 12,
+        "title": "Powerman",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 13,
+        "title": "Got to Be Free",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Lola Versus Powerman and the Moneygoround, Part One — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
     "id": "the-rolling-stones-sticky-fingers-1971",
     "band_id": "the-rolling-stones",
     "title": "Sticky Fingers",
@@ -6008,6 +7112,140 @@
     "verification_status": "verified"
   },
   {
+    "id": "the-kinks-muswell-hillbillies-1971",
+    "band_id": "the-kinks",
+    "title": "Muswell Hillbillies",
+    "album_type": "studio",
+    "original_release_date": "1971-11-24",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "RCA",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "20th Century Man",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Acute Schizophrenia Paranoia Blues",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Holiday",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Skin and Bone",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "Alcohol",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Complicated Life",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "Here Come the People in Grey",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Have a Cuppa Tea",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Holloway Jail",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Oklahoma U.S.A.",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "Uncle Son",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 12,
+        "title": "Muswell Hillbilly",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Muswell Hillbillies — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
     "id": "the-rolling-stones-exile-on-main-st-1972",
     "band_id": "the-rolling-stones",
     "title": "Exile on Main St.",
@@ -6283,6 +7521,204 @@
       {
         "title": "Pink Floyd — discografía oficial, álbumes y secuencias de pistas",
         "url": "https://archive.pinkfloyd.com/music/albums"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-kinks-everybodys-in-show-biz-1972",
+    "band_id": "the-kinks",
+    "title": "Everybody's in Show-Biz",
+    "album_type": "studio",
+    "original_release_date": "1972-08-25",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Álbum doble original que combina una sección de canciones de estudio y una sección en directo; se conserva el orden de la edición británica y se auditará su clasificación y segmentación más adelante.",
+    "label": "RCA",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Here Comes Yet Another Day",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Maximum Consumption",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Unreal Reality",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Hot Potatoes",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "Sitting in My Hotel",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Motorway",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "You Don't Know My Name",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Supersonic Rocket Ship",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Look a Little on the Sunny Side",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Celluloid Heroes",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "Top of the Pops (Live)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 12,
+        "title": "Brainwashed (Live)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 13,
+        "title": "Mr. Wonderful (Live)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 14,
+        "title": "Acute Schizophrenia Paranoia Blues (Live)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 15,
+        "title": "Holiday (Live)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 16,
+        "title": "Muswell Hillbilly (Live)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 17,
+        "title": "Alcohol (Live)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 18,
+        "title": "Banana Boat Song (Live)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 19,
+        "title": "Skin and Bone (Live)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 20,
+        "title": "Baby Face (Live)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Everybody's in Show-Biz — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
       }
     ],
     "verification_status": "needs_verification"
@@ -6925,6 +8361,124 @@
     "verification_status": "needs_verification"
   },
   {
+    "id": "the-kinks-preservation-act-1-1973",
+    "band_id": "the-kinks",
+    "title": "Preservation Act 1",
+    "album_type": "studio",
+    "original_release_date": "1973-11-16",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "RCA",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Morning Song",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Daylight",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Sweet Lady Genevieve",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "There's a Change in the Weather",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "Where Are They Now",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "One of the Survivors",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "Cricus",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "The Big Sky",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Sitting in the Midday Sun",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Here Comes Flash",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Preservation Act 1 — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
     "id": "queen-queen-ii-1974",
     "band_id": "queen",
     "title": "Queen II",
@@ -7029,6 +8583,148 @@
       {
         "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
         "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-kinks-preservation-act-2-1974",
+    "band_id": "the-kinks",
+    "title": "Preservation Act 2",
+    "album_type": "studio",
+    "original_release_date": "1974-05-24",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "RCA",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Announcement",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Introduction to Solution",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "When a Solution Comes",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Money Talks",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "Shepherds of the Nation",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Scum of the Earth",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "Second-Hand Car Spiv",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "He's Evil",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Mirror of Love",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Nobody Gives",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "Oh Where Oh Where Is Love",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 12,
+        "title": "Flash's Dream (The Final Elbow)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 13,
+        "title": "Salvation Road",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Preservation Act 2 — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
       }
     ],
     "verification_status": "needs_verification"
@@ -7512,6 +9208,148 @@
     "verification_status": "verified"
   },
   {
+    "id": "the-kinks-the-kinks-present-a-soap-opera-1975",
+    "band_id": "the-kinks",
+    "title": "The Kinks Present a Soap Opera",
+    "album_type": "studio",
+    "original_release_date": "1975-05-16",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "RCA",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Everybody's a Star (Starmaker)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Ordinary People",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Rush Hour Blues",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Nine to Five",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "When Work Is Over",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Have Another Drink",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "Under the Neon Sign",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Holiday Romance",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "You Make It All Worthwhile",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Ducks on the Wall",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "A Face in the Crowd",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 12,
+        "title": "You Can't Stop the Music",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 13,
+        "title": "The Last Assembly",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "The Kinks Present a Soap Opera — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
     "id": "pink-floyd-wish-you-were-here-1975",
     "band_id": "pink-floyd",
     "title": "Wish You Were Here",
@@ -7688,6 +9526,124 @@
       {
         "title": "The Who album discography — contraste de ediciones originales",
         "url": "https://www.the-who.net/who-albums/thewho_dalbums.html"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-kinks-schoolboys-in-disgrace-1975",
+    "band_id": "the-kinks",
+    "title": "Schoolboys in Disgrace",
+    "album_type": "studio",
+    "original_release_date": "1975-11-17",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "RCA",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Schooldays",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Jack the Idiot Dunce",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Education",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "The First Time We Fall in Love",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "I'm in Disgrace",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Headmaster",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "The Hard Way",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "The Last Assembly",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "No More Looking Back",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Finale",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Schoolboys in Disgrace — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
       }
     ],
     "verification_status": "needs_verification"
@@ -8211,6 +10167,124 @@
     "verification_status": "needs_verification"
   },
   {
+    "id": "the-kinks-sleepwalker-1977",
+    "band_id": "the-kinks",
+    "title": "Sleepwalker",
+    "album_type": "studio",
+    "original_release_date": "1977-02-11",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "Arista",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Life on the Road",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Mr. Big Man",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Sleepwalker",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Brother",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "Juke Box Music",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Life Goes On",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "Stormy Sky",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Full Moon",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Sleepless Night",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Brother (Reprise)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Sleepwalker — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
     "id": "queen-news-of-the-world-1977",
     "band_id": "queen",
     "title": "News of the World",
@@ -8315,6 +10389,124 @@
       {
         "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
         "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-kinks-misfits-1978",
+    "band_id": "the-kinks",
+    "title": "Misfits",
+    "album_type": "studio",
+    "original_release_date": "1978-05-19",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "Arista",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Misfits",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Hay Fever",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Black Messiah",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "A Rock 'n' Roll Fantasy",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "In a Foreign Land",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Permanent Waves",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "Live Life",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Out of the Wardrobe",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Trust Your Heart",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Get Up",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Misfits — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
       }
     ],
     "verification_status": "needs_verification"
@@ -8666,6 +10858,132 @@
       {
         "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
         "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-kinks-low-budget-1979",
+    "band_id": "the-kinks",
+    "title": "Low Budget",
+    "album_type": "studio",
+    "original_release_date": "1979-07-10",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "Arista",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Attitude",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Catch Me Now I'm Falling",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Pressure",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "National Health",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": " (Wish I Could Fly Like) Superman",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Low Budget",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "In a Space",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Little Bit of Emotion",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "A Gallon of Gas",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Misery",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "Moving Pictures",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Low Budget — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
       }
     ],
     "verification_status": "needs_verification"
@@ -9506,6 +11824,124 @@
     "verification_status": "needs_verification"
   },
   {
+    "id": "the-kinks-give-the-people-what-they-want-1981",
+    "band_id": "the-kinks",
+    "title": "Give the People What They Want",
+    "album_type": "studio",
+    "original_release_date": "1981-08-14",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "Arista",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Around the Dial",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Give the People What They Want",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Killer's Eyes",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Predictable",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "Add It Up",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Destroyer",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "Yo-Yo",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Back to Front",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Art Lover",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "A Little Bit of Abuse",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Give the People What They Want — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
     "id": "the-rolling-stones-tattoo-you-1981",
     "band_id": "the-rolling-stones",
     "title": "Tattoo You",
@@ -10121,6 +12557,140 @@
     "verification_status": "needs_verification"
   },
   {
+    "id": "the-kinks-state-of-confusion-1983",
+    "band_id": "the-kinks",
+    "title": "State of Confusion",
+    "album_type": "studio",
+    "original_release_date": "1983-05-24",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "Arista",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "State of Confusion",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Definite Maybe",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Labour of Love",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Come Dancing",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "Property",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Don't Forget to Dance",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "Young Conservatives",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Heart of Gold",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Clichés of the World (B Movie)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Bernadette",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "Don't Forget to Dance (Reprise)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 12,
+        "title": "Once a Thief",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "State of Confusion — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
     "id": "the-rolling-stones-undercover-1983",
     "band_id": "the-rolling-stones",
     "title": "Undercover",
@@ -10334,6 +12904,132 @@
     "verification_status": "needs_verification"
   },
   {
+    "id": "the-kinks-word-of-mouth-1984",
+    "band_id": "the-kinks",
+    "title": "Word of Mouth",
+    "album_type": "studio",
+    "original_release_date": "1984-11-19",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "Arista",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Do It Again",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Word of Mouth",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Good Day",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Living on a Thin Line",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "Sold Me Out",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Massive Reductions",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "Guilty",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Too Hot",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Missing Persons",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Summer's Gone",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "Going Solo",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Word of Mouth — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
     "id": "the-rolling-stones-dirty-work-1986",
     "band_id": "the-rolling-stones",
     "title": "Dirty Work",
@@ -10542,6 +13238,132 @@
       {
         "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
         "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-kinks-think-visual-1986",
+    "band_id": "the-kinks",
+    "title": "Think Visual",
+    "album_type": "studio",
+    "original_release_date": "1986-11-17",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "London",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Working at the Factory",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Lost and Found",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Repetition",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Welcome to Sleazy Town",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "The Video Shop",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Rock 'n' Roll Cities",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "How Are You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Think Visual",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Natural Gift",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Killing Time",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "When You Were a Child",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Think Visual — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
       }
     ],
     "verification_status": "needs_verification"
@@ -11012,6 +13834,132 @@
     "verification_status": "needs_verification"
   },
   {
+    "id": "the-kinks-uk-jive-1989",
+    "band_id": "the-kinks",
+    "title": "UK Jive",
+    "album_type": "studio",
+    "original_release_date": "1989-10-16",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "London",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Aggravation",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "How Do I Get Close",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "UK Jive",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Now and Then",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "What Are We Doing",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Entertainment",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "War Is Over",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Down All the Days (To 1992)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Loony Balloon",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Dear Margaret",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "Bright Lights",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "UK Jive — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
     "id": "queen-innuendo-1991",
     "band_id": "queen",
     "title": "Innuendo",
@@ -11240,6 +14188,172 @@
       {
         "title": "Nevermind — fuente oficial de tienda o archivo para contrastar la edición",
         "url": "https://shop.nirvana.com/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-kinks-phobia-1993",
+    "band_id": "the-kinks",
+    "title": "Phobia",
+    "album_type": "studio",
+    "original_release_date": "1993-03-29",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original usada como referencia para la primera pasada. Duraciones, créditos y variantes de mercado se verificarán durante la auditoría global.",
+    "label": "Columbia",
+    "genres": [
+      "rock",
+      "British Invasion",
+      "art rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.kindakinks.net/discography/index.php",
+      "rights_note": "Se enlaza una ficha discográfica como referencia; no se almacena una copia local de la portada ni se presume licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Opening",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 2,
+        "title": "Wall of Fire",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 3,
+        "title": "Drift Away",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 4,
+        "title": "Still Searching",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 5,
+        "title": "Phobia",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 6,
+        "title": "Only a Dream",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 7,
+        "title": "Don't",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 8,
+        "title": "Babies",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 9,
+        "title": "Over the Edge",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 10,
+        "title": "Surviving",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 11,
+        "title": "It's Alright (Don't Think About It)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 12,
+        "title": "The Informer",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 13,
+        "title": "Hatred (A Duet)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 14,
+        "title": "Somebody Stole My Car",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 15,
+        "title": "Close to the Wire",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      },
+      {
+        "position": 16,
+        "title": "Scattered",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.kindakinks.net/discography/index.php",
+        "credit_note": "Duración y créditos editoriales pendientes de verificación contra la edición original seleccionada."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kinks — discografía oficial",
+        "url": "https://thekinks.info/discography/"
+      },
+      {
+        "title": "Phobia — discografía histórica y ediciones originales",
+        "url": "https://www.kindakinks.net/discography/index.php"
+      },
+      {
+        "title": "The Kinks discography — cronología y mercados",
+        "url": "https://en.wikipedia.org/wiki/The_Kinks_discography"
       }
     ],
     "verification_status": "needs_verification"
