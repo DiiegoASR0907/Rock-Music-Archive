@@ -18826,5 +18826,461 @@
       }
     ],
     "verification_status": "needs_verification"
+  },
+  {
+    "id": "cream-fresh-cream",
+    "band_id": "cream",
+    "title": "Fresh Cream",
+    "album_type": "studio",
+    "original_release_date": "1966",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Carga inicial de la edición original británica. Fechas completas, duraciones y créditos pista por pista pendientes de verificación. Se toma como referencia la edición original británica; la edición estadounidense difiere en selección de pistas.",
+    "label": "Reaction",
+    "genres": [
+      "blues rock",
+      "hard rock",
+      "psychedelic rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.creambandofficial.com/albums/fresh-cream",
+      "rights_note": "Se enlaza la página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "N.S.U.",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/fresh-cream",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 2,
+        "title": "Sleepy Time Time",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/fresh-cream",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 3,
+        "title": "Dreaming",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/fresh-cream",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 4,
+        "title": "Sweet Wine",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/fresh-cream",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 5,
+        "title": "Spoonful",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/fresh-cream",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 6,
+        "title": "Cat's Squirrel",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/fresh-cream",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 7,
+        "title": "Four Until Late",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/fresh-cream",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 8,
+        "title": "Rollin' and Tumblin'",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/fresh-cream",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 9,
+        "title": "I'm So Glad",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/fresh-cream",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 10,
+        "title": "Toad",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/fresh-cream",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cream — página oficial del álbum",
+        "url": "https://www.creambandofficial.com/albums/fresh-cream"
+      },
+      {
+        "title": "Cream — discografía oficial",
+        "url": "https://www.creambandofficial.com/discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "cream-disraeli-gears",
+    "band_id": "cream",
+    "title": "Disraeli Gears",
+    "album_type": "studio",
+    "original_release_date": "1967",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Carga inicial de la edición original británica. Fechas completas, duraciones y créditos pista por pista pendientes de verificación. undefined",
+    "label": "Reaction",
+    "genres": [
+      "blues rock",
+      "hard rock",
+      "psychedelic rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.creambandofficial.com/albums/disraeli-gears",
+      "rights_note": "Se enlaza la página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Strange Brew",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/disraeli-gears",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 2,
+        "title": "Sunshine of Your Love",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/disraeli-gears",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 3,
+        "title": "World of Pain",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/disraeli-gears",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 4,
+        "title": "Dance the Night Away",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/disraeli-gears",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 5,
+        "title": "Blue Condition",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/disraeli-gears",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 6,
+        "title": "Tales of Brave Ulysses",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/disraeli-gears",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 7,
+        "title": "S.W.L.A.B.R.",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/disraeli-gears",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 8,
+        "title": "We're Going Wrong",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/disraeli-gears",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 9,
+        "title": "Outside Woman Blues",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/disraeli-gears",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 10,
+        "title": "Take It Back",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/disraeli-gears",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 11,
+        "title": "Mother's Lament",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/disraeli-gears",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cream — página oficial del álbum",
+        "url": "https://www.creambandofficial.com/albums/disraeli-gears"
+      },
+      {
+        "title": "Cream — discografía oficial",
+        "url": "https://www.creambandofficial.com/discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "cream-wheels-of-fire",
+    "band_id": "cream",
+    "title": "Wheels of Fire",
+    "album_type": "studio",
+    "original_release_date": "1968",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Carga inicial de la edición original británica. Fechas completas, duraciones y créditos pista por pista pendientes de verificación. Álbum doble híbrido: primer disco de estudio y segundo disco en directo; se conserva completo como álbum publicado.",
+    "label": "Polydor",
+    "genres": [
+      "blues rock",
+      "hard rock",
+      "psychedelic rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.creambandofficial.com/albums/wheels-of-fire",
+      "rights_note": "Se enlaza la página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "White Room",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/wheels-of-fire",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 2,
+        "title": "Sitting on Top of the World",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/wheels-of-fire",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 3,
+        "title": "Passing the Time",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/wheels-of-fire",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 4,
+        "title": "As You Said",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/wheels-of-fire",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 5,
+        "title": "Pressed Rat and Warthog",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/wheels-of-fire",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 6,
+        "title": "Politician",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/wheels-of-fire",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 7,
+        "title": "Those Were the Days",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/wheels-of-fire",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 8,
+        "title": "Born Under a Bad Sign",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/wheels-of-fire",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 9,
+        "title": "Deserted Cities of the Heart",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/wheels-of-fire",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 10,
+        "title": "Crossroads",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/wheels-of-fire",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 11,
+        "title": "Spoonful",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/wheels-of-fire",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 12,
+        "title": "Traintime",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/wheels-of-fire",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 13,
+        "title": "Toad",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/wheels-of-fire",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cream — página oficial del álbum",
+        "url": "https://www.creambandofficial.com/albums/wheels-of-fire"
+      },
+      {
+        "title": "Cream — discografía oficial",
+        "url": "https://www.creambandofficial.com/discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "cream-goodbye",
+    "band_id": "cream",
+    "title": "Goodbye",
+    "album_type": "studio",
+    "original_release_date": "1969",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Carga inicial de la edición original británica. Fechas completas, duraciones y créditos pista por pista pendientes de verificación. Álbum de despedida mixto: combina grabaciones de estudio y en directo.",
+    "label": "Polydor",
+    "genres": [
+      "blues rock",
+      "hard rock",
+      "psychedelic rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.creambandofficial.com/albums/goodbye",
+      "rights_note": "Se enlaza la página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "I'm So Glad",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/goodbye",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 2,
+        "title": "Politician",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/goodbye",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 3,
+        "title": "Sitting on Top of the World",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/goodbye",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 4,
+        "title": "Badge",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/goodbye",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 5,
+        "title": "Doing That Scrapyard Thing",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/goodbye",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      },
+      {
+        "position": 6,
+        "title": "What a Bringdown",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.creambandofficial.com/albums/goodbye",
+        "credit_note": "Duración y autoría pendientes de verificar."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cream — página oficial del álbum",
+        "url": "https://www.creambandofficial.com/albums/goodbye"
+      },
+      {
+        "title": "Cream — discografía oficial",
+        "url": "https://www.creambandofficial.com/discography"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
