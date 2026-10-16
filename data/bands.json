@@ -304,5 +304,28 @@
       }
     ],
     "status": "starter_record"
+  },
+  {
+    "id": "allman-brothers-band",
+    "name": "The Allman Brothers Band",
+    "country_of_origin": "Estados Unidos",
+    "formed_year": 1969,
+    "disbanded_year": 2014,
+    "genres": [
+      "southern rock",
+      "blues rock",
+      "jam band"
+    ],
+    "sources": [
+      {
+        "title": "Sitio oficial de The Allman Brothers Band",
+        "url": "https://allmanbrothersband.com/"
+      },
+      {
+        "title": "Discografía oficial",
+        "url": "https://allmanbrothersband.com/discography/"
+      }
+    ],
+    "status": "starter_record"
   }
 ]
