@@ -392,7 +392,7 @@
     "album_type": "studio",
     "original_release_date": "1964-07-10",
     "country_or_market": "Reino Unido",
-    "edition_note": "Lista y orden contrastados con la tienda oficial para la edición británica original; créditos de composición y duraciones pendientes de revisión individual.",
+    "edition_note": "Lista y orden contrastados con la tienda oficial para la edición británica original; créditos de composición y duraciones pendientes de revisión individual. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -409,7 +409,7 @@
       {
         "position": 1,
         "title": "A Hard Day's Night",
-        "duration": null,
+        "duration": "2:33",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -419,7 +419,7 @@
       {
         "position": 2,
         "title": "I Should Have Known Better",
-        "duration": null,
+        "duration": "2:43",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -429,7 +429,7 @@
       {
         "position": 3,
         "title": "If I Fell",
-        "duration": null,
+        "duration": "2:19",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -439,7 +439,7 @@
       {
         "position": 4,
         "title": "I'm Happy Just to Dance with You",
-        "duration": null,
+        "duration": "1:56",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -449,7 +449,7 @@
       {
         "position": 5,
         "title": "And I Love Her",
-        "duration": null,
+        "duration": "2:30",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -459,7 +459,7 @@
       {
         "position": 6,
         "title": "Tell Me Why",
-        "duration": null,
+        "duration": "2:20",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -469,7 +469,7 @@
       {
         "position": 7,
         "title": "Can't Buy Me Love",
-        "duration": null,
+        "duration": "2:11",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -479,7 +479,7 @@
       {
         "position": 8,
         "title": "Any Time at All",
-        "duration": null,
+        "duration": "2:12",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -489,7 +489,7 @@
       {
         "position": 9,
         "title": "I'll Cry Instead",
-        "duration": null,
+        "duration": "2:09",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -499,7 +499,7 @@
       {
         "position": 10,
         "title": "Things We Said Today",
-        "duration": null,
+        "duration": "2:35",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -509,7 +509,7 @@
       {
         "position": 11,
         "title": "When I Get Home",
-        "duration": null,
+        "duration": "2:18",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -519,7 +519,7 @@
       {
         "position": 12,
         "title": "You Can't Do That",
-        "duration": null,
+        "duration": "2:34",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -529,7 +529,7 @@
       {
         "position": 13,
         "title": "I'll Be Back",
-        "duration": null,
+        "duration": "2:22",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -561,6 +561,10 @@
       {
         "title": "The Beatles — índice oficial de canciones",
         "url": "https://www.thebeatles.com/songs"
+      },
+      {
+        "title": "A Hard Day's Night — edición original de referencia, lista, créditos y duraciones",
+        "url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/"
       }
     ],
     "verification_status": "needs_verification"
@@ -572,7 +576,7 @@
     "album_type": "studio",
     "original_release_date": "1964-12-04",
     "country_or_market": "Reino Unido",
-    "edition_note": "Lista y orden contrastados con la tienda oficial para la edición británica original; créditos de composición y duraciones pendientes de revisión individual.",
+    "edition_note": "Lista y orden contrastados con la tienda oficial para la edición británica original; créditos de composición y duraciones pendientes de revisión individual. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -589,7 +593,7 @@
       {
         "position": 1,
         "title": "No Reply",
-        "duration": null,
+        "duration": "2:15",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -599,7 +603,7 @@
       {
         "position": 2,
         "title": "I'm a Loser",
-        "duration": null,
+        "duration": "2:31",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -609,7 +613,7 @@
       {
         "position": 3,
         "title": "Baby's in Black",
-        "duration": null,
+        "duration": "2:02",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -619,7 +623,7 @@
       {
         "position": 4,
         "title": "Rock and Roll Music",
-        "duration": null,
+        "duration": "2:30",
         "writers": [
           "Chuck Berry"
         ],
@@ -628,7 +632,7 @@
       {
         "position": 5,
         "title": "I'll Follow the Sun",
-        "duration": null,
+        "duration": "2:12",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -638,7 +642,7 @@
       {
         "position": 6,
         "title": "Mr. Moonlight",
-        "duration": null,
+        "duration": "2:08",
         "writers": [
           "Roy Lee Johnson"
         ],
@@ -647,7 +651,7 @@
       {
         "position": 7,
         "title": "Kansas City/Hey-Hey-Hey-Hey!",
-        "duration": null,
+        "duration": "2:33",
         "writers": [
           "Jerry Leiber",
           "Mike Stoller",
@@ -658,7 +662,7 @@
       {
         "position": 8,
         "title": "Eight Days a Week",
-        "duration": null,
+        "duration": "2:44",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -668,7 +672,7 @@
       {
         "position": 9,
         "title": "Words of Love",
-        "duration": null,
+        "duration": "2:04",
         "writers": [
           "Buddy Holly"
         ],
@@ -677,7 +681,7 @@
       {
         "position": 10,
         "title": "Honey Don't",
-        "duration": null,
+        "duration": "2:54",
         "writers": [
           "Carl Perkins"
         ],
@@ -686,7 +690,7 @@
       {
         "position": 11,
         "title": "Every Little Thing",
-        "duration": null,
+        "duration": "2:01",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -696,7 +700,7 @@
       {
         "position": 12,
         "title": "I Don't Want to Spoil the Party",
-        "duration": null,
+        "duration": "2:42",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -706,7 +710,7 @@
       {
         "position": 13,
         "title": "What You're Doing",
-        "duration": null,
+        "duration": "2:30",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -716,7 +720,7 @@
       {
         "position": 14,
         "title": "Everybody's Trying to Be My Baby",
-        "duration": null,
+        "duration": "2:25",
         "writers": [
           "Carl Perkins"
         ],
@@ -747,6 +751,10 @@
       {
         "title": "The Beatles — índice oficial de canciones",
         "url": "https://www.thebeatles.com/songs"
+      },
+      {
+        "title": "Beatles for Sale — edición original de referencia, lista, créditos y duraciones",
+        "url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/"
       }
     ],
     "verification_status": "needs_verification"
@@ -758,7 +766,7 @@
     "album_type": "studio",
     "original_release_date": "1965-08-06",
     "country_or_market": "Reino Unido",
-    "edition_note": "Lista y orden contrastados con la tienda oficial para la edición británica original; créditos de composición y duraciones pendientes de revisión individual.",
+    "edition_note": "Lista y orden contrastados con la tienda oficial para la edición británica original; créditos de composición y duraciones pendientes de revisión individual. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -775,7 +783,7 @@
       {
         "position": 1,
         "title": "Help!",
-        "duration": null,
+        "duration": "2:20",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -785,7 +793,7 @@
       {
         "position": 2,
         "title": "The Night Before",
-        "duration": null,
+        "duration": "2:35",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -795,7 +803,7 @@
       {
         "position": 3,
         "title": "You've Got to Hide Your Love Away",
-        "duration": null,
+        "duration": "2:09",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -805,7 +813,7 @@
       {
         "position": 4,
         "title": "I Need You",
-        "duration": null,
+        "duration": "2:28",
         "writers": [
           "George Harrison"
         ],
@@ -814,7 +822,7 @@
       {
         "position": 5,
         "title": "Another Girl",
-        "duration": null,
+        "duration": "2:05",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -824,7 +832,7 @@
       {
         "position": 6,
         "title": "You're Going to Lose That Girl",
-        "duration": null,
+        "duration": "2:18",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -834,7 +842,7 @@
       {
         "position": 7,
         "title": "Ticket to Ride",
-        "duration": null,
+        "duration": "3:09",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -844,7 +852,7 @@
       {
         "position": 8,
         "title": "Act Naturally",
-        "duration": null,
+        "duration": "2:30",
         "writers": [
           "Johnny Russell",
           "Voni Morrison"
@@ -854,7 +862,7 @@
       {
         "position": 9,
         "title": "It's Only Love",
-        "duration": null,
+        "duration": "1:56",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -864,7 +872,7 @@
       {
         "position": 10,
         "title": "You Like Me Too Much",
-        "duration": null,
+        "duration": "2:36",
         "writers": [
           "George Harrison"
         ],
@@ -873,7 +881,7 @@
       {
         "position": 11,
         "title": "Tell Me What You See",
-        "duration": null,
+        "duration": "2:37",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -883,7 +891,7 @@
       {
         "position": 12,
         "title": "I've Just Seen a Face",
-        "duration": null,
+        "duration": "2:05",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -893,7 +901,7 @@
       {
         "position": 13,
         "title": "Yesterday",
-        "duration": null,
+        "duration": "2:05",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -903,7 +911,7 @@
       {
         "position": 14,
         "title": "Dizzy Miss Lizzy",
-        "duration": null,
+        "duration": "2:58",
         "writers": [
           "Larry Williams"
         ],
@@ -930,6 +938,10 @@
       {
         "title": "The Beatles — índice oficial de canciones",
         "url": "https://www.thebeatles.com/songs"
+      },
+      {
+        "title": "Help! — edición original de referencia, lista, créditos y duraciones",
+        "url": "https://www.the-paulmccartney-project.com/album/help/"
       }
     ],
     "verification_status": "needs_verification"
@@ -1316,7 +1328,7 @@
     "album_type": "studio",
     "original_release_date": "1967-06-01",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría.",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
     "label": "Parlophone",
     "genres": [
       "rock",
@@ -1333,7 +1345,7 @@
       {
         "position": 1,
         "title": "Sgt. Pepper's Lonely Hearts Club Band",
-        "duration": null,
+        "duration": "2:02",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1343,7 +1355,7 @@
       {
         "position": 2,
         "title": "With a Little Help from My Friends",
-        "duration": null,
+        "duration": "2:44",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1353,7 +1365,7 @@
       {
         "position": 3,
         "title": "Lucy in the Sky with Diamonds",
-        "duration": null,
+        "duration": "3:28",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1363,7 +1375,7 @@
       {
         "position": 4,
         "title": "Getting Better",
-        "duration": null,
+        "duration": "2:47",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1373,7 +1385,7 @@
       {
         "position": 5,
         "title": "Fixing a Hole",
-        "duration": null,
+        "duration": "2:37",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1383,7 +1395,7 @@
       {
         "position": 6,
         "title": "She's Leaving Home",
-        "duration": null,
+        "duration": "3:24",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1393,7 +1405,7 @@
       {
         "position": 7,
         "title": "Being for the Benefit of Mr. Kite!",
-        "duration": null,
+        "duration": "2:37",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1403,7 +1415,7 @@
       {
         "position": 8,
         "title": "Within You Without You",
-        "duration": null,
+        "duration": "5:05",
         "writers": [
           "George Harrison"
         ],
@@ -1412,7 +1424,7 @@
       {
         "position": 9,
         "title": "When I'm Sixty-Four",
-        "duration": null,
+        "duration": "2:37",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1422,7 +1434,7 @@
       {
         "position": 10,
         "title": "Lovely Rita",
-        "duration": null,
+        "duration": "2:42",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1432,7 +1444,7 @@
       {
         "position": 11,
         "title": "Good Morning Good Morning",
-        "duration": null,
+        "duration": "2:41",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1442,7 +1454,7 @@
       {
         "position": 12,
         "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
-        "duration": null,
+        "duration": "1:19",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1452,7 +1464,7 @@
       {
         "position": 13,
         "title": "A Day in the Life",
-        "duration": null,
+        "duration": "5:34",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1484,6 +1496,10 @@
       {
         "title": "The Beatles — índice oficial de canciones",
         "url": "https://www.thebeatles.com/songs"
+      },
+      {
+        "title": "Sgt. Pepper's Lonely Hearts Club Band — edición original de referencia, lista, créditos y duraciones",
+        "url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/"
       }
     ],
     "verification_status": "needs_verification"
@@ -1495,7 +1511,7 @@
     "album_type": "studio",
     "original_release_date": "1967-11-27",
     "country_or_market": "Estados Unidos",
-    "edition_note": "LP estadounidense de 11 canciones, incorporado al catálogo estándar internacional en la era del CD; en Reino Unido apareció originalmente como doble EP. Se usa el lanzamiento del LP estadounidense para la fecha y secuencia de este registro. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría.",
+    "edition_note": "LP estadounidense de 11 canciones, incorporado al catálogo estándar internacional en la era del CD; en Reino Unido apareció originalmente como doble EP. Se usa el lanzamiento del LP estadounidense para la fecha y secuencia de este registro. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
     "label": "Capitol Records",
     "genres": [
       "rock",
@@ -1512,7 +1528,7 @@
       {
         "position": 1,
         "title": "Magical Mystery Tour",
-        "duration": null,
+        "duration": "2:50",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1522,7 +1538,7 @@
       {
         "position": 2,
         "title": "The Fool on the Hill",
-        "duration": null,
+        "duration": "2:59",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1532,7 +1548,7 @@
       {
         "position": 3,
         "title": "Flying",
-        "duration": null,
+        "duration": "2:16",
         "writers": [
           "John Lennon",
           "Paul McCartney",
@@ -1544,7 +1560,7 @@
       {
         "position": 4,
         "title": "Blue Jay Way",
-        "duration": null,
+        "duration": "3:54",
         "writers": [
           "George Harrison"
         ],
@@ -1553,7 +1569,7 @@
       {
         "position": 5,
         "title": "Your Mother Should Know",
-        "duration": null,
+        "duration": "2:29",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1563,7 +1579,7 @@
       {
         "position": 6,
         "title": "I Am the Walrus",
-        "duration": null,
+        "duration": "4:35",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1573,7 +1589,7 @@
       {
         "position": 7,
         "title": "Hello, Goodbye",
-        "duration": null,
+        "duration": "3:24",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1583,7 +1599,7 @@
       {
         "position": 8,
         "title": "Strawberry Fields Forever",
-        "duration": null,
+        "duration": "2:19",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1593,7 +1609,7 @@
       {
         "position": 9,
         "title": "Penny Lane",
-        "duration": null,
+        "duration": "3:00",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1603,7 +1619,7 @@
       {
         "position": 10,
         "title": "Baby, You're a Rich Man",
-        "duration": null,
+        "duration": "3:07",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1613,7 +1629,7 @@
       {
         "position": 11,
         "title": "All You Need Is Love",
-        "duration": null,
+        "duration": "3:57",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1641,6 +1657,10 @@
       {
         "title": "The Beatles — índice oficial de canciones",
         "url": "https://www.thebeatles.com/songs"
+      },
+      {
+        "title": "Magical Mystery Tour — edición original de referencia, lista, créditos y duraciones",
+        "url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/"
       }
     ],
     "verification_status": "needs_verification"
