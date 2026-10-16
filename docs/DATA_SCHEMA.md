@@ -19,6 +19,7 @@ Cada álbum debe incluir:
 - `label`, `genres`, `duration_minutes`.
 - `cover`: enlace de imagen, fuente y nota de derechos.
 - `tracks`: pistas ordenadas por `position`; incluir duración y compositores solo cuando se verifiquen.
+- `credit_note` (opcional, por pista): separar créditos editoriales de la versión, obras de origen, arreglos y discrepancias entre fuentes; no mezclar automáticamente autores de la obra de origen con los créditos publicados de la grabación.
 - `sources`: fuentes que respalden fechas, canciones y otros datos.
 - `verification_status`: `template_only`, `needs_verification` o `verified`.
 
