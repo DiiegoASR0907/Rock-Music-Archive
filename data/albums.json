@@ -21332,5 +21332,1197 @@
       }
     ],
     "verification_status": "needs_verification"
+  },
+  {
+    "id": "allman-brothers-band-the-allman-brothers-band",
+    "band_id": "allman-brothers-band",
+    "title": "The Allman Brothers Band",
+    "album_type": "studio",
+    "original_release_date": "1969-11-04",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia inicial de la edición estadounidense; las fechas exactas, créditos y duraciones por pista quedan pendientes de verificación.",
+    "label": "Capricorn Records",
+    "genres": [
+      "southern rock",
+      "blues rock",
+      "jam band"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://allmanbrothersband.com/discography/",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Don't Want You No More",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "It's Not My Cross to Bear",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Black Hearted Woman",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Trouble No More",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Every Hungry Woman",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Dreams",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Whipping Post",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de The Allman Brothers Band",
+        "url": "https://allmanbrothersband.com/discography/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "allman-brothers-band-idlewild-south",
+    "band_id": "allman-brothers-band",
+    "title": "Idlewild South",
+    "album_type": "studio",
+    "original_release_date": "1970-09-23",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia inicial de la edición estadounidense; las fechas exactas, créditos y duraciones por pista quedan pendientes de verificación.",
+    "label": "Capricorn Records",
+    "genres": [
+      "southern rock",
+      "blues rock",
+      "jam band"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://allmanbrothersband.com/discography/",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Revival",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "Don't Keep Me Wonderin'",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Midnight Rider",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "In Memory of Elizabeth Reed",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Hoochie Coochie Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Please Call Home",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Leave My Blues at Home",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de The Allman Brothers Band",
+        "url": "https://allmanbrothersband.com/discography/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "allman-brothers-band-eat-a-peach",
+    "band_id": "allman-brothers-band",
+    "title": "Eat a Peach",
+    "album_type": "studio",
+    "original_release_date": "1972-02-12",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Álbum híbrido con material de estudio y grabaciones en directo; incluido como lanzamiento de la discografía histórica, no como álbum íntegramente grabado en estudio. Referencia inicial de la edición estadounidense; las fechas exactas, créditos y duraciones por pista quedan pendientes de verificación.",
+    "label": "Capricorn Records",
+    "genres": [
+      "southern rock",
+      "blues rock",
+      "jam band"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://allmanbrothersband.com/discography/",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Ain't Wastin' Time No More",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "Les Brers in A Minor",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Melissa",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Mountain Jam",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "One Way Out",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Trouble No More",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Stand Back",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "Blue Sky",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "Little Martha",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de The Allman Brothers Band",
+        "url": "https://allmanbrothersband.com/discography/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "allman-brothers-band-brothers-and-sisters",
+    "band_id": "allman-brothers-band",
+    "title": "Brothers and Sisters",
+    "album_type": "studio",
+    "original_release_date": "1973-08-01",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia inicial de la edición estadounidense; las fechas exactas, créditos y duraciones por pista quedan pendientes de verificación.",
+    "label": "Capricorn Records",
+    "genres": [
+      "southern rock",
+      "blues rock",
+      "jam band"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://allmanbrothersband.com/discography/",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Wasted Words",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "Ramblin' Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Come and Go Blues",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Jelly Jelly",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Southbound",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Jessica",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Pony Boy",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de The Allman Brothers Band",
+        "url": "https://allmanbrothersband.com/discography/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "allman-brothers-band-win-lose-or-draw",
+    "band_id": "allman-brothers-band",
+    "title": "Win, Lose or Draw",
+    "album_type": "studio",
+    "original_release_date": "1975-08-01",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia inicial de la edición estadounidense; las fechas exactas, créditos y duraciones por pista quedan pendientes de verificación.",
+    "label": "Capricorn Records",
+    "genres": [
+      "southern rock",
+      "blues rock",
+      "jam band"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://allmanbrothersband.com/discography/",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Can't Lose What You Never Had",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "Just Another Love Song",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Nevertheless",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Win, Lose or Draw",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Louisiana Lou and Three Card Monty John",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "High Falls",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Sweet Mama",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de The Allman Brothers Band",
+        "url": "https://allmanbrothersband.com/discography/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "allman-brothers-band-enlightened-rogues",
+    "band_id": "allman-brothers-band",
+    "title": "Enlightened Rogues",
+    "album_type": "studio",
+    "original_release_date": "1979-02-01",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia inicial de la edición estadounidense; las fechas exactas, créditos y duraciones por pista quedan pendientes de verificación.",
+    "label": "Capricorn Records",
+    "genres": [
+      "southern rock",
+      "blues rock",
+      "jam band"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://allmanbrothersband.com/discography/",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Crazy Love",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "Can't Take It with You",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Pegasus",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Need Your Love So Bad",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Blind Love",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Try It One More Time",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Just Ain't Easy",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "Sail Away",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de The Allman Brothers Band",
+        "url": "https://allmanbrothersband.com/discography/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "allman-brothers-band-reach-for-the-sky",
+    "band_id": "allman-brothers-band",
+    "title": "Reach for the Sky",
+    "album_type": "studio",
+    "original_release_date": "1980-08-01",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia inicial de la edición estadounidense; las fechas exactas, créditos y duraciones por pista quedan pendientes de verificación.",
+    "label": "Capricorn Records",
+    "genres": [
+      "southern rock",
+      "blues rock",
+      "jam band"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://allmanbrothersband.com/discography/",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Hell & High Water",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "Mystery Woman",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "From the Madness of the West",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "I Got a Right to Be Wrong",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Angeline",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Famous Last Words",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Keep On Keepin' On",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "So Long",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de The Allman Brothers Band",
+        "url": "https://allmanbrothersband.com/discography/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "allman-brothers-band-brothers-of-the-road",
+    "band_id": "allman-brothers-band",
+    "title": "Brothers of the Road",
+    "album_type": "studio",
+    "original_release_date": "1981-08-01",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia inicial de la edición estadounidense; las fechas exactas, créditos y duraciones por pista quedan pendientes de verificación.",
+    "label": "Capricorn Records",
+    "genres": [
+      "southern rock",
+      "blues rock",
+      "jam band"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://allmanbrothersband.com/discography/",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Brothers of the Road",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "Leavin'",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Straight from the Heart",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "The Heat Is On",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Maybe We Can Go Back to Yesterday",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "The Judgment",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Two Rights",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "Never Knew How Much (I Needed You)",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "Things You Used to Do",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 10,
+        "title": "I Beg of You",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de The Allman Brothers Band",
+        "url": "https://allmanbrothersband.com/discography/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "allman-brothers-band-seven-turns",
+    "band_id": "allman-brothers-band",
+    "title": "Seven Turns",
+    "album_type": "studio",
+    "original_release_date": "1990-07-03",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia inicial de la edición estadounidense; las fechas exactas, créditos y duraciones por pista quedan pendientes de verificación.",
+    "label": "Capricorn Records",
+    "genres": [
+      "southern rock",
+      "blues rock",
+      "jam band"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://allmanbrothersband.com/discography/",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Good Clean Fun",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "Let Me Ride",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Low Down Dirty Mean",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Shine It On",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Loaded Dice",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Seven Turns",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Gambler's Roll",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "True Gravity",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "It Ain't Over Yet",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 10,
+        "title": "Lucky Stranger",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de The Allman Brothers Band",
+        "url": "https://allmanbrothersband.com/discography/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "allman-brothers-band-shades-of-two-worlds",
+    "band_id": "allman-brothers-band",
+    "title": "Shades of Two Worlds",
+    "album_type": "studio",
+    "original_release_date": "1991-07-02",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia inicial de la edición estadounidense; las fechas exactas, créditos y duraciones por pista quedan pendientes de verificación.",
+    "label": "Capricorn Records",
+    "genres": [
+      "southern rock",
+      "blues rock",
+      "jam band"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://allmanbrothersband.com/discography/",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "End of the Line",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "Bad Rain",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Nobody Knows",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Desert Blues",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Get On with Your Life",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Midnight Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Kind of Bird",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "Come On in My Kitchen",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "Change My Way of Living",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de The Allman Brothers Band",
+        "url": "https://allmanbrothersband.com/discography/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "allman-brothers-band-where-it-all-begins",
+    "band_id": "allman-brothers-band",
+    "title": "Where It All Begins",
+    "album_type": "studio",
+    "original_release_date": "1994-05-03",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia inicial de la edición estadounidense; las fechas exactas, créditos y duraciones por pista quedan pendientes de verificación.",
+    "label": "Capricorn Records",
+    "genres": [
+      "southern rock",
+      "blues rock",
+      "jam band"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://allmanbrothersband.com/discography/",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "All Night Train",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "Sailin' 'Cross the Devil's Sea",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Back Where It All Begins",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Soulshine",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "No One to Run With",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Change My Life",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Mean Woman Blues",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "Everybody's Got a Mountain to Climb",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "What's Done Is Done",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 10,
+        "title": "Temptation Is a Gun",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 11,
+        "title": "The Same Thing",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de The Allman Brothers Band",
+        "url": "https://allmanbrothersband.com/discography/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "allman-brothers-band-hittin-the-note",
+    "band_id": "allman-brothers-band",
+    "title": "Hittin' the Note",
+    "album_type": "studio",
+    "original_release_date": "2003-03-18",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Referencia inicial de la edición estadounidense; las fechas exactas, créditos y duraciones por pista quedan pendientes de verificación.",
+    "label": "Capricorn Records",
+    "genres": [
+      "southern rock",
+      "blues rock",
+      "jam band"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://allmanbrothersband.com/discography/",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Firing Line",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "High Cost of Low Living",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Desdemona",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Woman Across the River",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Old Before My Time",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Who to Believe",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Maydell",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "Rockin' Horse",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "Heart of Stone",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 10,
+        "title": "Instrumental Illness",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 11,
+        "title": "Old Friend",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://allmanbrothersband.com/discography/",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de The Allman Brothers Band",
+        "url": "https://allmanbrothersband.com/discography/"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
