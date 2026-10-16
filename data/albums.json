@@ -5934,5 +5934,1675 @@
       }
     ],
     "verification_status": "needs_verification"
+  },
+  {
+    "id": "queen-queen-1973",
+    "band_id": "queen",
+    "title": "Queen",
+    "album_type": "studio",
+    "original_release_date": "1973-07-13",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas cargada como base de trabajo; créditos de composición, duraciones por pista y duración total pendientes de verificación por edición. Flash Gordon se incluye como álbum de banda sonora publicado por Queen; no se incluyen recopilaciones, álbumes en directo ni el álbum de Queen + Paul Rodgers.",
+    "label": "EMI",
+    "genres": [
+      "Hard rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.queenonline.com/music",
+      "rights_note": "Se enlaza el sitio oficial de Queen; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Keep Yourself Alive",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 2,
+        "title": "Doing All Right",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 3,
+        "title": "Great King Rat",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 4,
+        "title": "My Fairy King",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 5,
+        "title": "Liar",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 6,
+        "title": "The Night Comes Down",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 7,
+        "title": "Modern Times Rock 'n' Roll",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 8,
+        "title": "Son and Daughter",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 9,
+        "title": "Jesus",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 10,
+        "title": "Seven Seas of Rhye",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Queen — sitio oficial, sección de música y álbumes",
+        "url": "https://www.queenonline.com/music"
+      },
+      {
+        "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
+        "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "queen-queen-ii-1974",
+    "band_id": "queen",
+    "title": "Queen II",
+    "album_type": "studio",
+    "original_release_date": "1974-03-08",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas cargada como base de trabajo; créditos de composición, duraciones por pista y duración total pendientes de verificación por edición. Flash Gordon se incluye como álbum de banda sonora publicado por Queen; no se incluyen recopilaciones, álbumes en directo ni el álbum de Queen + Paul Rodgers.",
+    "label": "EMI",
+    "genres": [
+      "Hard rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.queenonline.com/music",
+      "rights_note": "Se enlaza el sitio oficial de Queen; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Procession",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 2,
+        "title": "Father to Son",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 3,
+        "title": "White Queen (As It Began)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 4,
+        "title": "Some Day One Day",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 5,
+        "title": "The Loser in the End",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 6,
+        "title": "Ogre Battle",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 7,
+        "title": "The Fairy Feller's Master-Stroke",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 8,
+        "title": "Nevermore",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 9,
+        "title": "The March of the Black Queen",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 10,
+        "title": "Funny How Love Is",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 11,
+        "title": "Seven Seas of Rhye",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Queen — sitio oficial, sección de música y álbumes",
+        "url": "https://www.queenonline.com/music"
+      },
+      {
+        "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
+        "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "queen-sheer-heart-attack-1974",
+    "band_id": "queen",
+    "title": "Sheer Heart Attack",
+    "album_type": "studio",
+    "original_release_date": "1974-11-08",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas cargada como base de trabajo; créditos de composición, duraciones por pista y duración total pendientes de verificación por edición. Flash Gordon se incluye como álbum de banda sonora publicado por Queen; no se incluyen recopilaciones, álbumes en directo ni el álbum de Queen + Paul Rodgers.",
+    "label": "EMI",
+    "genres": [
+      "Hard rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.queenonline.com/music",
+      "rights_note": "Se enlaza el sitio oficial de Queen; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Brighton Rock",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 2,
+        "title": "Killer Queen",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 3,
+        "title": "Tenement Funster",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 4,
+        "title": "Flick of the Wrist",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 5,
+        "title": "Lily of the Valley",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 6,
+        "title": "Now I'm Here",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 7,
+        "title": "In the Lap of the Gods",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 8,
+        "title": "Stone Cold Crazy",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 9,
+        "title": "Dear Friends",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 10,
+        "title": "Misfire",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 11,
+        "title": "Bring Back That Leroy Brown",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 12,
+        "title": "She Makes Me (Stormtrooper in Stilettoes)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 13,
+        "title": "In the Lap of the Gods... Revisited",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Queen — sitio oficial, sección de música y álbumes",
+        "url": "https://www.queenonline.com/music"
+      },
+      {
+        "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
+        "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "queen-a-night-at-the-opera-1975",
+    "band_id": "queen",
+    "title": "A Night at the Opera",
+    "album_type": "studio",
+    "original_release_date": "1975-11-21",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas cargada como base de trabajo; créditos de composición, duraciones por pista y duración total pendientes de verificación por edición. Flash Gordon se incluye como álbum de banda sonora publicado por Queen; no se incluyen recopilaciones, álbumes en directo ni el álbum de Queen + Paul Rodgers.",
+    "label": "EMI",
+    "genres": [
+      "Rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.queenonline.com/music",
+      "rights_note": "Se enlaza el sitio oficial de Queen; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Death on Two Legs (Dedicated to...)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 2,
+        "title": "Lazing on a Sunday Afternoon",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 3,
+        "title": "I'm in Love with My Car",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 4,
+        "title": "You're My Best Friend",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 5,
+        "title": "'39",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 6,
+        "title": "Sweet Lady",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 7,
+        "title": "Seaside Rendezvous",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 8,
+        "title": "The Prophet's Song",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 9,
+        "title": "Love of My Life",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 10,
+        "title": "Good Company",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 11,
+        "title": "Bohemian Rhapsody",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 12,
+        "title": "God Save the Queen",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Queen — sitio oficial, sección de música y álbumes",
+        "url": "https://www.queenonline.com/music"
+      },
+      {
+        "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
+        "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "queen-a-day-at-the-races-1976",
+    "band_id": "queen",
+    "title": "A Day at the Races",
+    "album_type": "studio",
+    "original_release_date": "1976-12-10",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas cargada como base de trabajo; créditos de composición, duraciones por pista y duración total pendientes de verificación por edición. Flash Gordon se incluye como álbum de banda sonora publicado por Queen; no se incluyen recopilaciones, álbumes en directo ni el álbum de Queen + Paul Rodgers.",
+    "label": "EMI",
+    "genres": [
+      "Rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.queenonline.com/music",
+      "rights_note": "Se enlaza el sitio oficial de Queen; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Tie Your Mother Down",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 2,
+        "title": "You Take My Breath Away",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 3,
+        "title": "Long Away",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 4,
+        "title": "The Millionaire Waltz",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 5,
+        "title": "You and I",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 6,
+        "title": "Somebody to Love",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 7,
+        "title": "White Man",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 8,
+        "title": "Good Old-Fashioned Lover Boy",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 9,
+        "title": "Drowse",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 10,
+        "title": "Teo Torriatte (Let Us Cling Together)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Queen — sitio oficial, sección de música y álbumes",
+        "url": "https://www.queenonline.com/music"
+      },
+      {
+        "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
+        "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "queen-news-of-the-world-1977",
+    "band_id": "queen",
+    "title": "News of the World",
+    "album_type": "studio",
+    "original_release_date": "1977-10-28",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas cargada como base de trabajo; créditos de composición, duraciones por pista y duración total pendientes de verificación por edición. Flash Gordon se incluye como álbum de banda sonora publicado por Queen; no se incluyen recopilaciones, álbumes en directo ni el álbum de Queen + Paul Rodgers.",
+    "label": "EMI",
+    "genres": [
+      "Rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.queenonline.com/music",
+      "rights_note": "Se enlaza el sitio oficial de Queen; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "We Will Rock You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 2,
+        "title": "We Are the Champions",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 3,
+        "title": "Sheer Heart Attack",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 4,
+        "title": "All Dead, All Dead",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 5,
+        "title": "Spread Your Wings",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 6,
+        "title": "Fight from the Inside",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 7,
+        "title": "Get Down, Make Love",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 8,
+        "title": "Sleeping on the Sidewalk",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 9,
+        "title": "Who Needs You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 10,
+        "title": "It's Late",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 11,
+        "title": "My Melancholy Blues",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Queen — sitio oficial, sección de música y álbumes",
+        "url": "https://www.queenonline.com/music"
+      },
+      {
+        "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
+        "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "queen-jazz-1978",
+    "band_id": "queen",
+    "title": "Jazz",
+    "album_type": "studio",
+    "original_release_date": "1978-11-10",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas cargada como base de trabajo; créditos de composición, duraciones por pista y duración total pendientes de verificación por edición. Flash Gordon se incluye como álbum de banda sonora publicado por Queen; no se incluyen recopilaciones, álbumes en directo ni el álbum de Queen + Paul Rodgers.",
+    "label": "EMI",
+    "genres": [
+      "Rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.queenonline.com/music",
+      "rights_note": "Se enlaza el sitio oficial de Queen; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Mustapha",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 2,
+        "title": "Fat Bottomed Girls",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 3,
+        "title": "Jealousy",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 4,
+        "title": "Bicycle Race",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 5,
+        "title": "If You Can't Beat Them",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 6,
+        "title": "Let Me Entertain You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 7,
+        "title": "Dead on Time",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 8,
+        "title": "In Only Seven Days",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 9,
+        "title": "Dreamer's Ball",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 10,
+        "title": "Fun It",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 11,
+        "title": "Leaving Home Ain't Easy",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 12,
+        "title": "Don't Stop Me Now",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 13,
+        "title": "More of That Jazz",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Queen — sitio oficial, sección de música y álbumes",
+        "url": "https://www.queenonline.com/music"
+      },
+      {
+        "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
+        "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "queen-the-game-1980",
+    "band_id": "queen",
+    "title": "The Game",
+    "album_type": "studio",
+    "original_release_date": "1980-06-30",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas cargada como base de trabajo; créditos de composición, duraciones por pista y duración total pendientes de verificación por edición. Flash Gordon se incluye como álbum de banda sonora publicado por Queen; no se incluyen recopilaciones, álbumes en directo ni el álbum de Queen + Paul Rodgers.",
+    "label": "EMI",
+    "genres": [
+      "Rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.queenonline.com/music",
+      "rights_note": "Se enlaza el sitio oficial de Queen; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Play the Game",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 2,
+        "title": "Dragon Attack",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 3,
+        "title": "Another One Bites the Dust",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 4,
+        "title": "Need Your Loving Tonight",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 5,
+        "title": "Crazy Little Thing Called Love",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 6,
+        "title": "Rock It (Prime Jive)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 7,
+        "title": "Don't Try Suicide",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 8,
+        "title": "Sail Away Sweet Sister",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 9,
+        "title": "Coming Soon",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 10,
+        "title": "Save Me",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Queen — sitio oficial, sección de música y álbumes",
+        "url": "https://www.queenonline.com/music"
+      },
+      {
+        "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
+        "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "queen-flash-gordon-1980",
+    "band_id": "queen",
+    "title": "Flash Gordon",
+    "album_type": "studio",
+    "original_release_date": "1980-12-08",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas cargada como base de trabajo; créditos de composición, duraciones por pista y duración total pendientes de verificación por edición. Flash Gordon se incluye como álbum de banda sonora publicado por Queen; no se incluyen recopilaciones, álbumes en directo ni el álbum de Queen + Paul Rodgers.",
+    "label": "EMI",
+    "genres": [
+      "Soundtrack rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.queenonline.com/music",
+      "rights_note": "Se enlaza el sitio oficial de Queen; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Flash's Theme",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 2,
+        "title": "In the Space Capsule (The Love Theme)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 3,
+        "title": "Ming's Theme (In the Court of Ming the Merciless)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 4,
+        "title": "The Ring (Hypnotic Seduction of Dale)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 5,
+        "title": "Football Fight",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 6,
+        "title": "In the Death Cell (Love Theme Reprise)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 7,
+        "title": "Execution of Flash",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 8,
+        "title": "The Kiss (Aura Resurrects Flash)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 9,
+        "title": "Arboria (Planet of the Tree Men)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 10,
+        "title": "Escape from the Swamp",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 11,
+        "title": "Flash to the Rescue",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 12,
+        "title": "Vultan's Theme (Attack of the Hawk Men)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 13,
+        "title": "Battle Theme",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 14,
+        "title": "The Wedding March",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 15,
+        "title": "Marriage of Dale and Ming (And Flash Approaching)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 16,
+        "title": "Crash Dive on Mingo City",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 17,
+        "title": "Flash's Theme Reprise (Victory Celebrations)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 18,
+        "title": "The Hero",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Queen — sitio oficial, sección de música y álbumes",
+        "url": "https://www.queenonline.com/music"
+      },
+      {
+        "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
+        "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "queen-hot-space-1982",
+    "band_id": "queen",
+    "title": "Hot Space",
+    "album_type": "studio",
+    "original_release_date": "1982-05-21",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas cargada como base de trabajo; créditos de composición, duraciones por pista y duración total pendientes de verificación por edición. Flash Gordon se incluye como álbum de banda sonora publicado por Queen; no se incluyen recopilaciones, álbumes en directo ni el álbum de Queen + Paul Rodgers.",
+    "label": "EMI",
+    "genres": [
+      "Pop rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.queenonline.com/music",
+      "rights_note": "Se enlaza el sitio oficial de Queen; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Staying Power",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 2,
+        "title": "Dancer",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 3,
+        "title": "Back Chat",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 4,
+        "title": "Body Language",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 5,
+        "title": "Action This Day",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 6,
+        "title": "Put Out the Fire",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 7,
+        "title": "Life Is Real (Song for Lennon)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 8,
+        "title": "Calling All Girls",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 9,
+        "title": "Las Palabras de Amor (The Words of Love)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 10,
+        "title": "Cool Cat",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 11,
+        "title": "Under Pressure",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Queen — sitio oficial, sección de música y álbumes",
+        "url": "https://www.queenonline.com/music"
+      },
+      {
+        "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
+        "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "queen-the-works-1984",
+    "band_id": "queen",
+    "title": "The Works",
+    "album_type": "studio",
+    "original_release_date": "1984-02-27",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas cargada como base de trabajo; créditos de composición, duraciones por pista y duración total pendientes de verificación por edición. Flash Gordon se incluye como álbum de banda sonora publicado por Queen; no se incluyen recopilaciones, álbumes en directo ni el álbum de Queen + Paul Rodgers.",
+    "label": "EMI",
+    "genres": [
+      "Rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.queenonline.com/music",
+      "rights_note": "Se enlaza el sitio oficial de Queen; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Radio Ga Ga",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 2,
+        "title": "Tear It Up",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 3,
+        "title": "It's a Hard Life",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 4,
+        "title": "Man on the Prowl",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 5,
+        "title": "Machines (or 'Back to Humans')",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 6,
+        "title": "I Want to Break Free",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 7,
+        "title": "Keep Passing the Open Windows",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 8,
+        "title": "Hammer to Fall",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 9,
+        "title": "Is This the World We Created...?",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Queen — sitio oficial, sección de música y álbumes",
+        "url": "https://www.queenonline.com/music"
+      },
+      {
+        "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
+        "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "queen-a-kind-of-magic-1986",
+    "band_id": "queen",
+    "title": "A Kind of Magic",
+    "album_type": "studio",
+    "original_release_date": "1986-06-02",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas cargada como base de trabajo; créditos de composición, duraciones por pista y duración total pendientes de verificación por edición. Flash Gordon se incluye como álbum de banda sonora publicado por Queen; no se incluyen recopilaciones, álbumes en directo ni el álbum de Queen + Paul Rodgers.",
+    "label": "EMI",
+    "genres": [
+      "Rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.queenonline.com/music",
+      "rights_note": "Se enlaza el sitio oficial de Queen; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "One Vision",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 2,
+        "title": "A Kind of Magic",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 3,
+        "title": "One Year of Love",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 4,
+        "title": "Pain Is So Close to Pleasure",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 5,
+        "title": "Friends Will Be Friends",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 6,
+        "title": "Who Wants to Live Forever",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 7,
+        "title": "Gimme the Prize (Kurgan's Theme)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 8,
+        "title": "Don't Lose Your Head",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 9,
+        "title": "Princes of the Universe",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Queen — sitio oficial, sección de música y álbumes",
+        "url": "https://www.queenonline.com/music"
+      },
+      {
+        "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
+        "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "queen-the-miracle-1989",
+    "band_id": "queen",
+    "title": "The Miracle",
+    "album_type": "studio",
+    "original_release_date": "1989-05-22",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas cargada como base de trabajo; créditos de composición, duraciones por pista y duración total pendientes de verificación por edición. Flash Gordon se incluye como álbum de banda sonora publicado por Queen; no se incluyen recopilaciones, álbumes en directo ni el álbum de Queen + Paul Rodgers.",
+    "label": "Parlophone",
+    "genres": [
+      "Rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.queenonline.com/music",
+      "rights_note": "Se enlaza el sitio oficial de Queen; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Party",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 2,
+        "title": "Khashoggi's Ship",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 3,
+        "title": "The Miracle",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 4,
+        "title": "I Want It All",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 5,
+        "title": "The Invisible Man",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 6,
+        "title": "Breakthru",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 7,
+        "title": "Rain Must Fall",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 8,
+        "title": "Scandal",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 9,
+        "title": "My Baby Does Me",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 10,
+        "title": "Was It All Worth It",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Queen — sitio oficial, sección de música y álbumes",
+        "url": "https://www.queenonline.com/music"
+      },
+      {
+        "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
+        "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "queen-innuendo-1991",
+    "band_id": "queen",
+    "title": "Innuendo",
+    "album_type": "studio",
+    "original_release_date": "1991-02-04",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas cargada como base de trabajo; créditos de composición, duraciones por pista y duración total pendientes de verificación por edición. Flash Gordon se incluye como álbum de banda sonora publicado por Queen; no se incluyen recopilaciones, álbumes en directo ni el álbum de Queen + Paul Rodgers.",
+    "label": "Parlophone",
+    "genres": [
+      "Rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.queenonline.com/music",
+      "rights_note": "Se enlaza el sitio oficial de Queen; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Innuendo",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 2,
+        "title": "I'm Going Slightly Mad",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 3,
+        "title": "Headlong",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 4,
+        "title": "I Can't Live with You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 5,
+        "title": "Don't Try So Hard",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 6,
+        "title": "Ride the Wild Wind",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 7,
+        "title": "All God's People",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 8,
+        "title": "These Are the Days of Our Lives",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 9,
+        "title": "Delilah",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 10,
+        "title": "The Hitman",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 11,
+        "title": "Bijou",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 12,
+        "title": "The Show Must Go On",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Queen — sitio oficial, sección de música y álbumes",
+        "url": "https://www.queenonline.com/music"
+      },
+      {
+        "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
+        "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "queen-made-in-heaven-1995",
+    "band_id": "queen",
+    "title": "Made in Heaven",
+    "album_type": "studio",
+    "original_release_date": "1995-11-06",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Primera pasada de cobertura de la edición original británica. Lista de pistas cargada como base de trabajo; créditos de composición, duraciones por pista y duración total pendientes de verificación por edición. Flash Gordon se incluye como álbum de banda sonora publicado por Queen; no se incluyen recopilaciones, álbumes en directo ni el álbum de Queen + Paul Rodgers.",
+    "label": "Parlophone",
+    "genres": [
+      "Rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.queenonline.com/music",
+      "rights_note": "Se enlaza el sitio oficial de Queen; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "It's a Beautiful Day",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 2,
+        "title": "Made in Heaven",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 3,
+        "title": "Let Me Live",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 4,
+        "title": "Mother Love",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 5,
+        "title": "My Life Has Been Saved",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 6,
+        "title": "I Was Born to Love You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 7,
+        "title": "Heaven for Everyone",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 8,
+        "title": "Too Much Love Will Kill You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 9,
+        "title": "You Don't Fool Me",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 10,
+        "title": "A Winter's Tale",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      },
+      {
+        "position": 11,
+        "title": "It's a Beautiful Day (Reprise)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.queenonline.com/music"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Queen — sitio oficial, sección de música y álbumes",
+        "url": "https://www.queenonline.com/music"
+      },
+      {
+        "title": "Queen — archivo discográfico de álbumes de estudio (fuente secundaria de contraste)",
+        "url": "https://queen.band/"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
