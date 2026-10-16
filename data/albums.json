@@ -7604,5 +7604,363 @@
       }
     ],
     "verification_status": "needs_verification"
+  },
+  {
+    "id": "nirvana-bleach-1989",
+    "band_id": "nirvana",
+    "title": "Bleach",
+    "album_type": "studio",
+    "original_release_date": "1989-06-15",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura de la edición original estadounidense. Lista de pistas basada en la edición LP oficial disponible actualmente. Verificar en auditoría la configuración exacta del prensado original de 1989 frente a reediciones; la página de archivo oficial del álbum contiene una fecha de catálogo inconsistente, por lo que la fecha se mantiene como dato de primera pasada y requiere contraste. Créditos de composición y duraciones por pista pendientes de verificación por edición.",
+    "label": "Sub Pop",
+    "genres": [
+      "grunge",
+      "alternative rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://shop.nirvana.com/products/bleach",
+      "rights_note": "Se enlaza una página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Blew",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://shop.nirvana.com/products/bleach"
+      },
+      {
+        "position": 2,
+        "title": "Floyd the Barber",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://shop.nirvana.com/products/bleach"
+      },
+      {
+        "position": 3,
+        "title": "About a Girl",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://shop.nirvana.com/products/bleach"
+      },
+      {
+        "position": 4,
+        "title": "School",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://shop.nirvana.com/products/bleach"
+      },
+      {
+        "position": 5,
+        "title": "Love Buzz",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://shop.nirvana.com/products/bleach"
+      },
+      {
+        "position": 6,
+        "title": "Paper Cuts",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://shop.nirvana.com/products/bleach"
+      },
+      {
+        "position": 7,
+        "title": "Negative Creep",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://shop.nirvana.com/products/bleach"
+      },
+      {
+        "position": 8,
+        "title": "Scoff",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://shop.nirvana.com/products/bleach"
+      },
+      {
+        "position": 9,
+        "title": "Swap Meet",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://shop.nirvana.com/products/bleach"
+      },
+      {
+        "position": 10,
+        "title": "Mr. Moustache",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://shop.nirvana.com/products/bleach"
+      },
+      {
+        "position": 11,
+        "title": "Sifting",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://shop.nirvana.com/products/bleach"
+      },
+      {
+        "position": 12,
+        "title": "Big Cheese",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://shop.nirvana.com/products/bleach"
+      },
+      {
+        "position": 13,
+        "title": "Downer",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://shop.nirvana.com/products/bleach"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bleach — página oficial de Nirvana",
+        "url": "https://shop.nirvana.com/products/bleach"
+      },
+      {
+        "title": "Bleach — fuente oficial de tienda o archivo para contrastar la edición",
+        "url": "https://www.nirvana.com/releases-archive/bleach-20th-anniversary-deluxe-edition/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "nirvana-nevermind-1991",
+    "band_id": "nirvana",
+    "title": "Nevermind",
+    "album_type": "studio",
+    "original_release_date": "1991-09-24",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura de la edición original estadounidense. Secuencia base de 12 pistas de la edición original. No se añade «Endless, Nameless», cuyo tratamiento depende de la edición y del formato; verificar la variante física de referencia en auditoría. Créditos de composición y duraciones por pista pendientes de verificación por edición.",
+    "label": "DGC Records",
+    "genres": [
+      "grunge",
+      "alternative rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.nirvana.com/releases-archive/nevermind/",
+      "rights_note": "Se enlaza una página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Smells Like Teen Spirit",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/nevermind/"
+      },
+      {
+        "position": 2,
+        "title": "In Bloom",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/nevermind/"
+      },
+      {
+        "position": 3,
+        "title": "Come as You Are",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/nevermind/"
+      },
+      {
+        "position": 4,
+        "title": "Breed",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/nevermind/"
+      },
+      {
+        "position": 5,
+        "title": "Lithium",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/nevermind/"
+      },
+      {
+        "position": 6,
+        "title": "Polly",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/nevermind/"
+      },
+      {
+        "position": 7,
+        "title": "Territorial Pissings",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/nevermind/"
+      },
+      {
+        "position": 8,
+        "title": "Drain You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/nevermind/"
+      },
+      {
+        "position": 9,
+        "title": "Lounge Act",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/nevermind/"
+      },
+      {
+        "position": 10,
+        "title": "Stay Away",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/nevermind/"
+      },
+      {
+        "position": 11,
+        "title": "On a Plain",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/nevermind/"
+      },
+      {
+        "position": 12,
+        "title": "Something in the Way",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/nevermind/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nevermind — página oficial de Nirvana",
+        "url": "https://www.nirvana.com/releases-archive/nevermind/"
+      },
+      {
+        "title": "Nevermind — fuente oficial de tienda o archivo para contrastar la edición",
+        "url": "https://shop.nirvana.com/"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "nirvana-in-utero-1993",
+    "band_id": "nirvana",
+    "title": "In Utero",
+    "album_type": "studio",
+    "original_release_date": "1993-09-21",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura de la edición original estadounidense. Secuencia base de 12 pistas de la edición original. «Gallons of Rubbing Alcohol Flow Through the Strip» se excluye de esta lista base porque aparece como bonus en determinadas ediciones internacionales; las reediciones posteriores tienen pistas extra y mezclas alternativas. Créditos de composición y duraciones por pista pendientes de verificación por edición.",
+    "label": "DGC Records",
+    "genres": [
+      "grunge",
+      "alternative rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.nirvana.com/releases-archive/in-utero/",
+      "rights_note": "Se enlaza una página oficial del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Serve the Servants",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/in-utero/"
+      },
+      {
+        "position": 2,
+        "title": "Scentless Apprentice",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/in-utero/"
+      },
+      {
+        "position": 3,
+        "title": "Heart-Shaped Box",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/in-utero/"
+      },
+      {
+        "position": 4,
+        "title": "Rape Me",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/in-utero/"
+      },
+      {
+        "position": 5,
+        "title": "Frances Farmer Will Have Her Revenge on Seattle",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/in-utero/"
+      },
+      {
+        "position": 6,
+        "title": "Dumb",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/in-utero/"
+      },
+      {
+        "position": 7,
+        "title": "Very Ape",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/in-utero/"
+      },
+      {
+        "position": 8,
+        "title": "Milk It",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/in-utero/"
+      },
+      {
+        "position": 9,
+        "title": "Pennyroyal Tea",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/in-utero/"
+      },
+      {
+        "position": 10,
+        "title": "Radio Friendly Unit Shifter",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/in-utero/"
+      },
+      {
+        "position": 11,
+        "title": "Tourette's",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/in-utero/"
+      },
+      {
+        "position": 12,
+        "title": "All Apologies",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.nirvana.com/releases-archive/in-utero/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "In Utero — página oficial de Nirvana",
+        "url": "https://www.nirvana.com/releases-archive/in-utero/"
+      },
+      {
+        "title": "In Utero — fuente oficial de tienda o archivo para contrastar la edición",
+        "url": "https://shop.nirvana.com/products/in-utero"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
