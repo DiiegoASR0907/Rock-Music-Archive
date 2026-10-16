@@ -1,0 +1,3211 @@
+{
+  "title": "Catálogo maestro de bandas candidatas",
+  "version": 1,
+  "purpose": "Hoja de ruta amplia para una enciclopedia de rock, metal y subgéneros. No pretende ser una lista exhaustiva de todas las bandas existentes; se ampliará por escenas, países y subgéneros.",
+  "workflow": [
+    "Investigar fuentes oficiales y discográficas fiables.",
+    "Confirmar identidad, géneros y discografía de estudio.",
+    "Cargar álbumes cronológicamente con fechas, tracklists, créditos y duraciones solo cuando estén respaldados.",
+    "Registrar discrepancias y fuentes; mantener needs_verification hasta completar la auditoría.",
+    "Completar primero la cobertura de las bandas priorizadas y realizar la auditoría global después."
+  ],
+  "status_legend": {
+    "covered": "La banda ya tiene una primera carga de álbumes en data/albums.json; no significa que esté auditada.",
+    "queued": "Banda candidata pendiente de investigación y carga de discografía."
+  },
+  "bands": [
+    {
+      "id": "the-beatles",
+      "name": "The Beatles",
+      "genres": [
+        "classic rock",
+        "pop rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "covered",
+      "priority": 0,
+      "notes": "La discografía inicial ya está cargada; pendiente de auditoría global."
+    },
+    {
+      "id": "led-zeppelin",
+      "name": "Led Zeppelin",
+      "genres": [
+        "hard rock",
+        "blues rock",
+        "heavy metal"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "covered",
+      "priority": 0,
+      "notes": "La discografía inicial ya está cargada; pendiente de auditoría global."
+    },
+    {
+      "id": "pink-floyd",
+      "name": "Pink Floyd",
+      "genres": [
+        "progressive rock",
+        "psychedelic rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "covered",
+      "priority": 0,
+      "notes": "La discografía inicial ya está cargada; pendiente de auditoría global."
+    },
+    {
+      "id": "queen",
+      "name": "Queen",
+      "genres": [
+        "classic rock",
+        "hard rock",
+        "glam rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "covered",
+      "priority": 0,
+      "notes": "La discografía inicial ya está cargada; pendiente de auditoría global."
+    },
+    {
+      "id": "nirvana",
+      "name": "Nirvana",
+      "genres": [
+        "grunge",
+        "alternative rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "covered",
+      "priority": 0,
+      "notes": "La discografía inicial ya está cargada; pendiente de auditoría global."
+    },
+    {
+      "id": "the-rolling-stones",
+      "name": "The Rolling Stones",
+      "genres": [
+        "rock and roll",
+        "blues rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-who",
+      "name": "The Who",
+      "genres": [
+        "mod rock",
+        "hard rock",
+        "art rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-kinks",
+      "name": "The Kinks",
+      "genres": [
+        "British invasion",
+        "power pop"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-doors",
+      "name": "The Doors",
+      "genres": [
+        "psychedelic rock",
+        "blues rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-beach-boys",
+      "name": "The Beach Boys",
+      "genres": [
+        "surf rock",
+        "baroque pop"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-velvet-underground",
+      "name": "The Velvet Underground",
+      "genres": [
+        "proto-punk",
+        "art rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "cream",
+      "name": "Cream",
+      "genres": [
+        "blues rock",
+        "psychedelic rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "jimi-hendrix-experience",
+      "name": "The Jimi Hendrix Experience",
+      "genres": [
+        "psychedelic rock",
+        "blues rock"
+      ],
+      "region": "Reino Unido/Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "creedence-clearwater-revival",
+      "name": "Creedence Clearwater Revival",
+      "genres": [
+        "roots rock",
+        "swamp rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-eagles",
+      "name": "Eagles",
+      "genres": [
+        "country rock",
+        "soft rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-allman-brothers-band",
+      "name": "The Allman Brothers Band",
+      "genres": [
+        "southern rock",
+        "blues rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "lynyrd-skynyrd",
+      "name": "Lynyrd Skynyrd",
+      "genres": [
+        "southern rock",
+        "hard rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "fleetwood-mac",
+      "name": "Fleetwood Mac",
+      "genres": [
+        "blues rock",
+        "pop rock"
+      ],
+      "region": "Reino Unido/Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-band",
+      "name": "The Band",
+      "genres": [
+        "roots rock",
+        "Americana"
+      ],
+      "region": "Canadá/Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "bob-dylan",
+      "name": "Bob Dylan",
+      "genres": [
+        "folk rock",
+        "roots rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-byrds",
+      "name": "The Byrds",
+      "genres": [
+        "folk rock",
+        "psychedelic rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "jefferson-airplane",
+      "name": "Jefferson Airplane",
+      "genres": [
+        "psychedelic rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "grateful-dead",
+      "name": "Grateful Dead",
+      "genres": [
+        "psychedelic rock",
+        "jam band"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-guess-who",
+      "name": "The Guess Who",
+      "genres": [
+        "classic rock",
+        "hard rock"
+      ],
+      "region": "Canadá",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "rush",
+      "name": "Rush",
+      "genres": [
+        "progressive rock",
+        "hard rock"
+      ],
+      "region": "Canadá",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "genesis",
+      "name": "Genesis",
+      "genres": [
+        "progressive rock",
+        "pop rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "yes",
+      "name": "Yes",
+      "genres": [
+        "progressive rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "king-crimson",
+      "name": "King Crimson",
+      "genres": [
+        "progressive rock",
+        "experimental rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "jethro-tull",
+      "name": "Jethro Tull",
+      "genres": [
+        "progressive rock",
+        "folk rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "emerson-lake-palmer",
+      "name": "Emerson, Lake & Palmer",
+      "genres": [
+        "progressive rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "camel",
+      "name": "Camel",
+      "genres": [
+        "progressive rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "gentle-giant",
+      "name": "Gentle Giant",
+      "genres": [
+        "progressive rock",
+        "art rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "supertramp",
+      "name": "Supertramp",
+      "genres": [
+        "progressive pop",
+        "art rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "electric-light-orchestra",
+      "name": "Electric Light Orchestra",
+      "genres": [
+        "art rock",
+        "symphonic rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "david-bowie",
+      "name": "David Bowie",
+      "genres": [
+        "glam rock",
+        "art rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "t-rex",
+      "name": "T. Rex",
+      "genres": [
+        "glam rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "roxy-music",
+      "name": "Roxy Music",
+      "genres": [
+        "art rock",
+        "glam rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "new-york-dolls",
+      "name": "New York Dolls",
+      "genres": [
+        "glam punk",
+        "proto-punk"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "kiss",
+      "name": "Kiss",
+      "genres": [
+        "hard rock",
+        "glam metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "aerosmith",
+      "name": "Aerosmith",
+      "genres": [
+        "hard rock",
+        "blues rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "ac-dc",
+      "name": "AC/DC",
+      "genres": [
+        "hard rock",
+        "rock and roll"
+      ],
+      "region": "Australia",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "deep-purple",
+      "name": "Deep Purple",
+      "genres": [
+        "hard rock",
+        "heavy metal"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "black-sabbath",
+      "name": "Black Sabbath",
+      "genres": [
+        "heavy metal",
+        "doom metal"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "rainbow",
+      "name": "Rainbow",
+      "genres": [
+        "hard rock",
+        "heavy metal"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "scorpions",
+      "name": "Scorpions",
+      "genres": [
+        "hard rock",
+        "heavy metal"
+      ],
+      "region": "Alemania",
+      "coverage_status": "queued",
+      "priority": 1,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "thin-lizzy",
+      "name": "Thin Lizzy",
+      "genres": [
+        "hard rock",
+        "blues rock"
+      ],
+      "region": "Irlanda",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "bad-company",
+      "name": "Bad Company",
+      "genres": [
+        "hard rock",
+        "blues rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "foreigner",
+      "name": "Foreigner",
+      "genres": [
+        "arena rock",
+        "hard rock"
+      ],
+      "region": "Reino Unido/Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "journey",
+      "name": "Journey",
+      "genres": [
+        "arena rock",
+        "AOR"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "boston",
+      "name": "Boston",
+      "genres": [
+        "arena rock",
+        "hard rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "toto",
+      "name": "Toto",
+      "genres": [
+        "AOR",
+        "pop rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "heart",
+      "name": "Heart",
+      "genres": [
+        "hard rock",
+        "arena rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "van-halen",
+      "name": "Van Halen",
+      "genres": [
+        "hard rock",
+        "glam metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "motley-crue",
+      "name": "Mötley Crüe",
+      "genres": [
+        "glam metal",
+        "hard rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "def-leppard",
+      "name": "Def Leppard",
+      "genres": [
+        "hard rock",
+        "glam metal"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "bon-jovi",
+      "name": "Bon Jovi",
+      "genres": [
+        "hard rock",
+        "glam metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "guns-n-roses",
+      "name": "Guns N' Roses",
+      "genres": [
+        "hard rock",
+        "sleaze rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "whitesnake",
+      "name": "Whitesnake",
+      "genres": [
+        "hard rock",
+        "blues rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "motörhead",
+      "name": "Motörhead",
+      "genres": [
+        "heavy metal",
+        "speed metal"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "judas-priest",
+      "name": "Judas Priest",
+      "genres": [
+        "heavy metal",
+        "NWOBHM"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "iron-maiden",
+      "name": "Iron Maiden",
+      "genres": [
+        "heavy metal",
+        "NWOBHM"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "saxon",
+      "name": "Saxon",
+      "genres": [
+        "heavy metal",
+        "NWOBHM"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "diamond-head",
+      "name": "Diamond Head",
+      "genres": [
+        "heavy metal",
+        "NWOBHM"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "metallica",
+      "name": "Metallica",
+      "genres": [
+        "thrash metal",
+        "heavy metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "megadeth",
+      "name": "Megadeth",
+      "genres": [
+        "thrash metal",
+        "technical thrash"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "slayer",
+      "name": "Slayer",
+      "genres": [
+        "thrash metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "anthrax",
+      "name": "Anthrax",
+      "genres": [
+        "thrash metal",
+        "crossover thrash"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "testament",
+      "name": "Testament",
+      "genres": [
+        "thrash metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "exodus",
+      "name": "Exodus",
+      "genres": [
+        "thrash metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "overkill",
+      "name": "Overkill",
+      "genres": [
+        "thrash metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "death",
+      "name": "Death",
+      "genres": [
+        "death metal",
+        "progressive death metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "morbid-angel",
+      "name": "Morbid Angel",
+      "genres": [
+        "death metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "cannibal-corpse",
+      "name": "Cannibal Corpse",
+      "genres": [
+        "death metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "obituary",
+      "name": "Obituary",
+      "genres": [
+        "death metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "deicide",
+      "name": "Deicide",
+      "genres": [
+        "death metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "possessed",
+      "name": "Possessed",
+      "genres": [
+        "death metal",
+        "thrash metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "carcass",
+      "name": "Carcass",
+      "genres": [
+        "death metal",
+        "melodic death metal"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "napalm-death",
+      "name": "Napalm Death",
+      "genres": [
+        "grindcore",
+        "death metal"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "bolt-thrower",
+      "name": "Bolt Thrower",
+      "genres": [
+        "death metal"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "at-the-gates",
+      "name": "At the Gates",
+      "genres": [
+        "melodic death metal"
+      ],
+      "region": "Suecia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "in-flames",
+      "name": "In Flames",
+      "genres": [
+        "melodic death metal"
+      ],
+      "region": "Suecia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "dark-tranquillity",
+      "name": "Dark Tranquillity",
+      "genres": [
+        "melodic death metal"
+      ],
+      "region": "Suecia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "children-of-bodom",
+      "name": "Children of Bodom",
+      "genres": [
+        "melodic death metal",
+        "power metal"
+      ],
+      "region": "Finlandia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "opeth",
+      "name": "Opeth",
+      "genres": [
+        "progressive metal",
+        "death metal"
+      ],
+      "region": "Suecia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "meshuggah",
+      "name": "Meshuggah",
+      "genres": [
+        "extreme metal",
+        "djent"
+      ],
+      "region": "Suecia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "dream-theater",
+      "name": "Dream Theater",
+      "genres": [
+        "progressive metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "queensryche",
+      "name": "Queensrÿche",
+      "genres": [
+        "progressive metal",
+        "heavy metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "fates-warning",
+      "name": "Fates Warning",
+      "genres": [
+        "progressive metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "tool",
+      "name": "Tool",
+      "genres": [
+        "progressive metal",
+        "alternative metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "mastodon",
+      "name": "Mastodon",
+      "genres": [
+        "progressive metal",
+        "sludge metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "gojira",
+      "name": "Gojira",
+      "genres": [
+        "progressive death metal",
+        "groove metal"
+      ],
+      "region": "Francia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "lamb-of-god",
+      "name": "Lamb of God",
+      "genres": [
+        "groove metal",
+        "metalcore"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "pantera",
+      "name": "Pantera",
+      "genres": [
+        "groove metal",
+        "thrash metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "sepultura",
+      "name": "Sepultura",
+      "genres": [
+        "thrash metal",
+        "groove metal"
+      ],
+      "region": "Brasil",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "sodom",
+      "name": "Sodom",
+      "genres": [
+        "thrash metal"
+      ],
+      "region": "Alemania",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "kreator",
+      "name": "Kreator",
+      "genres": [
+        "thrash metal"
+      ],
+      "region": "Alemania",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "destruction",
+      "name": "Destruction",
+      "genres": [
+        "thrash metal"
+      ],
+      "region": "Alemania",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "blind-guardian",
+      "name": "Blind Guardian",
+      "genres": [
+        "power metal"
+      ],
+      "region": "Alemania",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "helloween",
+      "name": "Helloween",
+      "genres": [
+        "power metal"
+      ],
+      "region": "Alemania",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "manowar",
+      "name": "Manowar",
+      "genres": [
+        "heavy metal",
+        "power metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "savatage",
+      "name": "Savatage",
+      "genres": [
+        "heavy metal",
+        "progressive metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "rhapsody-of-fire",
+      "name": "Rhapsody of Fire",
+      "genres": [
+        "symphonic power metal"
+      ],
+      "region": "Italia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "stratovarius",
+      "name": "Stratovarius",
+      "genres": [
+        "power metal",
+        "neoclassical metal"
+      ],
+      "region": "Finlandia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "nightwish",
+      "name": "Nightwish",
+      "genres": [
+        "symphonic metal"
+      ],
+      "region": "Finlandia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "within-temptation",
+      "name": "Within Temptation",
+      "genres": [
+        "symphonic metal",
+        "gothic metal"
+      ],
+      "region": "Países Bajos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "epica",
+      "name": "Epica",
+      "genres": [
+        "symphonic metal"
+      ],
+      "region": "Países Bajos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "lacuna-coil",
+      "name": "Lacuna Coil",
+      "genres": [
+        "gothic metal",
+        "alternative metal"
+      ],
+      "region": "Italia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "paradise-lost",
+      "name": "Paradise Lost",
+      "genres": [
+        "gothic metal",
+        "doom metal"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "my-dying-bride",
+      "name": "My Dying Bride",
+      "genres": [
+        "death-doom",
+        "gothic metal"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "candlemass",
+      "name": "Candlemass",
+      "genres": [
+        "epic doom metal"
+      ],
+      "region": "Suecia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "saint-vitus",
+      "name": "Saint Vitus",
+      "genres": [
+        "doom metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "sleep",
+      "name": "Sleep",
+      "genres": [
+        "stoner metal",
+        "doom metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "electric-wizard",
+      "name": "Electric Wizard",
+      "genres": [
+        "stoner doom metal"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "kyuss",
+      "name": "Kyuss",
+      "genres": [
+        "stoner rock",
+        "desert rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "queens-of-the-stone-age",
+      "name": "Queens of the Stone Age",
+      "genres": [
+        "stoner rock",
+        "alternative rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "clutch",
+      "name": "Clutch",
+      "genres": [
+        "stoner rock",
+        "hard rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "soundgarden",
+      "name": "Soundgarden",
+      "genres": [
+        "grunge",
+        "alternative metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "pearl-jam",
+      "name": "Pearl Jam",
+      "genres": [
+        "grunge",
+        "alternative rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "alice-in-chains",
+      "name": "Alice in Chains",
+      "genres": [
+        "grunge",
+        "alternative metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "stone-temple-pilots",
+      "name": "Stone Temple Pilots",
+      "genres": [
+        "alternative rock",
+        "grunge"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "mudhoney",
+      "name": "Mudhoney",
+      "genres": [
+        "grunge",
+        "garage punk"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "foo-fighters",
+      "name": "Foo Fighters",
+      "genres": [
+        "alternative rock",
+        "post-grunge"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "radiohead",
+      "name": "Radiohead",
+      "genres": [
+        "alternative rock",
+        "art rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-smashing-pumpkins",
+      "name": "The Smashing Pumpkins",
+      "genres": [
+        "alternative rock",
+        "shoegaze"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "pixies",
+      "name": "Pixies",
+      "genres": [
+        "alternative rock",
+        "noise pop"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "sonic-youth",
+      "name": "Sonic Youth",
+      "genres": [
+        "noise rock",
+        "alternative rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "r-e-m",
+      "name": "R.E.M.",
+      "genres": [
+        "alternative rock",
+        "jangle pop"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-cure",
+      "name": "The Cure",
+      "genres": [
+        "post-punk",
+        "gothic rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "joy-division",
+      "name": "Joy Division",
+      "genres": [
+        "post-punk"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "siouxsie-and-the-banshees",
+      "name": "Siouxsie and the Banshees",
+      "genres": [
+        "post-punk",
+        "gothic rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "new-order",
+      "name": "New Order",
+      "genres": [
+        "post-punk",
+        "alternative dance"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "depeche-mode",
+      "name": "Depeche Mode",
+      "genres": [
+        "synth-rock",
+        "alternative rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "talking-heads",
+      "name": "Talking Heads",
+      "genres": [
+        "new wave",
+        "art rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "blondie",
+      "name": "Blondie",
+      "genres": [
+        "new wave",
+        "punk rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-clash",
+      "name": "The Clash",
+      "genres": [
+        "punk rock",
+        "post-punk"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "ramones",
+      "name": "Ramones",
+      "genres": [
+        "punk rock",
+        "pop punk"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "sex-pistols",
+      "name": "Sex Pistols",
+      "genres": [
+        "punk rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "dead-kennedys",
+      "name": "Dead Kennedys",
+      "genres": [
+        "hardcore punk"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "bad-brains",
+      "name": "Bad Brains",
+      "genres": [
+        "hardcore punk",
+        "reggae rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "black-flag",
+      "name": "Black Flag",
+      "genres": [
+        "hardcore punk"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "misfits",
+      "name": "Misfits",
+      "genres": [
+        "horror punk",
+        "punk rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "green-day",
+      "name": "Green Day",
+      "genres": [
+        "pop punk",
+        "alternative rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-offspring",
+      "name": "The Offspring",
+      "genres": [
+        "punk rock",
+        "pop punk"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "blink-182",
+      "name": "Blink-182",
+      "genres": [
+        "pop punk"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "my-chemical-romance",
+      "name": "My Chemical Romance",
+      "genres": [
+        "emo",
+        "alternative rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "fall-out-boy",
+      "name": "Fall Out Boy",
+      "genres": [
+        "pop punk",
+        "emo pop"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "paramore",
+      "name": "Paramore",
+      "genres": [
+        "pop punk",
+        "alternative rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "linkin-park",
+      "name": "Linkin Park",
+      "genres": [
+        "nu metal",
+        "alternative metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "korn",
+      "name": "Korn",
+      "genres": [
+        "nu metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "deftones",
+      "name": "Deftones",
+      "genres": [
+        "alternative metal",
+        "nu metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "system-of-a-down",
+      "name": "System of a Down",
+      "genres": [
+        "alternative metal",
+        "nu metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "slipknot",
+      "name": "Slipknot",
+      "genres": [
+        "nu metal",
+        "extreme metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "limp-bizkit",
+      "name": "Limp Bizkit",
+      "genres": [
+        "nu metal",
+        "rap metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "faith-no-more",
+      "name": "Faith No More",
+      "genres": [
+        "alternative metal",
+        "funk metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "rage-against-the-machine",
+      "name": "Rage Against the Machine",
+      "genres": [
+        "rap metal",
+        "alternative metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "nine-inch-nails",
+      "name": "Nine Inch Nails",
+      "genres": [
+        "industrial rock",
+        "industrial metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "marilyn-manson",
+      "name": "Marilyn Manson",
+      "genres": [
+        "industrial metal",
+        "alternative metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "rammstein",
+      "name": "Rammstein",
+      "genres": [
+        "industrial metal",
+        "Neue Deutsche Härte"
+      ],
+      "region": "Alemania",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "ministry",
+      "name": "Ministry",
+      "genres": [
+        "industrial metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost",
+      "genres": [
+        "hard rock",
+        "occult rock",
+        "heavy metal"
+      ],
+      "region": "Suecia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "avenged-sevenfold",
+      "name": "Avenged Sevenfold",
+      "genres": [
+        "heavy metal",
+        "metalcore"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "bullet-for-my-valentine",
+      "name": "Bullet for My Valentine",
+      "genres": [
+        "metalcore",
+        "heavy metal"
+      ],
+      "region": "Gales",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "killswitch-engage",
+      "name": "Killswitch Engage",
+      "genres": [
+        "metalcore"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "bring-me-the-horizon",
+      "name": "Bring Me the Horizon",
+      "genres": [
+        "metalcore",
+        "alternative metal"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "architects",
+      "name": "Architects",
+      "genres": [
+        "metalcore",
+        "progressive metalcore"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "parkway-drive",
+      "name": "Parkway Drive",
+      "genres": [
+        "metalcore"
+      ],
+      "region": "Australia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "converge",
+      "name": "Converge",
+      "genres": [
+        "metalcore",
+        "mathcore"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "dillinger-escape-plan",
+      "name": "The Dillinger Escape Plan",
+      "genres": [
+        "mathcore",
+        "experimental metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "emperor",
+      "name": "Emperor",
+      "genres": [
+        "symphonic black metal"
+      ],
+      "region": "Noruega",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "mayhem",
+      "name": "Mayhem",
+      "genres": [
+        "black metal"
+      ],
+      "region": "Noruega",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "burzum",
+      "name": "Burzum",
+      "genres": [
+        "black metal",
+        "ambient"
+      ],
+      "region": "Noruega",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "darkthrone",
+      "name": "Darkthrone",
+      "genres": [
+        "black metal",
+        "crust punk"
+      ],
+      "region": "Noruega",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "immortal",
+      "name": "Immortal",
+      "genres": [
+        "black metal"
+      ],
+      "region": "Noruega",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "dissection",
+      "name": "Dissection",
+      "genres": [
+        "melodic black metal",
+        "melodic death metal"
+      ],
+      "region": "Suecia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "behemoth",
+      "name": "Behemoth",
+      "genres": [
+        "blackened death metal"
+      ],
+      "region": "Polonia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "dimmu-borgir",
+      "name": "Dimmu Borgir",
+      "genres": [
+        "symphonic black metal"
+      ],
+      "region": "Noruega",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "enslaved",
+      "name": "Enslaved",
+      "genres": [
+        "progressive black metal",
+        "Viking metal"
+      ],
+      "region": "Noruega",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "amon-amarth",
+      "name": "Amon Amarth",
+      "genres": [
+        "melodic death metal",
+        "Viking metal"
+      ],
+      "region": "Suecia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "bathory",
+      "name": "Bathory",
+      "genres": [
+        "black metal",
+        "Viking metal"
+      ],
+      "region": "Suecia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "sabaton",
+      "name": "Sabaton",
+      "genres": [
+        "power metal"
+      ],
+      "region": "Suecia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "powerwolf",
+      "name": "Powerwolf",
+      "genres": [
+        "power metal",
+        "heavy metal"
+      ],
+      "region": "Alemania",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "dragonforce",
+      "name": "DragonForce",
+      "genres": [
+        "power metal"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-hu",
+      "name": "The HU",
+      "genres": [
+        "folk metal",
+        "Hunnu rock"
+      ],
+      "region": "Mongolia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "babymetal",
+      "name": "BABYMETAL",
+      "genres": [
+        "kawaii metal",
+        "power metal"
+      ],
+      "region": "Japón",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "x-japan",
+      "name": "X Japan",
+      "genres": [
+        "visual kei",
+        "symphonic metal"
+      ],
+      "region": "Japón",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "loudness",
+      "name": "Loudness",
+      "genres": [
+        "heavy metal",
+        "hard rock"
+      ],
+      "region": "Japón",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "band-maid",
+      "name": "BAND-MAID",
+      "genres": [
+        "hard rock",
+        "heavy metal"
+      ],
+      "region": "Japón",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "beyond",
+      "name": "Beyond",
+      "genres": [
+        "Cantopop rock",
+        "hard rock"
+      ],
+      "region": "Hong Kong",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "zoe",
+      "name": "Zoé",
+      "genres": [
+        "alternative rock",
+        "psychedelic rock"
+      ],
+      "region": "México",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "caifanes",
+      "name": "Caifanes",
+      "genres": [
+        "rock en español",
+        "alternative rock"
+      ],
+      "region": "México",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "cafe-tacvba",
+      "name": "Café Tacvba",
+      "genres": [
+        "alternative rock",
+        "Latin rock"
+      ],
+      "region": "México",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "mana",
+      "name": "Maná",
+      "genres": [
+        "Latin rock",
+        "pop rock"
+      ],
+      "region": "México",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "molotov",
+      "name": "Molotov",
+      "genres": [
+        "rap rock",
+        "alternative rock"
+      ],
+      "region": "México",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "soda-stereo",
+      "name": "Soda Stereo",
+      "genres": [
+        "Latin rock",
+        "new wave",
+        "alternative rock"
+      ],
+      "region": "Argentina",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "charly-garcia",
+      "name": "Charly García",
+      "genres": [
+        "rock argentino",
+        "progressive rock"
+      ],
+      "region": "Argentina",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "los-fabulosos-cadillacs",
+      "name": "Los Fabulosos Cadillacs",
+      "genres": [
+        "ska rock",
+        "Latin rock"
+      ],
+      "region": "Argentina",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "sumo",
+      "name": "Sumo",
+      "genres": [
+        "post-punk",
+        "reggae rock"
+      ],
+      "region": "Argentina",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "divididos",
+      "name": "Divididos",
+      "genres": [
+        "hard rock",
+        "Argentine rock"
+      ],
+      "region": "Argentina",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "los-prisioneros",
+      "name": "Los Prisioneros",
+      "genres": [
+        "new wave",
+        "Latin rock"
+      ],
+      "region": "Chile",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "la-ley",
+      "name": "La Ley",
+      "genres": [
+        "alternative rock",
+        "Latin rock"
+      ],
+      "region": "Chile",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "aterciopelados",
+      "name": "Aterciopelados",
+      "genres": [
+        "alternative rock",
+        "Latin rock"
+      ],
+      "region": "Colombia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "kraken",
+      "name": "Kraken",
+      "genres": [
+        "heavy metal",
+        "progressive metal"
+      ],
+      "region": "Colombia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "heroes-del-silencio",
+      "name": "Héroes del Silencio",
+      "genres": [
+        "hard rock",
+        "alternative rock"
+      ],
+      "region": "España",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "extremoduro",
+      "name": "Extremoduro",
+      "genres": [
+        "Spanish hard rock",
+        "progressive rock"
+      ],
+      "region": "España",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "baron-rojo",
+      "name": "Barón Rojo",
+      "genres": [
+        "heavy metal",
+        "hard rock"
+      ],
+      "region": "España",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "angeles-del-infierno",
+      "name": "Ángeles del Infierno",
+      "genres": [
+        "heavy metal",
+        "hard rock"
+      ],
+      "region": "España",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "angra",
+      "name": "Angra",
+      "genres": [
+        "power metal",
+        "progressive metal"
+      ],
+      "region": "Brasil",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "os-mutantes",
+      "name": "Os Mutantes",
+      "genres": [
+        "tropicalia",
+        "psychedelic rock"
+      ],
+      "region": "Brasil",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "legiao-urbana",
+      "name": "Legião Urbana",
+      "genres": [
+        "Brazilian rock",
+        "post-punk"
+      ],
+      "region": "Brasil",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "paralamas-do-sucesso",
+      "name": "Os Paralamas do Sucesso",
+      "genres": [
+        "Brazilian rock",
+        "reggae rock"
+      ],
+      "region": "Brasil",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-saints",
+      "name": "The Saints",
+      "genres": [
+        "punk rock"
+      ],
+      "region": "Australia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "midnight-oil",
+      "name": "Midnight Oil",
+      "genres": [
+        "alternative rock",
+        "pub rock"
+      ],
+      "region": "Australia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "silverchair",
+      "name": "Silverchair",
+      "genres": [
+        "alternative rock",
+        "post-grunge"
+      ],
+      "region": "Australia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "inxs",
+      "name": "INXS",
+      "genres": [
+        "new wave",
+        "pop rock"
+      ],
+      "region": "Australia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-flowers",
+      "name": "The Flowers",
+      "genres": [
+        "Mandopop rock",
+        "alternative rock"
+      ],
+      "region": "Taiwán",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "b'z",
+      "name": "B'z",
+      "genres": [
+        "hard rock",
+        "Japanese rock"
+      ],
+      "region": "Japón",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "dir-en-grey",
+      "name": "Dir En Grey",
+      "genres": [
+        "alternative metal",
+        "avant-garde metal"
+      ],
+      "region": "Japón",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "babes-in-toyland",
+      "name": "Babes in Toyland",
+      "genres": [
+        "riot grrrl",
+        "alternative rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "hole",
+      "name": "Hole",
+      "genres": [
+        "alternative rock",
+        "grunge"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-white-stripes",
+      "name": "The White Stripes",
+      "genres": [
+        "garage rock revival",
+        "blues rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-strokes",
+      "name": "The Strokes",
+      "genres": [
+        "indie rock",
+        "garage rock revival"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "arctic-monkeys",
+      "name": "Arctic Monkeys",
+      "genres": [
+        "indie rock",
+        "alternative rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "oasis",
+      "name": "Oasis",
+      "genres": [
+        "Britpop",
+        "alternative rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "blur",
+      "name": "Blur",
+      "genres": [
+        "Britpop",
+        "alternative rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "pulp",
+      "name": "Pulp",
+      "genres": [
+        "Britpop",
+        "art rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-verve",
+      "name": "The Verve",
+      "genres": [
+        "Britpop",
+        "psychedelic rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "coldplay",
+      "name": "Coldplay",
+      "genres": [
+        "alternative rock",
+        "pop rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "muse",
+      "name": "Muse",
+      "genres": [
+        "alternative rock",
+        "progressive rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "placebo",
+      "name": "Placebo",
+      "genres": [
+        "alternative rock",
+        "glam rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-national",
+      "name": "The National",
+      "genres": [
+        "indie rock",
+        "alternative rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "arcade-fire",
+      "name": "Arcade Fire",
+      "genres": [
+        "indie rock",
+        "art rock"
+      ],
+      "region": "Canadá",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "vampire-weekend",
+      "name": "Vampire Weekend",
+      "genres": [
+        "indie rock",
+        "baroque pop"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "king-gizzard-and-the-lizard-wizard",
+      "name": "King Gizzard & the Lizard Wizard",
+      "genres": [
+        "psychedelic rock",
+        "progressive rock"
+      ],
+      "region": "Australia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "tame-impala",
+      "name": "Tame Impala",
+      "genres": [
+        "psychedelic rock",
+        "neo-psychedelia"
+      ],
+      "region": "Australia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "greta-van-fleet",
+      "name": "Greta Van Fleet",
+      "genres": [
+        "hard rock",
+        "blues rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-black-keys",
+      "name": "The Black Keys",
+      "genres": [
+        "blues rock",
+        "garage rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "black-crowes",
+      "name": "The Black Crowes",
+      "genres": [
+        "southern rock",
+        "blues rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-mars-volta",
+      "name": "The Mars Volta",
+      "genres": [
+        "progressive rock",
+        "experimental rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "coheed-and-cambria",
+      "name": "Coheed and Cambria",
+      "genres": [
+        "progressive rock",
+        "alternative rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "porcupine-tree",
+      "name": "Porcupine Tree",
+      "genres": [
+        "progressive rock",
+        "progressive metal"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "animals-as-leaders",
+      "name": "Animals as Leaders",
+      "genres": [
+        "djent",
+        "instrumental progressive metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "periphery",
+      "name": "Periphery",
+      "genres": [
+        "djent",
+        "progressive metalcore"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "riverside",
+      "name": "Riverside",
+      "genres": [
+        "progressive rock",
+        "progressive metal"
+      ],
+      "region": "Polonia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-gathering",
+      "name": "The Gathering",
+      "genres": [
+        "gothic metal",
+        "alternative rock"
+      ],
+      "region": "Países Bajos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "alcest",
+      "name": "Alcest",
+      "genres": [
+        "blackgaze",
+        "post-metal"
+      ],
+      "region": "Francia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "deafheaven",
+      "name": "Deafheaven",
+      "genres": [
+        "blackgaze",
+        "post-metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "isis",
+      "name": "Isis",
+      "genres": [
+        "post-metal",
+        "sludge metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "neurosis",
+      "name": "Neurosis",
+      "genres": [
+        "post-metal",
+        "sludge metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "pelican",
+      "name": "Pelican",
+      "genres": [
+        "post-metal",
+        "instrumental metal"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "godspeed-you-black-emperor",
+      "name": "Godspeed You! Black Emperor",
+      "genres": [
+        "post-rock"
+      ],
+      "region": "Canadá",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "explosions-in-the-sky",
+      "name": "Explosions in the Sky",
+      "genres": [
+        "post-rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "mogwai",
+      "name": "Mogwai",
+      "genres": [
+        "post-rock"
+      ],
+      "region": "Escocia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "sigur-ros",
+      "name": "Sigur Rós",
+      "genres": [
+        "post-rock",
+        "experimental rock"
+      ],
+      "region": "Islandia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "this-will-destroy-you",
+      "name": "This Will Destroy You",
+      "genres": [
+        "post-rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-birthday-party",
+      "name": "The Birthday Party",
+      "genres": [
+        "post-punk",
+        "noise rock"
+      ],
+      "region": "Australia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "bauhaus",
+      "name": "Bauhaus",
+      "genres": [
+        "gothic rock",
+        "post-punk"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "echo-and-the-bunnymen",
+      "name": "Echo & the Bunnymen",
+      "genres": [
+        "post-punk",
+        "neo-psychedelia"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-pretenders",
+      "name": "The Pretenders",
+      "genres": [
+        "new wave",
+        "rock"
+      ],
+      "region": "Reino Unido/Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-police",
+      "name": "The Police",
+      "genres": [
+        "new wave",
+        "reggae rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-smiths",
+      "name": "The Smiths",
+      "genres": [
+        "indie rock",
+        "jangle pop"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-stone-roses",
+      "name": "The Stone Roses",
+      "genres": [
+        "Madchester",
+        "alternative rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "primal-scream",
+      "name": "Primal Scream",
+      "genres": [
+        "alternative rock",
+        "dance-rock"
+      ],
+      "region": "Escocia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-killers",
+      "name": "The Killers",
+      "genres": [
+        "alternative rock",
+        "indie rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-ramones",
+      "name": "Ramones",
+      "genres": [
+        "punk rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-yeah-yeah-yeahs",
+      "name": "Yeah Yeah Yeahs",
+      "genres": [
+        "indie rock",
+        "art punk"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-hives",
+      "name": "The Hives",
+      "genres": [
+        "garage rock revival",
+        "punk rock"
+      ],
+      "region": "Suecia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-libertines",
+      "name": "The Libertines",
+      "genres": [
+        "indie rock",
+        "garage rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-1975",
+      "name": "The 1975",
+      "genres": [
+        "alternative rock",
+        "pop rock"
+      ],
+      "region": "Reino Unido",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "maneskin",
+      "name": "Måneskin",
+      "genres": [
+        "hard rock",
+        "glam rock"
+      ],
+      "region": "Italia",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "the-warning",
+      "name": "The Warning",
+      "genres": [
+        "hard rock",
+        "alternative rock"
+      ],
+      "region": "México",
+      "coverage_status": "queued",
+      "priority": 2,
+      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    }
+  ]
+}
