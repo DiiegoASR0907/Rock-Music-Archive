@@ -121,9 +121,9 @@
         "blues rock"
       ],
       "region": "Estados Unidos",
-      "coverage_status": "queued",
+      "coverage_status": "covered",
       "priority": 1,
-      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+      "notes": "Primera pasada de nueve álbumes de estudio cargada cronológicamente (1967–1978), con listas de canciones de referencia. Duraciones, créditos de composición y tratamiento editorial de An American Prayer pendientes de auditoría global."
     },
     {
       "id": "the-beach-boys",
@@ -135,7 +135,7 @@
       "region": "Estados Unidos",
       "coverage_status": "queued",
       "priority": 1,
-      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+      "notes": "Siguiente banda priorizada tras completar la primera pasada de The Doors."
     },
     {
       "id": "the-velvet-underground",
