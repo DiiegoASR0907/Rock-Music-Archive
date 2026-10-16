@@ -84,9 +84,9 @@
         "blues rock"
       ],
       "region": "Reino Unido",
-      "coverage_status": "queued",
+      "coverage_status": "in_progress",
       "priority": 1,
-      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+      "notes": "Cobertura iniciada. Primer álbum registrado: The Rolling Stones (edición británica, 1964); tracklist cargado, duraciones y créditos pendientes de verificación. Las variantes de mercado se documentarán por separado."
     },
     {
       "id": "the-who",
