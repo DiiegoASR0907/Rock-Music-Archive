@@ -157,9 +157,9 @@
         "psychedelic rock"
       ],
       "region": "Reino Unido",
-      "coverage_status": "queued",
+      "coverage_status": "in_progress",
       "priority": 1,
-      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+      "notes": "Primera carga añadida: Fresh Cream (1966), Disraeli Gears (1967), Wheels of Fire (1968) y Goodbye (1969). Wheels of Fire y Goodbye mezclan material de estudio y directo; listas, créditos y duraciones pendientes de verificación. No hacer auditoría global hasta terminar cobertura inicial de todas las bandas."
     },
     {
       "id": "jimi-hendrix-experience",
