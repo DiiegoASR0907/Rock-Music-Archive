@@ -22,3 +22,11 @@ Cada fuente debe tener al menos un título descriptivo y una URL. Las fechas dud
 ## Portadas
 
 Las carátulas suelen estar protegidas por derechos de autor. Priorizar enlaces a páginas oficiales, tiendas autorizadas o servicios que permitan su visualización; verificar las condiciones antes de almacenar copias locales o publicarlas en una web.
+
+
+## Led Zeppelin
+
+- Usar la [discografía oficial de Led Zeppelin](https://discography.ledzeppelin.com/) para identificar cada álbum original, la fecha y el orden de las canciones.
+- Contrastar compositores y duraciones con AllMusic cuando estén disponibles; cada pista incluye URLs de la discografía oficial y la referencia secundaria utilizada.
+- No incorporar pistas de discos complementarios de las ediciones deluxe al tracklist del álbum original. Registrar esas variantes por separado si se amplía el esquema.
+- Si una duración o crédito cambia entre fuentes, conservar la edición de referencia indicada en `edition_note` y documentar la discrepancia antes de corregir el dato.
