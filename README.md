@@ -44,3 +44,11 @@ Construir un catálogo fiable y ampliable con:
 ## Idioma
 
 Documentación en español; títulos de álbumes y canciones conservados en su idioma original.
+
+
+## Estado de avance (15 de octubre de 2026)
+
+- **The Beatles:** auditoría cerrada para 12 álbumes del catálogo estándar y la banda sonora *Yellow Submarine*. Hay 193 pistas registradas con créditos, duraciones y referencias por pista.
+- **Led Zeppelin:** iniciado con el álbum homónimo de 1969 (edición estadounidense), 9 pistas y fuentes oficiales/secundarias para contrastar tracklist, créditos y duraciones.
+- **Siguiente paso:** incorporar los ocho álbumes de estudio restantes de Led Zeppelin en orden cronológico y validar sus ediciones antes de pasar a Pink Floyd.
+- **Criterio:** las duraciones se documentan para una edición de referencia; mezclas, remasterizaciones y mercados pueden presentar diferencias de segundos.
