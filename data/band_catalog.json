@@ -3195,6 +3195,19 @@
       "coverage_status": "queued",
       "priority": 2,
       "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+    },
+    {
+      "id": "eagles",
+      "name": "Eagles",
+      "genres": [
+        "country rock",
+        "rock",
+        "soft rock"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "in_progress",
+      "priority": 1,
+      "notes": "Primera carga de siete álbumes de estudio (1972–2007); duraciones y créditos pendientes de verificación. Auditoría global posterior a la cobertura inicial."
     }
   ]
 }
