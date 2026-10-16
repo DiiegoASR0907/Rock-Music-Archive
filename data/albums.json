@@ -27589,5 +27589,138 @@
       }
     ],
     "verification_status": "needs_verification"
+  },
+  {
+    "id": "bob-dylan-bob-dylan-1962",
+    "band_id": "bob-dylan",
+    "title": "Bob Dylan",
+    "album_type": "studio",
+    "original_release_date": "1962-03-19",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada; lista de pistas de la edición original. Fechas, duraciones y créditos pendientes de auditoría global.",
+    "label": "Columbia",
+    "genres": [
+      "folk",
+      "blues"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.bobdylan.com/albums/?filter=studio",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "You're No Good",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/albums/?filter=studio",
+        "credit_note": "Crédito y duración pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Talkin' New York",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/albums/?filter=studio",
+        "credit_note": "Crédito y duración pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "In My Time of Dyin'",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/albums/?filter=studio",
+        "credit_note": "Crédito y duración pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Man of Constant Sorrow",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/albums/?filter=studio",
+        "credit_note": "Crédito y duración pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "Fixin' to Die",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/albums/?filter=studio",
+        "credit_note": "Crédito y duración pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Pretty Peggy-O",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/albums/?filter=studio",
+        "credit_note": "Crédito y duración pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Highway 51",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/albums/?filter=studio",
+        "credit_note": "Crédito y duración pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Gospel Plow",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/albums/?filter=studio",
+        "credit_note": "Crédito y duración pendientes de verificación."
+      },
+      {
+        "position": 9,
+        "title": "Baby, Let Me Follow You Down",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/albums/?filter=studio",
+        "credit_note": "Crédito y duración pendientes de verificación."
+      },
+      {
+        "position": 10,
+        "title": "House of the Risin' Sun",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/albums/?filter=studio",
+        "credit_note": "Crédito y duración pendientes de verificación."
+      },
+      {
+        "position": 11,
+        "title": "Freight Train Blues",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/albums/?filter=studio",
+        "credit_note": "Crédito y duración pendientes de verificación."
+      },
+      {
+        "position": 12,
+        "title": "Song to Woody",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/albums/?filter=studio",
+        "credit_note": "Crédito y duración pendientes de verificación."
+      },
+      {
+        "position": 13,
+        "title": "See That My Grave Is Kept Clean",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/albums/?filter=studio",
+        "credit_note": "Crédito y duración pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Bob Dylan — discografía oficial, filtro de álbumes de estudio",
+        "url": "https://www.bobdylan.com/albums/?filter=studio"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
