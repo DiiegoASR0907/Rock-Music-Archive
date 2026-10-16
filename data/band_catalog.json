@@ -109,9 +109,9 @@
         "power pop"
       ],
       "region": "Reino Unido",
-      "coverage_status": "queued",
+      "coverage_status": "covered",
       "priority": 1,
-      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+      "notes": "Primera pasada de la discografía británica de estudio cargada cronológicamente desde The Kinks (1964) hasta Phobia (1993), con 22 álbumes. Duraciones, créditos, clasificación de álbumes mixtos y variantes por mercado pendientes de auditoría."
     },
     {
       "id": "the-doors",
