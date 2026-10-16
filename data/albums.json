@@ -3250,14 +3250,14 @@
     "album_type": "studio",
     "original_release_date": "1970-10-05",
     "country_or_market": "Estados Unidos",
-    "edition_note": "Edición original del álbum, secuencia original de 10 pistas; no incluye el material adicional de las reediciones deluxe. Fecha y orden contrastados con la discografía oficial de Led Zeppelin; compositores y duraciones contrastados con AllMusic. Las duraciones pueden variar ligeramente según edición y remasterización. Nota de auditoría: las duraciones y los créditos son referencias secundarias de catálogo (AllMusic u otra fuente indicada por pista), no una transcripción cotejada contra un ejemplar físico identificado del LP original; las diferencias por edición y los créditos históricos discutidos siguen abiertos.",
+    "edition_note": "Primera pasada de auditoría contra las notas reproducidas de la edición remasterizada estadounidense de Atlantic de 1994 (catálogo 82678-2), que identifica el álbum original como Atlantic 7201 y fecha su lanzamiento el 5 de octubre de 1970. Créditos y duraciones se transcriben de esa edición de referencia; la secuencia original se contrasta con la discografía oficial. Otras ediciones y remasterizaciones pueden presentar diferencias de segundos o de presentación de créditos.",
     "label": "Swan Song",
     "genres": [
       "hard rock",
       "blues rock",
       "heavy metal"
     ],
-    "duration_minutes": 42.97,
+    "duration_minutes": 42.7,
     "cover": {
       "image_url": null,
       "source_url": "https://discography.ledzeppelin.com/lz3",
@@ -3267,14 +3267,14 @@
       {
         "position": 1,
         "title": "Immigrant Song",
-        "duration": "2:25",
+        "duration": "2:23",
         "writers": [
           "Jimmy Page",
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz3",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html"
       },
       {
         "position": 2,
@@ -3285,71 +3285,72 @@
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz3",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html"
       },
       {
         "position": 3,
         "title": "Celebration Day",
-        "duration": "3:29",
+        "duration": "3:28",
         "writers": [
-          "John Paul Jones",
           "Jimmy Page",
-          "Robert Plant"
+          "Robert Plant",
+          "John Paul Jones"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz3",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html"
       },
       {
         "position": 4,
         "title": "Since I've Been Loving You",
-        "duration": "7:23",
+        "duration": "7:24",
         "writers": [
-          "John Paul Jones",
           "Jimmy Page",
-          "Robert Plant"
+          "Robert Plant",
+          "John Paul Jones"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz3",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html"
       },
       {
         "position": 5,
         "title": "Out on the Tiles",
-        "duration": "4:06",
+        "duration": "4:05",
         "writers": [
-          "John Bonham",
           "Jimmy Page",
-          "Robert Plant"
+          "Robert Plant",
+          "John Bonham"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz3",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html"
       },
       {
         "position": 6,
         "title": "Gallows Pole",
         "duration": "4:56",
         "writers": [
-          "Jimmy Page",
-          "Robert Plant",
-          "Traditional"
+          "Traditional",
+          "Jimmy Page (arreglos)",
+          "Robert Plant (arreglos)"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz3",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html",
+        "credit_note": "La edición de referencia acredita “Traditional, arr. by Jimmy Page & Robert Plant”. La interpretación se basa en una tradición de balada de ahorcamiento; la atribución del archivo separa la obra tradicional de los arreglos del grupo. No se atribuye la composición tradicional en exclusiva a Page o Plant."
       },
       {
         "position": 7,
         "title": "Tangerine",
-        "duration": "3:10",
+        "duration": "2:57",
         "writers": [
           "Jimmy Page"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz3",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html"
       },
       {
         "position": 8,
@@ -3360,21 +3361,21 @@
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz3",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html"
       },
       {
         "position": 9,
         "title": "Bron-Y-Aur Stomp",
         "duration": "4:16",
         "writers": [
-          "John Paul Jones",
           "Jimmy Page",
-          "Robert Plant"
+          "Robert Plant",
+          "John Paul Jones"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz3",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html"
       },
       {
         "position": 10,
@@ -3382,22 +3383,26 @@
         "duration": "3:42",
         "writers": [
           "Traditional",
-          "Jimmy Page (credited as Charles Obscure)"
+          "Charles Obscure (arreglos; seudónimo de Jimmy Page)"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz3",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405",
-        "writer_source_url": "https://en.wikipedia.org/wiki/List_of_Led_Zeppelin_songs_written_or_inspired_by_others",
-        "credit_note": "“Charles Obscure” es un seudónimo de Jimmy Page; la pista es un medley/tributo con fragmentos de blues tradicionales, no un compositor independiente llamado Charles Obscure."
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_III.html",
+        "credit_note": "La edición de referencia imprime “Traditional, arr. by Charles Obscure”. Charles Obscure es el seudónimo de Jimmy Page para el arreglo, no un compositor independiente. La pista es una medley/tributo con material blues tradicional; no se debe presentar el seudónimo como autor de la obra tradicional."
       }
     ],
     "sources": [
       {
-        "title": "Led Zeppelin III — discografía oficial de Led Zeppelin: fecha y lista original",
+        "title": "Led Zeppelin III — discografía oficial: fecha, secuencia original y material extra separado",
         "url": "https://discography.ledzeppelin.com/lz3"
       },
       {
-        "title": "Led Zeppelin III — AllMusic: compositores y duraciones por pista",
-        "url": "https://www.allmusic.com/album/led-zeppelin-iii-mw0000650405"
+        "title": "Led Zeppelin III — notas de la edición remasterizada estadounidense de Atlantic de 1994 (créditos y duraciones)",
+        "url": "https://albumlinernotes.com/Led_Zeppelin_III.html"
+      },
+      {
+        "title": "Led Zeppelin III — Qobuz: contraste independiente de créditos y tiempos de la remasterización",
+        "url": "https://www.qobuz.com/co-es/album/led-zeppelin-iii-led-zeppelin/0603497904631"
       }
     ],
     "verification_status": "verified"
