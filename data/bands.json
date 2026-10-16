@@ -115,5 +115,29 @@
       }
     ],
     "status": "needs_verification"
+  },
+  {
+    "id": "the-who",
+    "name": "The Who",
+    "country_of_origin": "Reino Unido",
+    "formed_year": 1964,
+    "disbanded_year": null,
+    "genres": [
+      "mod rock",
+      "hard rock",
+      "art rock"
+    ],
+    "official_website": "https://www.thewho.com/",
+    "sources": [
+      {
+        "title": "The Who — sitio oficial",
+        "url": "https://www.thewho.com/"
+      },
+      {
+        "title": "The Who — discografía oficial",
+        "url": "https://www.thewho.com/music/"
+      }
+    ],
+    "status": "needs_verification"
   }
 ]
