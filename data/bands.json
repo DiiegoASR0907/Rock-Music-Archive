@@ -399,5 +399,26 @@
       }
     ],
     "status": "starter_record"
+  },
+  {
+    "id": "bob-dylan",
+    "name": "Bob Dylan",
+    "country_of_origin": "Estados Unidos",
+    "formed_year": 1962,
+    "disbanded_year": null,
+    "genres": [
+      "folk",
+      "folk rock",
+      "rock",
+      "country rock"
+    ],
+    "official_website": "https://www.bobdylan.com/",
+    "sources": [
+      {
+        "title": "Sitio oficial de Bob Dylan",
+        "url": "https://www.bobdylan.com/"
+      }
+    ],
+    "status": "starter_record"
   }
 ]
