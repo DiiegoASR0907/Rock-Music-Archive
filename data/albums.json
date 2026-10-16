@@ -18280,5 +18280,551 @@
       }
     ],
     "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-velvet-underground-the-velvet-underground-and-nico",
+    "band_id": "the-velvet-underground",
+    "title": "The Velvet Underground & Nico",
+    "album_type": "studio",
+    "original_release_date": "1967-03-12",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Lista de pistas de la edición original de referencia; registro inicial. Fechas completas, duraciones y créditos de composición pendientes de verificación. ",
+    "label": "Verve",
+    "genres": [
+      "art rock",
+      "proto-punk",
+      "experimental rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico",
+      "rights_note": "Se enlaza una referencia del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Sunday Morning",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "I'm Waiting for the Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Femme Fatale",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Venus in Furs",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Run Run Run",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "All Tomorrow's Parties",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Heroin",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "There She Goes Again",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "I'll Be Your Mirror",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 10,
+        "title": "The Black Angel's Death Song",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 11,
+        "title": "European Son",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Referencia discográfica del álbum",
+        "url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico"
+      },
+      {
+        "title": "AllMusic — The Velvet Underground",
+        "url": "https://www.allmusic.com/artist/the-velvet-underground-mn0000840402"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-velvet-underground-white-light-white-heat",
+    "band_id": "the-velvet-underground",
+    "title": "White Light/White Heat",
+    "album_type": "studio",
+    "original_release_date": "1968-01-30",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Lista de pistas de la edición original de referencia; registro inicial. Fechas completas, duraciones y créditos de composición pendientes de verificación. ",
+    "label": "Verve",
+    "genres": [
+      "art rock",
+      "proto-punk",
+      "experimental rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://en.wikipedia.org/wiki/White_Light/White_Heat",
+      "rights_note": "Se enlaza una referencia del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "White Light/White Heat",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/White_Light/White_Heat",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "The Gift",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/White_Light/White_Heat",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Lady Godiva's Operation",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/White_Light/White_Heat",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Here She Comes Now",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/White_Light/White_Heat",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "I Heard Her Call My Name",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/White_Light/White_Heat",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Sister Ray",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/White_Light/White_Heat",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Referencia discográfica del álbum",
+        "url": "https://en.wikipedia.org/wiki/White_Light/White_Heat"
+      },
+      {
+        "title": "AllMusic — The Velvet Underground",
+        "url": "https://www.allmusic.com/artist/the-velvet-underground-mn0000840402"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-velvet-underground-the-velvet-underground",
+    "band_id": "the-velvet-underground",
+    "title": "The Velvet Underground",
+    "album_type": "studio",
+    "original_release_date": "1969",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Lista de pistas de la edición original de referencia; registro inicial. Fechas completas, duraciones y créditos de composición pendientes de verificación. ",
+    "label": "Verve",
+    "genres": [
+      "art rock",
+      "proto-punk",
+      "experimental rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_(album)",
+      "rights_note": "Se enlaza una referencia del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Candy Says",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_(album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "What Goes On",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_(album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Some Kinda Love",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_(album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Pale Blue Eyes",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_(album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Jesus",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_(album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Beginning to See the Light",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_(album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "I'm Set Free",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_(album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "That's the Story of My Life",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_(album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "The Murder Mystery",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_(album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 10,
+        "title": "After Hours",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_(album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Referencia discográfica del álbum",
+        "url": "https://en.wikipedia.org/wiki/The_Velvet_Underground_(album)"
+      },
+      {
+        "title": "AllMusic — The Velvet Underground",
+        "url": "https://www.allmusic.com/artist/the-velvet-underground-mn0000840402"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-velvet-underground-loaded",
+    "band_id": "the-velvet-underground",
+    "title": "Loaded",
+    "album_type": "studio",
+    "original_release_date": "1970-11-15",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Lista de pistas de la edición original de referencia; registro inicial. Fechas completas, duraciones y créditos de composición pendientes de verificación. ",
+    "label": "Atlantic",
+    "genres": [
+      "art rock",
+      "proto-punk",
+      "experimental rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://en.wikipedia.org/wiki/Loaded_(The_Velvet_Underground_album)",
+      "rights_note": "Se enlaza una referencia del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Who Loves the Sun",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Loaded_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "Sweet Jane",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Loaded_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Rock & Roll",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Loaded_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Cool It Down",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Loaded_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "New Age",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Loaded_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Head Held High",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Loaded_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "Lonesome Cowboy Bill",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Loaded_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "I Found a Reason",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Loaded_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "Train Round the Bend",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Loaded_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 10,
+        "title": "Oh! Sweet Nuthin'",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Loaded_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Referencia discográfica del álbum",
+        "url": "https://en.wikipedia.org/wiki/Loaded_(The_Velvet_Underground_album)"
+      },
+      {
+        "title": "AllMusic — The Velvet Underground",
+        "url": "https://www.allmusic.com/artist/the-velvet-underground-mn0000840402"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-velvet-underground-squeeze",
+    "band_id": "the-velvet-underground",
+    "title": "Squeeze",
+    "album_type": "studio",
+    "original_release_date": "1973-02",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Lista de pistas de la edición original de referencia; registro inicial. Fechas completas, duraciones y créditos de composición pendientes de verificación. Caso fronterizo: publicado bajo el nombre de la banda, pero grabado esencialmente por Doug Yule tras la salida de los miembros originales; algunas fuentes no lo consideran un álbum genuino del grupo.",
+    "label": "Polydor",
+    "genres": [
+      "art rock",
+      "proto-punk",
+      "experimental rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://en.wikipedia.org/wiki/Squeeze_(The_Velvet_Underground_album)",
+      "rights_note": "Se enlaza una referencia del álbum; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Little Jack",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Squeeze_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 2,
+        "title": "Crash",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Squeeze_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 3,
+        "title": "Caroline",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Squeeze_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 4,
+        "title": "Mean Old Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Squeeze_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 5,
+        "title": "Dopey Joe",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Squeeze_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 6,
+        "title": "Wordless",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Squeeze_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 7,
+        "title": "She'll Make You Cry",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Squeeze_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 8,
+        "title": "Friends",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Squeeze_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 9,
+        "title": "Send No Letter",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Squeeze_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 10,
+        "title": "Jack & Jane",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://en.wikipedia.org/wiki/Squeeze_(The_Velvet_Underground_album)",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Referencia discográfica del álbum",
+        "url": "https://en.wikipedia.org/wiki/Squeeze_(The_Velvet_Underground_album)"
+      },
+      {
+        "title": "AllMusic — The Velvet Underground",
+        "url": "https://www.allmusic.com/artist/the-velvet-underground-mn0000840402"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
