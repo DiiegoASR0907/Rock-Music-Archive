@@ -3125,17 +3125,6 @@
       "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
     },
     {
-      "id": "the-ramones",
-      "name": "Ramones",
-      "genres": [
-        "punk rock"
-      ],
-      "region": "Estados Unidos",
-      "coverage_status": "queued",
-      "priority": 2,
-      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
-    },
-    {
       "id": "the-yeah-yeah-yeahs",
       "name": "Yeah Yeah Yeahs",
       "genres": [
