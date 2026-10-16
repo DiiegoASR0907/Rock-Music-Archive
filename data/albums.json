@@ -7962,5 +7962,139 @@
       }
     ],
     "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-rolling-stones-the-rolling-stones-1964",
+    "band_id": "the-rolling-stones",
+    "title": "The Rolling Stones",
+    "album_type": "studio",
+    "original_release_date": "1964-04-16",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición británica original de Decca (LK 4605), elegida como punto de partida cronológico. La edición estadounidense salió con otro título y una lista de canciones diferente; se registrará como variante separada si se amplía la cobertura por mercados. Fecha y secuencia requieren auditoría final; no confundir con la versión estadounidense England's Newest Hit Makers.",
+    "label": "Decca",
+    "genres": [
+      "rock and roll",
+      "blues rock",
+      "British rhythm and blues"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.rollingstones.com/",
+      "rights_note": "No se almacena una copia local de la portada; la página enlazada sirve como referencia del artista y no garantiza licencia de reutilización."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Route 66",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.stonessessions.com/pdf/Appendix%20-%20Discography%20-%2016-10-2025.pdf",
+        "credit_note": "Duración y crédito editorial por pista pendientes de contrastar con la edición británica original; no se infieren autores a partir de la obra fuente o de versiones anteriores."
+      },
+      {
+        "position": 2,
+        "title": "I Just Want to Make Love to You",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.stonessessions.com/pdf/Appendix%20-%20Discography%20-%2016-10-2025.pdf",
+        "credit_note": "Duración y crédito editorial por pista pendientes de contrastar con la edición británica original; no se infieren autores a partir de la obra fuente o de versiones anteriores."
+      },
+      {
+        "position": 3,
+        "title": "Honest I Do",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.stonessessions.com/pdf/Appendix%20-%20Discography%20-%2016-10-2025.pdf",
+        "credit_note": "Duración y crédito editorial por pista pendientes de contrastar con la edición británica original; no se infieren autores a partir de la obra fuente o de versiones anteriores."
+      },
+      {
+        "position": 4,
+        "title": "Mona (I Need You Baby)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.stonessessions.com/pdf/Appendix%20-%20Discography%20-%2016-10-2025.pdf",
+        "credit_note": "Duración y crédito editorial por pista pendientes de contrastar con la edición británica original; no se infieren autores a partir de la obra fuente o de versiones anteriores."
+      },
+      {
+        "position": 5,
+        "title": "Now I've Got a Witness",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.stonessessions.com/pdf/Appendix%20-%20Discography%20-%2016-10-2025.pdf",
+        "credit_note": "Duración y crédito editorial por pista pendientes de contrastar con la edición británica original; no se infieren autores a partir de la obra fuente o de versiones anteriores."
+      },
+      {
+        "position": 6,
+        "title": "Little by Little",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.stonessessions.com/pdf/Appendix%20-%20Discography%20-%2016-10-2025.pdf",
+        "credit_note": "Duración y crédito editorial por pista pendientes de contrastar con la edición británica original; no se infieren autores a partir de la obra fuente o de versiones anteriores."
+      },
+      {
+        "position": 7,
+        "title": "I'm a King Bee",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.stonessessions.com/pdf/Appendix%20-%20Discography%20-%2016-10-2025.pdf",
+        "credit_note": "Duración y crédito editorial por pista pendientes de contrastar con la edición británica original; no se infieren autores a partir de la obra fuente o de versiones anteriores."
+      },
+      {
+        "position": 8,
+        "title": "Carol",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.stonessessions.com/pdf/Appendix%20-%20Discography%20-%2016-10-2025.pdf",
+        "credit_note": "Duración y crédito editorial por pista pendientes de contrastar con la edición británica original; no se infieren autores a partir de la obra fuente o de versiones anteriores."
+      },
+      {
+        "position": 9,
+        "title": "Tell Me (You're Coming Back)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.stonessessions.com/pdf/Appendix%20-%20Discography%20-%2016-10-2025.pdf",
+        "credit_note": "Duración y crédito editorial por pista pendientes de contrastar con la edición británica original; no se infieren autores a partir de la obra fuente o de versiones anteriores."
+      },
+      {
+        "position": 10,
+        "title": "Can I Get a Witness",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.stonessessions.com/pdf/Appendix%20-%20Discography%20-%2016-10-2025.pdf",
+        "credit_note": "Duración y crédito editorial por pista pendientes de contrastar con la edición británica original; no se infieren autores a partir de la obra fuente o de versiones anteriores."
+      },
+      {
+        "position": 11,
+        "title": "You Can Make It If You Try",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.stonessessions.com/pdf/Appendix%20-%20Discography%20-%2016-10-2025.pdf",
+        "credit_note": "Duración y crédito editorial por pista pendientes de contrastar con la edición británica original; no se infieren autores a partir de la obra fuente o de versiones anteriores."
+      },
+      {
+        "position": 12,
+        "title": "Walking the Dog",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://www.stonessessions.com/pdf/Appendix%20-%20Discography%20-%2016-10-2025.pdf",
+        "credit_note": "Duración y crédito editorial por pista pendientes de contrastar con la edición británica original; no se infieren autores a partir de la obra fuente o de versiones anteriores."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía y secuencia del LP británico — The Rolling Stones Complete Recording Sessions (fuente secundaria especializada)",
+        "url": "https://www.stonessessions.com/pdf/Appendix%20-%20Discography%20-%2016-10-2025.pdf"
+      },
+      {
+        "title": "The Rolling Stones — discografía general (contraste de versiones británica y estadounidense)",
+        "url": "https://en.wikipedia.org/wiki/The_Rolling_Stones_discography"
+      },
+      {
+        "title": "The Rolling Stones — sitio oficial",
+        "url": "https://www.rollingstones.com/"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
