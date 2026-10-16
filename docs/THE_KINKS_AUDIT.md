@@ -2,7 +2,7 @@
 
 ## Alcance de la primera pasada
 
-Se ha cargado una primera pasada cronológica de la línea discográfica británica de estudio, desde **The Kinks** (1964) hasta **Phobia** (1993): 22 registros.
+Se ha cargado una primera pasada cronológica de la línea discográfica británica de estudio, desde **The Kinks** (1964) hasta **Phobia** (1993): 23 registros.
 
 - Estado de cobertura: primera pasada completa para la secuencia principal.
 - Estado de verificación: `needs_verification`.
