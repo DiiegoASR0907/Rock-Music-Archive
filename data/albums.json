@@ -3556,14 +3556,14 @@
     "album_type": "studio",
     "original_release_date": "1973-03-28",
     "country_or_market": "Estados Unidos",
-    "edition_note": "Edición original del álbum, secuencia original de 8 pistas; no incluye el material adicional de las reediciones deluxe. Fecha y orden contrastados con la discografía oficial de Led Zeppelin; compositores y duraciones contrastados con AllMusic. Las duraciones pueden variar ligeramente según edición y remasterización. Nota de auditoría: las duraciones y los créditos son referencias secundarias de catálogo (AllMusic u otra fuente indicada por pista), no una transcripción cotejada contra un ejemplar físico identificado del LP original; las diferencias por edición y los créditos históricos discutidos siguen abiertos.",
+    "edition_note": "Secuencia original estadounidense de 8 pistas; referencia de créditos y duraciones: notas reproducidas de la edición remasterizada de Atlantic, que identifican el lanzamiento original como Atlantic 7255, publicado el 28 de marzo de 1973. Las duraciones pueden variar entre ediciones. Esta revisión transcribe los tiempos y créditos de la edición de referencia; no resuelve por sí sola diferencias históricas o editoriales.",
     "label": "Swan Song",
     "genres": [
       "hard rock",
       "blues rock",
       "heavy metal"
     ],
-    "duration_minutes": 40.87,
+    "duration_minutes": 40.65,
     "cover": {
       "image_url": null,
       "source_url": "https://discography.ledzeppelin.com/hoth",
@@ -3573,14 +3573,14 @@
       {
         "position": 1,
         "title": "The Song Remains the Same",
-        "duration": "5:30",
+        "duration": "5:28",
         "writers": [
           "Jimmy Page",
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/hoth",
-        "duration_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648",
-        "writer_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+        "duration_source_url": "https://albumlinernotes.com/Houses_Of_The_Holy.html",
+        "writer_source_url": "https://albumlinernotes.com/Houses_Of_The_Holy.html"
       },
       {
         "position": 2,
@@ -3591,25 +3591,25 @@
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/hoth",
-        "duration_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648",
-        "writer_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+        "duration_source_url": "https://albumlinernotes.com/Houses_Of_The_Holy.html",
+        "writer_source_url": "https://albumlinernotes.com/Houses_Of_The_Holy.html"
       },
       {
         "position": 3,
         "title": "Over the Hills and Far Away",
-        "duration": "4:50",
+        "duration": "4:47",
         "writers": [
           "Jimmy Page",
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/hoth",
-        "duration_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648",
-        "writer_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+        "duration_source_url": "https://albumlinernotes.com/Houses_Of_The_Holy.html",
+        "writer_source_url": "https://albumlinernotes.com/Houses_Of_The_Holy.html"
       },
       {
         "position": 4,
         "title": "The Crunge",
-        "duration": "3:17",
+        "duration": "3:13",
         "writers": [
           "John Bonham",
           "John Paul Jones",
@@ -3617,20 +3617,20 @@
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/hoth",
-        "duration_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648",
-        "writer_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+        "duration_source_url": "https://albumlinernotes.com/Houses_Of_The_Holy.html",
+        "writer_source_url": "https://albumlinernotes.com/Houses_Of_The_Holy.html"
       },
       {
         "position": 5,
         "title": "Dancing Days",
-        "duration": "3:43",
+        "duration": "3:41",
         "writers": [
           "Jimmy Page",
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/hoth",
-        "duration_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648",
-        "writer_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+        "duration_source_url": "https://albumlinernotes.com/Houses_Of_The_Holy.html",
+        "writer_source_url": "https://albumlinernotes.com/Houses_Of_The_Holy.html"
       },
       {
         "position": 6,
@@ -3643,26 +3643,26 @@
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/hoth",
-        "duration_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648",
-        "writer_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+        "duration_source_url": "https://albumlinernotes.com/Houses_Of_The_Holy.html",
+        "writer_source_url": "https://albumlinernotes.com/Houses_Of_The_Holy.html"
       },
       {
         "position": 7,
         "title": "No Quarter",
-        "duration": "7:00",
+        "duration": "6:59",
         "writers": [
           "John Paul Jones",
           "Jimmy Page",
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/hoth",
-        "duration_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648",
-        "writer_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+        "duration_source_url": "https://albumlinernotes.com/Houses_Of_The_Holy.html",
+        "writer_source_url": "https://albumlinernotes.com/Houses_Of_The_Holy.html"
       },
       {
         "position": 8,
         "title": "The Ocean",
-        "duration": "4:31",
+        "duration": "4:30",
         "writers": [
           "John Bonham",
           "John Paul Jones",
@@ -3670,18 +3670,26 @@
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/hoth",
-        "duration_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648",
-        "writer_source_url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+        "duration_source_url": "https://albumlinernotes.com/Houses_Of_The_Holy.html",
+        "writer_source_url": "https://albumlinernotes.com/Houses_Of_The_Holy.html"
       }
     ],
     "sources": [
       {
-        "title": "Houses of the Holy — discografía oficial de Led Zeppelin: fecha y lista original",
+        "title": "Houses of the Holy — discografía oficial de Led Zeppelin: fecha y secuencia original",
         "url": "https://discography.ledzeppelin.com/hoth"
       },
       {
-        "title": "Houses of the Holy — AllMusic: compositores y duraciones por pista",
+        "title": "Houses of the Holy — notas reproducidas de la edición remasterizada: créditos y duraciones",
+        "url": "https://albumlinernotes.com/Houses_Of_The_Holy.html"
+      },
+      {
+        "title": "Houses of the Holy — AllMusic: fuente secundaria de contraste y variantes de duración",
         "url": "https://www.allmusic.com/album/houses-of-the-holy-mw0000190648"
+      },
+      {
+        "title": "Houses of the Holy — Rhino: duraciones de edición remasterizada y material complementario separado",
+        "url": "https://www.rhino.com/product/houses-of-the-holy"
       }
     ],
     "verification_status": "verified"
