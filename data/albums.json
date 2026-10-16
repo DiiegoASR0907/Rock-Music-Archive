@@ -1672,7 +1672,7 @@
     "album_type": "studio",
     "original_release_date": "1968-11-22",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría.",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
     "label": "Apple Records",
     "genres": [
       "rock",
@@ -1690,7 +1690,7 @@
       {
         "position": 1,
         "title": "Back in the U.S.S.R.",
-        "duration": null,
+        "duration": "2:43",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1700,7 +1700,7 @@
       {
         "position": 2,
         "title": "Dear Prudence",
-        "duration": null,
+        "duration": "3:56",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1710,7 +1710,7 @@
       {
         "position": 3,
         "title": "Glass Onion",
-        "duration": null,
+        "duration": "2:17",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1720,7 +1720,7 @@
       {
         "position": 4,
         "title": "Ob-La-Di, Ob-La-Da",
-        "duration": null,
+        "duration": "3:09",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1730,7 +1730,7 @@
       {
         "position": 5,
         "title": "Wild Honey Pie",
-        "duration": null,
+        "duration": "0:53",
         "writers": [
           "Paul McCartney"
         ],
@@ -1739,7 +1739,7 @@
       {
         "position": 6,
         "title": "The Continuing Story of Bungalow Bill",
-        "duration": null,
+        "duration": "3:14",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1749,7 +1749,7 @@
       {
         "position": 7,
         "title": "While My Guitar Gently Weeps",
-        "duration": null,
+        "duration": "4:45",
         "writers": [
           "George Harrison"
         ],
@@ -1758,7 +1758,7 @@
       {
         "position": 8,
         "title": "Happiness Is a Warm Gun",
-        "duration": null,
+        "duration": "2:43",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1768,7 +1768,7 @@
       {
         "position": 9,
         "title": "Martha My Dear",
-        "duration": null,
+        "duration": "2:28",
         "writers": [
           "Paul McCartney"
         ],
@@ -1777,7 +1777,7 @@
       {
         "position": 10,
         "title": "I'm So Tired",
-        "duration": null,
+        "duration": "2:03",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1787,7 +1787,7 @@
       {
         "position": 11,
         "title": "Blackbird",
-        "duration": null,
+        "duration": "2:18",
         "writers": [
           "Paul McCartney"
         ],
@@ -1796,7 +1796,7 @@
       {
         "position": 12,
         "title": "Piggies",
-        "duration": null,
+        "duration": "2:04",
         "writers": [
           "George Harrison"
         ],
@@ -1805,7 +1805,7 @@
       {
         "position": 13,
         "title": "Rocky Raccoon",
-        "duration": null,
+        "duration": "3:33",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1815,7 +1815,7 @@
       {
         "position": 14,
         "title": "Don't Pass Me By",
-        "duration": null,
+        "duration": "3:50",
         "writers": [
           "Richard Starkey"
         ],
@@ -1824,7 +1824,7 @@
       {
         "position": 15,
         "title": "Why Don't We Do It in the Road?",
-        "duration": null,
+        "duration": "1:41",
         "writers": [
           "Paul McCartney"
         ],
@@ -1833,7 +1833,7 @@
       {
         "position": 16,
         "title": "I Will",
-        "duration": null,
+        "duration": "1:46",
         "writers": [
           "Paul McCartney"
         ],
@@ -1842,7 +1842,7 @@
       {
         "position": 17,
         "title": "Julia",
-        "duration": null,
+        "duration": "2:54",
         "writers": [
           "John Lennon"
         ],
@@ -1851,7 +1851,7 @@
       {
         "position": 18,
         "title": "Birthday",
-        "duration": null,
+        "duration": "2:42",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1861,7 +1861,7 @@
       {
         "position": 19,
         "title": "Yer Blues",
-        "duration": null,
+        "duration": "4:01",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1871,7 +1871,7 @@
       {
         "position": 20,
         "title": "Mother Nature's Son",
-        "duration": null,
+        "duration": "2:48",
         "writers": [
           "Paul McCartney"
         ],
@@ -1880,7 +1880,7 @@
       {
         "position": 21,
         "title": "Everybody's Got Something to Hide Except Me and My Monkey",
-        "duration": null,
+        "duration": "2:24",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1890,7 +1890,7 @@
       {
         "position": 22,
         "title": "Sexy Sadie",
-        "duration": null,
+        "duration": "3:15",
         "writers": [
           "John Lennon"
         ],
@@ -1899,7 +1899,7 @@
       {
         "position": 23,
         "title": "Helter Skelter",
-        "duration": null,
+        "duration": "4:29",
         "writers": [
           "Paul McCartney"
         ],
@@ -1908,7 +1908,7 @@
       {
         "position": 24,
         "title": "Long, Long, Long",
-        "duration": null,
+        "duration": "3:06",
         "writers": [
           "George Harrison"
         ],
@@ -1917,7 +1917,7 @@
       {
         "position": 25,
         "title": "Revolution 1",
-        "duration": null,
+        "duration": "4:15",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -1927,7 +1927,7 @@
       {
         "position": 26,
         "title": "Honey Pie",
-        "duration": null,
+        "duration": "2:41",
         "writers": [
           "Paul McCartney"
         ],
@@ -1936,7 +1936,7 @@
       {
         "position": 27,
         "title": "Savoy Truffle",
-        "duration": null,
+        "duration": "2:54",
         "writers": [
           "George Harrison"
         ],
@@ -1945,7 +1945,7 @@
       {
         "position": 28,
         "title": "Cry Baby Cry",
-        "duration": null,
+        "duration": "3:02",
         "writers": [
           "John Lennon"
         ],
@@ -1954,7 +1954,7 @@
       {
         "position": 29,
         "title": "Revolution 9",
-        "duration": null,
+        "duration": "8:22",
         "writers": [
           "John Lennon",
           "Paul McCartney",
@@ -1966,7 +1966,7 @@
       {
         "position": 30,
         "title": "Good Night",
-        "duration": null,
+        "duration": "3:11",
         "writers": [
           "John Lennon"
         ],
@@ -1997,6 +1997,10 @@
       {
         "title": "The Beatles — índice oficial de canciones",
         "url": "https://www.thebeatles.com/songs"
+      },
+      {
+        "title": "The Beatles — edición original de referencia, lista, créditos y duraciones",
+        "url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       }
     ],
     "verification_status": "needs_verification"
@@ -2008,7 +2012,7 @@
     "album_type": "soundtrack",
     "original_release_date": "1969-01-17",
     "country_or_market": "Reino Unido",
-    "edition_note": "Banda sonora original de la película; se conserva en el archivo como tipo soundtrack, separada de los álbumes de estudio estrictos. Incluye canciones de los Beatles y piezas instrumentales de George Martin.",
+    "edition_note": "Banda sonora original de la película; se conserva en el archivo como tipo soundtrack, separada de los álbumes de estudio estrictos. Incluye canciones de los Beatles y piezas instrumentales de George Martin. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
     "label": "Apple Records",
     "genres": [
       "soundtrack",
@@ -2025,7 +2029,7 @@
       {
         "position": 1,
         "title": "Yellow Submarine",
-        "duration": null,
+        "duration": "2:40",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2035,7 +2039,7 @@
       {
         "position": 2,
         "title": "Only a Northern Song",
-        "duration": null,
+        "duration": "3:24",
         "writers": [
           "George Harrison"
         ],
@@ -2044,7 +2048,7 @@
       {
         "position": 3,
         "title": "All Together Now",
-        "duration": null,
+        "duration": "2:10",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2054,7 +2058,7 @@
       {
         "position": 4,
         "title": "Hey Bulldog",
-        "duration": null,
+        "duration": "3:11",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2064,7 +2068,7 @@
       {
         "position": 5,
         "title": "It's All Too Much",
-        "duration": null,
+        "duration": "6:25",
         "writers": [
           "George Harrison"
         ],
@@ -2073,7 +2077,7 @@
       {
         "position": 6,
         "title": "All You Need Is Love",
-        "duration": null,
+        "duration": "3:57",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2083,7 +2087,7 @@
       {
         "position": 7,
         "title": "Pepperland",
-        "duration": null,
+        "duration": "2:21",
         "writers": [
           "George Martin"
         ],
@@ -2092,7 +2096,7 @@
       {
         "position": 8,
         "title": "Sea of Time",
-        "duration": null,
+        "duration": "3:00",
         "writers": [
           "George Martin"
         ],
@@ -2101,7 +2105,7 @@
       {
         "position": 9,
         "title": "Sea of Holes",
-        "duration": null,
+        "duration": "2:16",
         "writers": [
           "George Martin"
         ],
@@ -2110,7 +2114,7 @@
       {
         "position": 10,
         "title": "Sea of Monsters",
-        "duration": null,
+        "duration": "3:35",
         "writers": [
           "George Martin"
         ],
@@ -2119,7 +2123,7 @@
       {
         "position": 11,
         "title": "March of the Meanies",
-        "duration": null,
+        "duration": "2:22",
         "writers": [
           "George Martin"
         ],
@@ -2128,7 +2132,7 @@
       {
         "position": 12,
         "title": "Pepperland Laid Waste",
-        "duration": null,
+        "duration": "2:15",
         "writers": [
           "George Martin"
         ],
@@ -2137,7 +2141,7 @@
       {
         "position": 13,
         "title": "Yellow Submarine in Pepperland",
-        "duration": null,
+        "duration": "2:09",
         "writers": [
           "George Martin"
         ],
@@ -2164,6 +2168,10 @@
       {
         "title": "The Beatles — índice oficial de canciones",
         "url": "https://www.thebeatles.com/songs"
+      },
+      {
+        "title": "Yellow Submarine — edición original de referencia, lista, créditos y duraciones",
+        "url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/"
       }
     ],
     "verification_status": "needs_verification"
@@ -2175,7 +2183,7 @@
     "album_type": "studio",
     "original_release_date": "1969-09-26",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist del álbum original, siguiendo la lista publicada por la tienda oficial en la edición aniversario. La secuencia original incluye Her Majesty como pista 17.",
+    "edition_note": "Tracklist del álbum original, siguiendo la lista publicada por la tienda oficial en la edición aniversario. La secuencia original incluye Her Majesty como pista 17. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
     "label": "Apple Records",
     "genres": [
       "rock",
@@ -2192,7 +2200,7 @@
       {
         "position": 1,
         "title": "Come Together",
-        "duration": null,
+        "duration": "4:20",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2202,7 +2210,7 @@
       {
         "position": 2,
         "title": "Something",
-        "duration": null,
+        "duration": "3:03",
         "writers": [
           "George Harrison"
         ],
@@ -2211,7 +2219,7 @@
       {
         "position": 3,
         "title": "Maxwell's Silver Hammer",
-        "duration": null,
+        "duration": "3:27",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2221,7 +2229,7 @@
       {
         "position": 4,
         "title": "Oh! Darling",
-        "duration": null,
+        "duration": "3:26",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2231,7 +2239,7 @@
       {
         "position": 5,
         "title": "Octopus's Garden",
-        "duration": null,
+        "duration": "2:51",
         "writers": [
           "Richard Starkey"
         ],
@@ -2240,7 +2248,7 @@
       {
         "position": 6,
         "title": "I Want You (She's So Heavy)",
-        "duration": null,
+        "duration": "7:47",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2250,7 +2258,7 @@
       {
         "position": 7,
         "title": "Here Comes the Sun",
-        "duration": null,
+        "duration": "3:05",
         "writers": [
           "George Harrison"
         ],
@@ -2259,7 +2267,7 @@
       {
         "position": 8,
         "title": "Because",
-        "duration": null,
+        "duration": "2:45",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2269,7 +2277,7 @@
       {
         "position": 9,
         "title": "You Never Give Me Your Money",
-        "duration": null,
+        "duration": "4:03",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2279,7 +2287,7 @@
       {
         "position": 10,
         "title": "Sun King",
-        "duration": null,
+        "duration": "2:26",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2289,7 +2297,7 @@
       {
         "position": 11,
         "title": "Mean Mr Mustard",
-        "duration": null,
+        "duration": "1:06",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2299,7 +2307,7 @@
       {
         "position": 12,
         "title": "Polythene Pam",
-        "duration": null,
+        "duration": "1:13",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2309,7 +2317,7 @@
       {
         "position": 13,
         "title": "She Came In Through the Bathroom Window",
-        "duration": null,
+        "duration": "1:57",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2319,7 +2327,7 @@
       {
         "position": 14,
         "title": "Golden Slumbers",
-        "duration": null,
+        "duration": "1:31",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2329,7 +2337,7 @@
       {
         "position": 15,
         "title": "Carry That Weight",
-        "duration": null,
+        "duration": "1:36",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2339,7 +2347,7 @@
       {
         "position": 16,
         "title": "The End",
-        "duration": null,
+        "duration": "2:20",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2349,7 +2357,7 @@
       {
         "position": 17,
         "title": "Her Majesty",
-        "duration": null,
+        "duration": "0:23",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2373,6 +2381,10 @@
       {
         "title": "The Beatles — índice oficial de canciones",
         "url": "https://www.thebeatles.com/songs"
+      },
+      {
+        "title": "Abbey Road — edición original de referencia, lista, créditos y duraciones",
+        "url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       }
     ],
     "verification_status": "verified"
@@ -2384,7 +2396,7 @@
     "album_type": "studio",
     "original_release_date": "1970-05-08",
     "country_or_market": "Reino Unido",
-    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría.",
+    "edition_note": "Tracklist de la edición original británica; títulos y secuencia normalizados con fuentes oficiales. Orden de pistas contrastado con una edición publicada en la tienda oficial; los créditos de composición y las duraciones siguen pendientes de auditoría. Duraciones de pistas incorporadas con referencia a la edición original documentada en The Paul McCartney Project; se mantienen sujetas a revisión final de variante y mezcla.",
     "label": "Apple Records",
     "genres": [
       "rock",
@@ -2401,7 +2413,7 @@
       {
         "position": 1,
         "title": "Two of Us",
-        "duration": null,
+        "duration": "3:37",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2411,7 +2423,7 @@
       {
         "position": 2,
         "title": "Dig a Pony",
-        "duration": null,
+        "duration": "3:55",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2421,7 +2433,7 @@
       {
         "position": 3,
         "title": "Across the Universe",
-        "duration": null,
+        "duration": "3:48",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2431,7 +2443,7 @@
       {
         "position": 4,
         "title": "I Me Mine",
-        "duration": null,
+        "duration": "2:25",
         "writers": [
           "George Harrison"
         ],
@@ -2440,7 +2452,7 @@
       {
         "position": 5,
         "title": "Dig It",
-        "duration": null,
+        "duration": "0:50",
         "writers": [
           "John Lennon",
           "Paul McCartney",
@@ -2452,7 +2464,7 @@
       {
         "position": 6,
         "title": "Let It Be",
-        "duration": null,
+        "duration": "4:03",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2462,7 +2474,7 @@
       {
         "position": 7,
         "title": "Maggie Mae",
-        "duration": null,
+        "duration": "0:40",
         "writers": [
           "Traditional",
           "The Beatles (arrangement)"
@@ -2472,7 +2484,7 @@
       {
         "position": 8,
         "title": "I've Got a Feeling",
-        "duration": null,
+        "duration": "3:37",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2482,7 +2494,7 @@
       {
         "position": 9,
         "title": "One After 909",
-        "duration": null,
+        "duration": "2:54",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2492,7 +2504,7 @@
       {
         "position": 10,
         "title": "The Long and Winding Road",
-        "duration": null,
+        "duration": "3:38",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2502,7 +2514,7 @@
       {
         "position": 11,
         "title": "For You Blue",
-        "duration": null,
+        "duration": "2:32",
         "writers": [
           "George Harrison"
         ],
@@ -2511,7 +2523,7 @@
       {
         "position": 12,
         "title": "Get Back",
-        "duration": null,
+        "duration": "3:09",
         "writers": [
           "John Lennon",
           "Paul McCartney"
@@ -2547,6 +2559,10 @@
       {
         "title": "The Beatles — índice oficial de canciones",
         "url": "https://www.thebeatles.com/songs"
+      },
+      {
+        "title": "Let It Be — edición original de referencia, lista, créditos y duraciones",
+        "url": "https://www.the-paulmccartney-project.com/album/let-it-be/"
       }
     ],
     "verification_status": "needs_verification"
