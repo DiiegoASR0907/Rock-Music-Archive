@@ -262,5 +262,24 @@
       }
     ],
     "status": "starter_record"
+  },
+  {
+    "id": "creedence-clearwater-revival",
+    "name": "Creedence Clearwater Revival",
+    "country_of_origin": "Estados Unidos",
+    "formed_year": 1967,
+    "disbanded_year": 1972,
+    "genres": [
+      "roots rock",
+      "swamp rock",
+      "blues rock"
+    ],
+    "sources": [
+      {
+        "title": "AllMusic — biografía y discografía",
+        "url": "https://www.allmusic.com/artist/creedence-clearwater-revival-mn0000131627"
+      }
+    ],
+    "status": "starter_record"
   }
 ]
