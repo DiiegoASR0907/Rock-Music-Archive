@@ -22524,5 +22524,1633 @@
       }
     ],
     "verification_status": "needs_verification"
+  },
+  {
+    "id": "lynyrd-skynyrd-pronounced-1973",
+    "band_id": "lynyrd-skynyrd",
+    "title": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
+    "album_type": "studio",
+    "original_release_date": "1973-08-13",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura. Fechas, orden de pistas, duración y créditos pendientes de auditoría global posterior.",
+    "label": "MCA Records",
+    "genres": [
+      "southern rock",
+      "hard rock",
+      "blues rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://lynyrdskynyrd.com/music",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "I Ain't the One",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Tuesday's Gone",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Gimme Three Steps",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Simple Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "Things Goin' On",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Mississippi Kid",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Poison Whiskey",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Free Bird",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de Lynyrd Skynyrd",
+        "url": "https://lynyrdskynyrd.com/music"
+      },
+      {
+        "title": "Discografía de Lynyrd Skynyrd (fuente secundaria)",
+        "url": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "lynyrd-skynyrd-second-helping-1974",
+    "band_id": "lynyrd-skynyrd",
+    "title": "Second Helping",
+    "album_type": "studio",
+    "original_release_date": "1974-04-15",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura. Fechas, orden de pistas, duración y créditos pendientes de auditoría global posterior.",
+    "label": "MCA Records",
+    "genres": [
+      "southern rock",
+      "hard rock",
+      "blues rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://lynyrdskynyrd.com/music",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Sweet Home Alabama",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "I Need You",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Don't Ask Me No Questions",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Workin' for MCA",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "The Ballad of Curtis Loew",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Swamp Music",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "The Needle and the Spoon",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Call Me the Breeze",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de Lynyrd Skynyrd",
+        "url": "https://lynyrdskynyrd.com/music"
+      },
+      {
+        "title": "Discografía de Lynyrd Skynyrd (fuente secundaria)",
+        "url": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "lynyrd-skynyrd-nuthin-fancy-1975",
+    "band_id": "lynyrd-skynyrd",
+    "title": "Nuthin' Fancy",
+    "album_type": "studio",
+    "original_release_date": "1975-03-24",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura. Fechas, orden de pistas, duración y créditos pendientes de auditoría global posterior.",
+    "label": "MCA Records",
+    "genres": [
+      "southern rock",
+      "hard rock",
+      "blues rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://lynyrdskynyrd.com/music",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Saturday Night Special",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Cheatin' Woman",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Railroad Song",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "I'm a Country Boy",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "On the Hunt",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Am I Losin'",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Made in the Shade",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Whiskey Rock-a-Roller",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de Lynyrd Skynyrd",
+        "url": "https://lynyrdskynyrd.com/music"
+      },
+      {
+        "title": "Discografía de Lynyrd Skynyrd (fuente secundaria)",
+        "url": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "lynyrd-skynyrd-gimme-back-my-bullets-1976",
+    "band_id": "lynyrd-skynyrd",
+    "title": "Gimme Back My Bullets",
+    "album_type": "studio",
+    "original_release_date": "1976-02-02",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura. Fechas, orden de pistas, duración y créditos pendientes de auditoría global posterior.",
+    "label": "MCA Records",
+    "genres": [
+      "southern rock",
+      "hard rock",
+      "blues rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://lynyrdskynyrd.com/music",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Gimme Back My Bullets",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Every Mother's Son",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Trust",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "I Got the Same Old Blues",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "Double Trouble",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Roll Gypsy Roll",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Searching",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Cry for the Bad Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 9,
+        "title": "All I Can Do Is Write About It",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de Lynyrd Skynyrd",
+        "url": "https://lynyrdskynyrd.com/music"
+      },
+      {
+        "title": "Discografía de Lynyrd Skynyrd (fuente secundaria)",
+        "url": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "lynyrd-skynyrd-street-survivors-1977",
+    "band_id": "lynyrd-skynyrd",
+    "title": "Street Survivors",
+    "album_type": "studio",
+    "original_release_date": "1977-10-17",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura. Fechas, orden de pistas, duración y créditos pendientes de auditoría global posterior.",
+    "label": "MCA Records",
+    "genres": [
+      "southern rock",
+      "hard rock",
+      "blues rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://lynyrdskynyrd.com/music",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "What's Your Name",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "That Smell",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "One More Time",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "I Know a Little",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "You Got That Right",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "I Never Dreamed",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Honky Tonk Night Time Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Ain't No Good Life",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de Lynyrd Skynyrd",
+        "url": "https://lynyrdskynyrd.com/music"
+      },
+      {
+        "title": "Discografía de Lynyrd Skynyrd (fuente secundaria)",
+        "url": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "lynyrd-skynyrd-1991-1991",
+    "band_id": "lynyrd-skynyrd",
+    "title": "Lynyrd Skynyrd 1991",
+    "album_type": "studio",
+    "original_release_date": "1991-06-11",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura. Fechas, orden de pistas, duración y créditos pendientes de auditoría global posterior.",
+    "label": "Atlantic Records",
+    "genres": [
+      "southern rock",
+      "hard rock",
+      "blues rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://lynyrdskynyrd.com/music",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Smokestack Lightning",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Keeping the Faith",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Southern Women",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Pure and Simple",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "I've Seen Enough",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Good Thing",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Money Back Guarantee",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Wino",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 9,
+        "title": "If I'm Wrong",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 10,
+        "title": "Backstreet Crawler",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de Lynyrd Skynyrd",
+        "url": "https://lynyrdskynyrd.com/music"
+      },
+      {
+        "title": "Discografía de Lynyrd Skynyrd (fuente secundaria)",
+        "url": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "lynyrd-skynyrd-last-rebel-1993",
+    "band_id": "lynyrd-skynyrd",
+    "title": "The Last Rebel",
+    "album_type": "studio",
+    "original_release_date": "1993-02-16",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura. Fechas, orden de pistas, duración y créditos pendientes de auditoría global posterior.",
+    "label": "Atlantic Records",
+    "genres": [
+      "southern rock",
+      "hard rock",
+      "blues rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://lynyrdskynyrd.com/music",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Good Lovin's Hard to Find",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "One Thing",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Can't Take That Away",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Best Things in Life",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "The Last Rebel",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Outta Hell in My Dodge",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Kiss Your Freedom Goodbye",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "South of Heaven",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 9,
+        "title": "Love Don't Always Come Easy",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 10,
+        "title": "Born to Run",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de Lynyrd Skynyrd",
+        "url": "https://lynyrdskynyrd.com/music"
+      },
+      {
+        "title": "Discografía de Lynyrd Skynyrd (fuente secundaria)",
+        "url": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "lynyrd-skynyrd-endangered-species-1994",
+    "band_id": "lynyrd-skynyrd",
+    "title": "Endangered Species",
+    "album_type": "studio",
+    "original_release_date": "1994-08-09",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura. Fechas, orden de pistas, duración y créditos pendientes de auditoría global posterior.",
+    "label": "Capricorn Records",
+    "genres": [
+      "southern rock",
+      "hard rock",
+      "blues rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://lynyrdskynyrd.com/music",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Down South Jukin'",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Heartbreak Hotel",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Devil in the Bottle",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Things Goin' On",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "Saturday Night Special",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Sweet Home Alabama",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Mississippi Kid",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Poison Whiskey",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 9,
+        "title": "The Last Rebel",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de Lynyrd Skynyrd",
+        "url": "https://lynyrdskynyrd.com/music"
+      },
+      {
+        "title": "Discografía de Lynyrd Skynyrd (fuente secundaria)",
+        "url": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "lynyrd-skynyrd-twenty-1997",
+    "band_id": "lynyrd-skynyrd",
+    "title": "Twenty",
+    "album_type": "studio",
+    "original_release_date": "1997-04-29",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura. Fechas, orden de pistas, duración y créditos pendientes de auditoría global posterior.",
+    "label": "CMC International",
+    "genres": [
+      "southern rock",
+      "hard rock",
+      "blues rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://lynyrdskynyrd.com/music",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "We Ain't Much Different",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Bring It On",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Voodoo Lake",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Home Is Where the Heart Is",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "Travelin' Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Talked Myself Right Into It",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Never Too Late",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "O.R.R.",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 9,
+        "title": "I Need You",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 10,
+        "title": "You Got That Right",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 11,
+        "title": "Preacher Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 12,
+        "title": "Tomorrow's Goodbye",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 13,
+        "title": "Rough Around the Edges",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 14,
+        "title": "None of Us Are Free",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de Lynyrd Skynyrd",
+        "url": "https://lynyrdskynyrd.com/music"
+      },
+      {
+        "title": "Discografía de Lynyrd Skynyrd (fuente secundaria)",
+        "url": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "lynyrd-skynyrd-edge-of-forever-1999",
+    "band_id": "lynyrd-skynyrd",
+    "title": "Edge of Forever",
+    "album_type": "studio",
+    "original_release_date": "1999-08-10",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura. Fechas, orden de pistas, duración y créditos pendientes de auditoría global posterior.",
+    "label": "SPV",
+    "genres": [
+      "southern rock",
+      "hard rock",
+      "blues rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://lynyrdskynyrd.com/music",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "We Ain't Much Different",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Preacher Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Tomorrow's Goodbye",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Edge of Forever",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "Workin'",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Mean Streets",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Gone Fishin'",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Through It All",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 9,
+        "title": "Money Back Guarantee",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 10,
+        "title": "Mad Hatter",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 11,
+        "title": "Rough Around the Edges",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 12,
+        "title": "Not My Cross to Bear",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de Lynyrd Skynyrd",
+        "url": "https://lynyrdskynyrd.com/music"
+      },
+      {
+        "title": "Discografía de Lynyrd Skynyrd (fuente secundaria)",
+        "url": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "lynyrd-skynyrd-christmas-time-again-2000",
+    "band_id": "lynyrd-skynyrd",
+    "title": "Christmas Time Again",
+    "album_type": "studio",
+    "original_release_date": "2000-09-12",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura. Fechas, orden de pistas, duración y créditos pendientes de auditoría global posterior.",
+    "label": "Sanctuary Records",
+    "genres": [
+      "southern rock",
+      "hard rock",
+      "blues rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://lynyrdskynyrd.com/music",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Santa Claus Wants Some Lovin'",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Christmas Time Again",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Greensleeves",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Hallelujah, It's Christmas",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "Run Run Rudolph",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Mama's Song",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Santa's Messin' with the Kid",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Classical Christmas",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 9,
+        "title": "Rudolph the Red-Nosed Reindeer",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 10,
+        "title": "Santa Claus Is Coming to Town",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 11,
+        "title": "Christmas in Dixie",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 12,
+        "title": "Skynyrd Family",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de Lynyrd Skynyrd",
+        "url": "https://lynyrdskynyrd.com/music"
+      },
+      {
+        "title": "Discografía de Lynyrd Skynyrd (fuente secundaria)",
+        "url": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "lynyrd-skynyrd-vicious-cycle-2003",
+    "band_id": "lynyrd-skynyrd",
+    "title": "Vicious Cycle",
+    "album_type": "studio",
+    "original_release_date": "2003-05-20",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura. Fechas, orden de pistas, duración y créditos pendientes de auditoría global posterior.",
+    "label": "Sanctuary Records",
+    "genres": [
+      "southern rock",
+      "hard rock",
+      "blues rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://lynyrdskynyrd.com/music",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "That's How I Like It",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Pick 'Em Up",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Dead Man Walkin'",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "The Way",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "Red White and Blue",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Sweet Mama",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "All Funked Up",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Hell or Heaven",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 9,
+        "title": "Mad Hatter",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 10,
+        "title": "Rockin' Little Town",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 11,
+        "title": "Hummingbird",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 12,
+        "title": "Life's Lessons",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 13,
+        "title": "Lucky Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de Lynyrd Skynyrd",
+        "url": "https://lynyrdskynyrd.com/music"
+      },
+      {
+        "title": "Discografía de Lynyrd Skynyrd (fuente secundaria)",
+        "url": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "lynyrd-skynyrd-god-and-guns-2009",
+    "band_id": "lynyrd-skynyrd",
+    "title": "God & Guns",
+    "album_type": "studio",
+    "original_release_date": "2009-09-29",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura. Fechas, orden de pistas, duración y créditos pendientes de auditoría global posterior.",
+    "label": "Roadrunner Records",
+    "genres": [
+      "southern rock",
+      "hard rock",
+      "blues rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://lynyrdskynyrd.com/music",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Still Unbroken",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Simple Life",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Little Thing Called You",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Southern Ways",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "Skynyrd Nation",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Unwrite That Song",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Floyd",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "That Ain't My America",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 9,
+        "title": "Comin' Back for More",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 10,
+        "title": "God & Guns",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 11,
+        "title": "Storm",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 12,
+        "title": "Gifted Hands",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de Lynyrd Skynyrd",
+        "url": "https://lynyrdskynyrd.com/music"
+      },
+      {
+        "title": "Discografía de Lynyrd Skynyrd (fuente secundaria)",
+        "url": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "lynyrd-skynyrd-last-of-a-dyin-breed-2012",
+    "band_id": "lynyrd-skynyrd",
+    "title": "Last of a Dyin' Breed",
+    "album_type": "studio",
+    "original_release_date": "2012-08-21",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada de cobertura. Fechas, orden de pistas, duración y créditos pendientes de auditoría global posterior.",
+    "label": "Loud & Proud Records",
+    "genres": [
+      "southern rock",
+      "hard rock",
+      "blues rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://lynyrdskynyrd.com/music",
+      "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Last of a Dyin' Breed",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "One Day at a Time",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Homegrown",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Ready to Fly",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "Nothing Comes Easy",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Honey Hole",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Start Livin' Life Again",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Poor Man's Dream",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 9,
+        "title": "Do It Up Right",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 10,
+        "title": "Sad Song",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      },
+      {
+        "position": 11,
+        "title": "Low Down Dirty",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://lynyrdskynyrd.com/music",
+        "credit_note": "Duración y créditos de composición pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Discografía oficial de Lynyrd Skynyrd",
+        "url": "https://lynyrdskynyrd.com/music"
+      },
+      {
+        "title": "Discografía de Lynyrd Skynyrd (fuente secundaria)",
+        "url": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
