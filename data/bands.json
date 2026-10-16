@@ -417,6 +417,10 @@
       {
         "title": "Sitio oficial de Bob Dylan",
         "url": "https://www.bobdylan.com/"
+      },
+      {
+        "title": "Discografía oficial de Bob Dylan",
+        "url": "https://www.bobdylan.com/albums/?filter=studio"
       }
     ],
     "status": "starter_record"
