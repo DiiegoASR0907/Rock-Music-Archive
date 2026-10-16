@@ -281,5 +281,28 @@
       }
     ],
     "status": "starter_record"
+  },
+  {
+    "id": "eagles",
+    "name": "Eagles",
+    "country_of_origin": "Estados Unidos",
+    "formed_year": 1971,
+    "disbanded_year": null,
+    "genres": [
+      "country rock",
+      "rock",
+      "soft rock"
+    ],
+    "sources": [
+      {
+        "title": "Eagles — catálogo oficial de lanzamientos",
+        "url": "https://eagles.com/pages/releases"
+      },
+      {
+        "title": "Rhino — The Studio Albums 1972–1979",
+        "url": "https://www.rhino.com/product/the-studio-albums-1972-1979"
+      }
+    ],
+    "status": "starter_record"
   }
 ]
