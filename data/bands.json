@@ -375,5 +375,29 @@
       }
     ],
     "status": "starter_record"
+  },
+  {
+    "id": "the-band",
+    "name": "The Band",
+    "country_of_origin": "Canadá/Estados Unidos",
+    "formed_year": 1967,
+    "disbanded_year": 1999,
+    "genres": [
+      "roots rock",
+      "Americana",
+      "folk rock"
+    ],
+    "official_website": "https://www.officialtheband.com/",
+    "sources": [
+      {
+        "title": "The Band — sitio oficial",
+        "url": "https://www.officialtheband.com/"
+      },
+      {
+        "title": "The Band — discografía de estudio",
+        "url": "https://theband.hiof.no/albums/studio_albums.html"
+      }
+    ],
+    "status": "starter_record"
   }
 ]
