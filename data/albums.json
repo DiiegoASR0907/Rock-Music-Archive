@@ -13,7 +13,7 @@
       "beat",
       "pop rock"
     ],
-    "duration_minutes": null,
+    "duration_minutes": 32.32,
     "cover": {
       "image_url": null,
       "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp",
@@ -28,7 +28,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp"
+        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/"
       },
       {
         "position": 2,
@@ -38,7 +40,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp"
+        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/"
       },
       {
         "position": 3,
@@ -47,7 +51,9 @@
         "writers": [
           "Arthur Alexander"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp"
+        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/"
       },
       {
         "position": 4,
@@ -57,7 +63,9 @@
           "Gerry Goffin",
           "Carole King"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp"
+        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/"
       },
       {
         "position": 5,
@@ -67,7 +75,9 @@
           "Luther Dixon",
           "Wes Farrell"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp"
+        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/"
       },
       {
         "position": 6,
@@ -77,7 +87,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp"
+        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/"
       },
       {
         "position": 7,
@@ -87,7 +99,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp"
+        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/"
       },
       {
         "position": 8,
@@ -97,7 +111,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp"
+        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/"
       },
       {
         "position": 9,
@@ -107,7 +123,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp"
+        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/"
       },
       {
         "position": 10,
@@ -118,7 +136,9 @@
           "Hal David",
           "Barney Williams"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp"
+        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/"
       },
       {
         "position": 11,
@@ -128,7 +148,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp"
+        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/"
       },
       {
         "position": 12,
@@ -138,7 +160,9 @@
           "Bobby Scott",
           "Ric Marlow"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp"
+        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/"
       },
       {
         "position": 13,
@@ -148,7 +172,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp"
+        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/"
       },
       {
         "position": 14,
@@ -158,7 +184,9 @@
           "Phil Medley",
           "Bert Russell"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp"
+        "source_url": "https://usastore.thebeatles.com/products/please-please-me-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/please-please-me/"
       }
     ],
     "sources": [
@@ -207,7 +235,7 @@
       "beat",
       "pop rock"
     ],
-    "duration_minutes": null,
+    "duration_minutes": 33.13,
     "cover": {
       "image_url": null,
       "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp",
@@ -222,7 +250,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp"
+        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/"
       },
       {
         "position": 2,
@@ -232,7 +262,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp"
+        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/"
       },
       {
         "position": 3,
@@ -242,7 +274,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp"
+        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/"
       },
       {
         "position": 4,
@@ -251,7 +285,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp"
+        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/"
       },
       {
         "position": 5,
@@ -261,7 +297,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp"
+        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/"
       },
       {
         "position": 6,
@@ -270,7 +308,9 @@
         "writers": [
           "Meredith Willson"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp"
+        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/"
       },
       {
         "position": 7,
@@ -283,7 +323,9 @@
           "Brian Holland",
           "Robert Bateman"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp"
+        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/"
       },
       {
         "position": 8,
@@ -292,7 +334,9 @@
         "writers": [
           "Chuck Berry"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp"
+        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/"
       },
       {
         "position": 9,
@@ -302,7 +346,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp"
+        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/"
       },
       {
         "position": 10,
@@ -311,7 +357,9 @@
         "writers": [
           "Smokey Robinson"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp"
+        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/"
       },
       {
         "position": 11,
@@ -321,7 +369,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp"
+        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/"
       },
       {
         "position": 12,
@@ -330,7 +380,9 @@
         "writers": [
           "Richard Drapkin"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp"
+        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/"
       },
       {
         "position": 13,
@@ -340,7 +392,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp"
+        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/"
       },
       {
         "position": 14,
@@ -350,7 +404,9 @@
           "Berry Gordy",
           "Janie Bradford"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp"
+        "source_url": "https://usastore.thebeatles.com/products/with-the-beatles-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/with-the-beatles/"
       }
     ],
     "sources": [
@@ -399,7 +455,7 @@
       "beat",
       "pop rock"
     ],
-    "duration_minutes": null,
+    "duration_minutes": 30.7,
     "cover": {
       "image_url": null,
       "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp",
@@ -414,7 +470,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/"
       },
       {
         "position": 2,
@@ -424,7 +482,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/"
       },
       {
         "position": 3,
@@ -434,7 +494,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/"
       },
       {
         "position": 4,
@@ -444,7 +506,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/"
       },
       {
         "position": 5,
@@ -454,7 +518,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/"
       },
       {
         "position": 6,
@@ -464,7 +530,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/"
       },
       {
         "position": 7,
@@ -474,7 +542,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/"
       },
       {
         "position": 8,
@@ -484,7 +554,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/"
       },
       {
         "position": 9,
@@ -494,7 +566,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/"
       },
       {
         "position": 10,
@@ -504,7 +578,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/"
       },
       {
         "position": 11,
@@ -514,7 +590,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/"
       },
       {
         "position": 12,
@@ -524,7 +602,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/"
       },
       {
         "position": 13,
@@ -534,7 +614,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/a-hard-days-night/"
       }
     ],
     "sources": [
@@ -583,7 +665,7 @@
       "folk rock",
       "beat"
     ],
-    "duration_minutes": null,
+    "duration_minutes": 33.52,
     "cover": {
       "image_url": null,
       "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp",
@@ -598,7 +680,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/"
       },
       {
         "position": 2,
@@ -608,7 +692,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/"
       },
       {
         "position": 3,
@@ -618,7 +704,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/"
       },
       {
         "position": 4,
@@ -627,7 +715,9 @@
         "writers": [
           "Chuck Berry"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/"
       },
       {
         "position": 5,
@@ -637,7 +727,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/"
       },
       {
         "position": 6,
@@ -646,7 +738,9 @@
         "writers": [
           "Roy Lee Johnson"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/"
       },
       {
         "position": 7,
@@ -657,7 +751,9 @@
           "Mike Stoller",
           "Richard Penniman"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/"
       },
       {
         "position": 8,
@@ -667,7 +763,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/"
       },
       {
         "position": 9,
@@ -676,7 +774,9 @@
         "writers": [
           "Buddy Holly"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/"
       },
       {
         "position": 10,
@@ -685,7 +785,9 @@
         "writers": [
           "Carl Perkins"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/"
       },
       {
         "position": 11,
@@ -695,7 +797,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/"
       },
       {
         "position": 12,
@@ -705,7 +809,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/"
       },
       {
         "position": 13,
@@ -715,7 +821,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/"
       },
       {
         "position": 14,
@@ -724,7 +832,9 @@
         "writers": [
           "Carl Perkins"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/beatles-for-sale/"
       }
     ],
     "sources": [
@@ -773,7 +883,7 @@
       "folk rock",
       "pop rock"
     ],
-    "duration_minutes": null,
+    "duration_minutes": 33.85,
     "cover": {
       "image_url": null,
       "source_url": "https://www.thebeatles.com/help",
@@ -788,7 +898,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/help-lp"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/help/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/help/"
       },
       {
         "position": 2,
@@ -798,7 +910,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/help-lp"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/help/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/help/"
       },
       {
         "position": 3,
@@ -808,7 +922,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/help-lp"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/help/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/help/"
       },
       {
         "position": 4,
@@ -817,7 +933,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/help-lp"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/help/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/help/"
       },
       {
         "position": 5,
@@ -827,7 +945,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/help-lp"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/help/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/help/"
       },
       {
         "position": 6,
@@ -837,7 +957,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/help-lp"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/help/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/help/"
       },
       {
         "position": 7,
@@ -847,7 +969,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/help-lp"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/help/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/help/"
       },
       {
         "position": 8,
@@ -857,7 +981,9 @@
           "Johnny Russell",
           "Voni Morrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/help-lp"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/help/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/help/"
       },
       {
         "position": 9,
@@ -867,7 +993,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/help-lp"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/help/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/help/"
       },
       {
         "position": 10,
@@ -876,7 +1004,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/help-lp"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/help/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/help/"
       },
       {
         "position": 11,
@@ -886,7 +1016,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/help-lp"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/help/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/help/"
       },
       {
         "position": 12,
@@ -896,7 +1028,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/help-lp"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/help/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/help/"
       },
       {
         "position": 13,
@@ -906,7 +1040,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/help-lp"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/help/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/help/"
       },
       {
         "position": 14,
@@ -915,7 +1051,9 @@
         "writers": [
           "Larry Williams"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/help-lp"
+        "source_url": "https://usastore.thebeatles.com/products/help-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/help/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/help/"
       }
     ],
     "sources": [
@@ -960,7 +1098,7 @@
       "folk rock",
       "pop rock"
     ],
-    "duration_minutes": null,
+    "duration_minutes": 34.8,
     "cover": {
       "image_url": null,
       "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp",
@@ -975,7 +1113,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/"
       },
       {
         "position": 2,
@@ -985,7 +1125,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/"
       },
       {
         "position": 3,
@@ -995,7 +1137,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/"
       },
       {
         "position": 4,
@@ -1005,7 +1149,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/"
       },
       {
         "position": 5,
@@ -1014,7 +1160,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/"
       },
       {
         "position": 6,
@@ -1024,7 +1172,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/"
       },
       {
         "position": 7,
@@ -1034,7 +1184,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/"
       },
       {
         "position": 8,
@@ -1045,7 +1197,9 @@
           "Paul McCartney",
           "Richard Starkey"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/"
       },
       {
         "position": 9,
@@ -1055,7 +1209,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/"
       },
       {
         "position": 10,
@@ -1065,7 +1221,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/"
       },
       {
         "position": 11,
@@ -1075,7 +1233,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/"
       },
       {
         "position": 12,
@@ -1085,7 +1245,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/"
       },
       {
         "position": 13,
@@ -1094,7 +1256,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/"
       },
       {
         "position": 14,
@@ -1104,7 +1268,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/rubber-soul/"
       }
     ],
     "sources": [
@@ -1149,7 +1315,7 @@
       "psychedelic rock",
       "art rock"
     ],
-    "duration_minutes": null,
+    "duration_minutes": 34.82,
     "cover": {
       "image_url": null,
       "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered",
@@ -1163,7 +1329,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/revolver/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/revolver/"
       },
       {
         "position": 2,
@@ -1173,7 +1341,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/revolver/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/revolver/"
       },
       {
         "position": 3,
@@ -1183,7 +1353,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/revolver/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/revolver/"
       },
       {
         "position": 4,
@@ -1192,7 +1364,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/revolver/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/revolver/"
       },
       {
         "position": 5,
@@ -1202,7 +1376,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/revolver/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/revolver/"
       },
       {
         "position": 6,
@@ -1212,7 +1388,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/revolver/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/revolver/"
       },
       {
         "position": 7,
@@ -1221,7 +1399,9 @@
         "writers": [
           "John Lennon"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/revolver/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/revolver/"
       },
       {
         "position": 8,
@@ -1231,7 +1411,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/revolver/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/revolver/"
       },
       {
         "position": 9,
@@ -1241,7 +1423,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/revolver/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/revolver/"
       },
       {
         "position": 10,
@@ -1251,7 +1435,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/revolver/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/revolver/"
       },
       {
         "position": 11,
@@ -1261,7 +1447,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/revolver/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/revolver/"
       },
       {
         "position": 12,
@@ -1270,7 +1458,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/revolver/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/revolver/"
       },
       {
         "position": 13,
@@ -1280,7 +1470,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/revolver/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/revolver/"
       },
       {
         "position": 14,
@@ -1290,7 +1482,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/revolver-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/revolver/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/revolver/"
       }
     ],
     "sources": [
@@ -1335,7 +1529,7 @@
       "psychedelic rock",
       "art rock"
     ],
-    "duration_minutes": null,
+    "duration_minutes": 39.62,
     "cover": {
       "image_url": null,
       "source_url": "https://usastore.thebeatles.com/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-cd",
@@ -1350,7 +1544,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/"
       },
       {
         "position": 2,
@@ -1360,7 +1556,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/"
       },
       {
         "position": 3,
@@ -1370,7 +1568,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/"
       },
       {
         "position": 4,
@@ -1380,7 +1580,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/"
       },
       {
         "position": 5,
@@ -1390,7 +1592,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/"
       },
       {
         "position": 6,
@@ -1400,7 +1604,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/"
       },
       {
         "position": 7,
@@ -1410,7 +1616,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/"
       },
       {
         "position": 8,
@@ -1419,7 +1627,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/"
       },
       {
         "position": 9,
@@ -1429,7 +1639,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/"
       },
       {
         "position": 10,
@@ -1439,7 +1651,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/"
       },
       {
         "position": 11,
@@ -1449,7 +1663,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/"
       },
       {
         "position": 12,
@@ -1459,7 +1675,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/"
       },
       {
         "position": 13,
@@ -1469,7 +1687,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/"
       }
     ],
     "sources": [
@@ -1518,7 +1738,7 @@
       "psychedelic rock",
       "pop rock"
     ],
-    "duration_minutes": null,
+    "duration_minutes": 34.83,
     "cover": {
       "image_url": null,
       "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered",
@@ -1533,7 +1753,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/"
       },
       {
         "position": 2,
@@ -1543,7 +1765,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/"
       },
       {
         "position": 3,
@@ -1555,7 +1779,9 @@
           "George Harrison",
           "Richard Starkey"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/"
       },
       {
         "position": 4,
@@ -1564,7 +1790,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/"
       },
       {
         "position": 5,
@@ -1574,7 +1802,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/"
       },
       {
         "position": 6,
@@ -1584,7 +1814,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/"
       },
       {
         "position": 7,
@@ -1594,7 +1826,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/"
       },
       {
         "position": 8,
@@ -1604,7 +1838,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/"
       },
       {
         "position": 9,
@@ -1614,7 +1850,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/"
       },
       {
         "position": 10,
@@ -1624,7 +1862,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/"
       },
       {
         "position": 11,
@@ -1634,7 +1874,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered"
+        "source_url": "https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/magical-mystery-tour/"
       }
     ],
     "sources": [
@@ -1680,7 +1922,7 @@
       "hard rock",
       "psychedelic rock"
     ],
-    "duration_minutes": null,
+    "duration_minutes": 93.45,
     "cover": {
       "image_url": null,
       "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-2lp",
@@ -1695,7 +1937,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 2,
@@ -1705,7 +1949,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 3,
@@ -1715,7 +1961,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 4,
@@ -1725,7 +1973,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 5,
@@ -1734,17 +1984,20 @@
         "writers": [
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 6,
         "title": "The Continuing Story of Bungalow Bill",
         "duration": "3:14",
         "writers": [
-          "John Lennon",
-          "Paul McCartney"
+          "John Lennon"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 7,
@@ -1753,7 +2006,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 8,
@@ -1763,7 +2018,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 9,
@@ -1772,7 +2029,9 @@
         "writers": [
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 10,
@@ -1782,7 +2041,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 11,
@@ -1791,7 +2052,9 @@
         "writers": [
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 12,
@@ -1800,7 +2063,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 13,
@@ -1810,7 +2075,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 14,
@@ -1819,7 +2086,9 @@
         "writers": [
           "Richard Starkey"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 15,
@@ -1828,7 +2097,9 @@
         "writers": [
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 16,
@@ -1837,7 +2108,9 @@
         "writers": [
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 17,
@@ -1846,7 +2119,9 @@
         "writers": [
           "John Lennon"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 18,
@@ -1856,7 +2131,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 19,
@@ -1866,7 +2143,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 20,
@@ -1875,7 +2154,9 @@
         "writers": [
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 21,
@@ -1885,7 +2166,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 22,
@@ -1894,7 +2177,9 @@
         "writers": [
           "John Lennon"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 23,
@@ -1903,7 +2188,9 @@
         "writers": [
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 24,
@@ -1912,7 +2199,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 25,
@@ -1922,7 +2211,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 26,
@@ -1931,7 +2222,9 @@
         "writers": [
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 27,
@@ -1940,7 +2233,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 28,
@@ -1949,7 +2244,9 @@
         "writers": [
           "John Lennon"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 29,
@@ -1961,7 +2258,9 @@
           "George Harrison",
           "Richard Starkey"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       },
       {
         "position": 30,
@@ -1970,7 +2269,9 @@
         "writers": [
           "John Lennon"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd"
+        "source_url": "https://usastore.thebeatles.com/products/the-beatles-white-album-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/the-beatles/"
       }
     ],
     "sources": [
@@ -2019,7 +2320,7 @@
       "psychedelic rock",
       "orchestral pop"
     ],
-    "duration_minutes": null,
+    "duration_minutes": 39.75,
     "cover": {
       "image_url": null,
       "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp",
@@ -2034,7 +2335,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
+        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/"
       },
       {
         "position": 2,
@@ -2043,7 +2346,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
+        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/"
       },
       {
         "position": 3,
@@ -2053,7 +2358,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
+        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/"
       },
       {
         "position": 4,
@@ -2063,7 +2370,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
+        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/"
       },
       {
         "position": 5,
@@ -2072,7 +2381,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
+        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/"
       },
       {
         "position": 6,
@@ -2082,7 +2393,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
+        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/"
       },
       {
         "position": 7,
@@ -2091,7 +2404,9 @@
         "writers": [
           "George Martin"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
+        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/"
       },
       {
         "position": 8,
@@ -2100,7 +2415,9 @@
         "writers": [
           "George Martin"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
+        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/"
       },
       {
         "position": 9,
@@ -2109,7 +2426,9 @@
         "writers": [
           "George Martin"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
+        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/"
       },
       {
         "position": 10,
@@ -2118,7 +2437,9 @@
         "writers": [
           "George Martin"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
+        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/"
       },
       {
         "position": 11,
@@ -2127,7 +2448,9 @@
         "writers": [
           "George Martin"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
+        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/"
       },
       {
         "position": 12,
@@ -2136,7 +2459,9 @@
         "writers": [
           "George Martin"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
+        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/"
       },
       {
         "position": 13,
@@ -2145,7 +2470,9 @@
         "writers": [
           "George Martin"
         ],
-        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp"
+        "source_url": "https://usastore.thebeatles.com/products/yellow-submarine-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/yellow-submarine/"
       }
     ],
     "sources": [
@@ -2190,7 +2517,7 @@
       "pop rock",
       "progressive pop"
     ],
-    "duration_minutes": null,
+    "duration_minutes": 47.32,
     "cover": {
       "image_url": null,
       "source_url": "https://www.thebeatles.com/abbey-road",
@@ -2205,7 +2532,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       },
       {
         "position": 2,
@@ -2214,27 +2543,31 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       },
       {
         "position": 3,
         "title": "Maxwell's Silver Hammer",
         "duration": "3:27",
         "writers": [
-          "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       },
       {
         "position": 4,
         "title": "Oh! Darling",
         "duration": "3:26",
         "writers": [
-          "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       },
       {
         "position": 5,
@@ -2243,7 +2576,9 @@
         "writers": [
           "Richard Starkey"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       },
       {
         "position": 6,
@@ -2253,7 +2588,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       },
       {
         "position": 7,
@@ -2262,17 +2599,20 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       },
       {
         "position": 8,
         "title": "Because",
         "duration": "2:45",
         "writers": [
-          "John Lennon",
-          "Paul McCartney"
+          "John Lennon"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       },
       {
         "position": 9,
@@ -2282,67 +2622,75 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       },
       {
         "position": 10,
         "title": "Sun King",
         "duration": "2:26",
         "writers": [
-          "John Lennon",
-          "Paul McCartney"
+          "John Lennon"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       },
       {
         "position": 11,
         "title": "Mean Mr Mustard",
         "duration": "1:06",
         "writers": [
-          "John Lennon",
-          "Paul McCartney"
+          "John Lennon"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       },
       {
         "position": 12,
         "title": "Polythene Pam",
         "duration": "1:13",
         "writers": [
-          "John Lennon",
-          "Paul McCartney"
+          "John Lennon"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       },
       {
         "position": 13,
         "title": "She Came In Through the Bathroom Window",
         "duration": "1:57",
         "writers": [
-          "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       },
       {
         "position": 14,
         "title": "Golden Slumbers",
         "duration": "1:31",
         "writers": [
-          "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       },
       {
         "position": 15,
         "title": "Carry That Weight",
         "duration": "1:36",
         "writers": [
-          "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       },
       {
         "position": 16,
@@ -2352,17 +2700,20 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       },
       {
         "position": 17,
         "title": "Her Majesty",
         "duration": "0:23",
         "writers": [
-          "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd"
+        "source_url": "https://usastore.thebeatles.com/collections/abbey-road/products/abbey-road-anniversary-edition-cd",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       }
     ],
     "sources": [
@@ -2387,7 +2738,7 @@
         "url": "https://www.the-paulmccartney-project.com/album/abbey-road/"
       }
     ],
-    "verification_status": "verified"
+    "verification_status": "needs_verification"
   },
   {
     "id": "the-beatles-let-it-be-1970",
@@ -2403,7 +2754,7 @@
       "roots rock",
       "blues rock"
     ],
-    "duration_minutes": null,
+    "duration_minutes": 35.13,
     "cover": {
       "image_url": null,
       "source_url": "https://www.thebeatles.com/let-it-be-1",
@@ -2418,7 +2769,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/"
       },
       {
         "position": 2,
@@ -2428,7 +2781,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/"
       },
       {
         "position": 3,
@@ -2438,7 +2793,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/"
       },
       {
         "position": 4,
@@ -2447,7 +2804,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/"
       },
       {
         "position": 5,
@@ -2459,7 +2818,9 @@
           "George Harrison",
           "Richard Starkey"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/"
       },
       {
         "position": 6,
@@ -2469,17 +2830,20 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/"
       },
       {
         "position": 7,
         "title": "Maggie Mae",
         "duration": "0:40",
         "writers": [
-          "Traditional",
-          "The Beatles (arrangement)"
+          "Traditional"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/"
       },
       {
         "position": 8,
@@ -2489,7 +2853,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/"
       },
       {
         "position": 9,
@@ -2499,7 +2865,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/"
       },
       {
         "position": 10,
@@ -2509,7 +2877,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/"
       },
       {
         "position": 11,
@@ -2518,7 +2888,9 @@
         "writers": [
           "George Harrison"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/"
       },
       {
         "position": 12,
@@ -2528,7 +2900,9 @@
           "John Lennon",
           "Paul McCartney"
         ],
-        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp"
+        "source_url": "https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp",
+        "duration_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/",
+        "writer_source_url": "https://www.the-paulmccartney-project.com/album/let-it-be/"
       }
     ],
     "sources": [
