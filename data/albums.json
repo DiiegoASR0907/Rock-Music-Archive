@@ -3093,14 +3093,14 @@
     "album_type": "studio",
     "original_release_date": "1969-10-22",
     "country_or_market": "Estados Unidos",
-    "edition_note": "Edición original del álbum, secuencia original de 9 pistas; no incluye el material adicional de las reediciones deluxe. Fecha y orden contrastados con la discografía oficial de Led Zeppelin; compositores y duraciones contrastados con AllMusic. Las duraciones pueden variar ligeramente según edición y remasterización. Nota de auditoría: las duraciones y los créditos son referencias secundarias de catálogo (AllMusic u otra fuente indicada por pista), no una transcripción cotejada contra un ejemplar físico identificado del LP original; las diferencias por edición y los créditos históricos discutidos siguen abiertos.",
+    "edition_note": "Primera pasada de auditoría contra las notas reproducidas de la edición remasterizada estadounidense de Atlantic de 1994 (catálogo CD 7567-82633-2), que identifica la edición original como Atlantic 8236. Créditos y duraciones se transcriben de esa edición de referencia; la secuencia original se contrasta con la discografía oficial. Otras ediciones y remasterizaciones pueden presentar diferencias de segundos o créditos editoriales distintos.",
     "label": "Swan Song",
     "genres": [
       "hard rock",
       "blues rock",
       "heavy metal"
     ],
-    "duration_minutes": 41.67,
+    "duration_minutes": 41.35,
     "cover": {
       "image_url": null,
       "source_url": "https://discography.ledzeppelin.com/lz2",
@@ -3110,72 +3110,71 @@
       {
         "position": 1,
         "title": "Whole Lotta Love",
-        "duration": "5:35",
+        "duration": "5:34",
         "writers": [
-          "John Bonham",
-          "Willie Dixon",
-          "John Paul Jones",
           "Jimmy Page",
-          "Robert Plant"
+          "Robert Plant",
+          "John Paul Jones",
+          "John Bonham",
+          "Willie Dixon"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz2",
-        "duration_source_url": "https://www.allmusic.com/album/r11460",
-        "writer_source_url": "https://www.allmusic.com/album/r11460",
-        "credit_note": "El crédito de Willie Dixon refleja el acuerdo de atribución por la similitud con “You Need Love”; los créditos pueden presentarse de forma distinta según la edición."
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html",
+        "credit_note": "El crédito de la edición de referencia incluye a Willie Dixon. La atribución se relaciona con “You Need Love”; las notas de esta edición consignan los cinco nombres y no sustituyen la revisión de la historia editorial del acuerdo."
       },
       {
         "position": 2,
         "title": "What Is and What Should Never Be",
-        "duration": "4:45",
+        "duration": "4:44",
         "writers": [
           "Jimmy Page",
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz2",
-        "duration_source_url": "https://www.allmusic.com/album/r11460",
-        "writer_source_url": "https://www.allmusic.com/album/r11460"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html"
       },
       {
         "position": 3,
         "title": "The Lemon Song",
         "duration": "6:19",
         "writers": [
-          "John Bonham",
-          "John Paul Jones",
           "Jimmy Page",
           "Robert Plant",
-          "Chester Arthur Burnett"
+          "John Paul Jones",
+          "John Bonham"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz2",
-        "duration_source_url": "https://www.allmusic.com/album/r11460",
-        "writer_source_url": "https://musicbrainz.org/release/8841b4c9-524f-49e6-9660-05f31248c26d",
-        "credit_note": "La composición deriva de “Killing Floor” de Howlin’ Wolf; Chester Arthur Burnett (Howlin’ Wolf) figura en créditos de referencia. La atribución histórica varía entre ediciones y fuentes."
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html",
+        "credit_note": "Las notas de la edición de referencia acreditan a los cuatro miembros de Led Zeppelin, sin Chester Arthur Burnett en la línea de composición. La relación musical y la disputa/atribución asociada a “Killing Floor” deben distinguirse del crédito impreso en esta edición; otras fuentes y ediciones han consignado créditos distintos."
       },
       {
         "position": 4,
         "title": "Thank You",
-        "duration": "4:49",
+        "duration": "4:47",
         "writers": [
           "Jimmy Page",
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz2",
-        "duration_source_url": "https://www.allmusic.com/album/r11460",
-        "writer_source_url": "https://www.allmusic.com/album/r11460"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html"
       },
       {
         "position": 5,
         "title": "Heartbreaker",
         "duration": "4:14",
         "writers": [
-          "John Bonham",
-          "John Paul Jones",
           "Jimmy Page",
-          "Robert Plant"
+          "Robert Plant",
+          "John Paul Jones",
+          "John Bonham"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz2",
-        "duration_source_url": "https://www.allmusic.com/album/r11460",
-        "writer_source_url": "https://www.allmusic.com/album/r11460"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html"
       },
       {
         "position": 6,
@@ -3186,49 +3185,46 @@
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz2",
-        "duration_source_url": "https://www.allmusic.com/album/r11460",
-        "writer_source_url": "https://www.allmusic.com/album/r11460"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html"
       },
       {
         "position": 7,
         "title": "Ramble On",
-        "duration": "4:34",
+        "duration": "4:23",
         "writers": [
           "Jimmy Page",
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz2",
-        "duration_source_url": "https://www.allmusic.com/album/r11460",
-        "writer_source_url": "https://www.allmusic.com/album/r11460"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html"
       },
       {
         "position": 8,
         "title": "Moby Dick",
-        "duration": "4:25",
+        "duration": "4:21",
         "writers": [
           "John Bonham",
           "John Paul Jones",
           "Jimmy Page"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz2",
-        "duration_source_url": "https://www.allmusic.com/album/r11460",
-        "writer_source_url": "https://www.allmusic.com/album/r11460"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html"
       },
       {
         "position": 9,
         "title": "Bring It On Home",
         "duration": "4:20",
         "writers": [
-          "John Bonham",
-          "Willie Dixon",
-          "John Paul Jones",
           "Jimmy Page",
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz2",
-        "duration_source_url": "https://www.allmusic.com/album/r11460",
-        "writer_source_url": "https://www.allmusic.com/album/r11460",
-        "credit_note": "La introducción y el cierre aluden a la canción de blues de Willie Dixon; la sección central es una composición/arreglo distinto. Se conservan los créditos publicados para la versión de Led Zeppelin."
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_II.html",
+        "credit_note": "Las notas de esta edición acreditan a Page y Plant. La introducción y el cierre remiten al blues de Willie Dixon; la atribución editorial asociada a esa obra debe anotarse aparte del crédito impreso en esta edición. La estructura incluye una sección central distinta del modelo blues."
       }
     ],
     "sources": [
@@ -3237,7 +3233,11 @@
         "url": "https://discography.ledzeppelin.com/lz2"
       },
       {
-        "title": "Led Zeppelin II — AllMusic: compositores y duraciones por pista",
+        "title": "Led Zeppelin II — notas de la edición remasterizada estadounidense de Atlantic de 1994 (créditos y duraciones)",
+        "url": "https://albumlinernotes.com/Led_Zeppelin_II.html"
+      },
+      {
+        "title": "Led Zeppelin II — AllMusic: fuente secundaria de contraste",
         "url": "https://www.allmusic.com/album/r11460"
       }
     ],
