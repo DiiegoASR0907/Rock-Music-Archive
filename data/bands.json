@@ -210,5 +210,29 @@
       }
     ],
     "status": "starter_record"
+  },
+  {
+    "id": "cream",
+    "name": "Cream",
+    "country_of_origin": "Reino Unido",
+    "formed_year": 1966,
+    "disbanded_year": 1968,
+    "genres": [
+      "blues rock",
+      "hard rock",
+      "psychedelic rock"
+    ],
+    "official_website": "https://www.creambandofficial.com/",
+    "sources": [
+      {
+        "title": "Cream — sitio oficial",
+        "url": "https://www.creambandofficial.com/albums"
+      },
+      {
+        "title": "Cream — discografía oficial",
+        "url": "https://www.creambandofficial.com/discography"
+      }
+    ],
+    "status": "starter_record"
   }
 ]
