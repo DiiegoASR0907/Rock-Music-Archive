@@ -3208,6 +3208,19 @@
       "coverage_status": "in_progress",
       "priority": 1,
       "notes": "Primera carga de siete álbumes de estudio (1972–2007); duraciones y créditos pendientes de verificación. Auditoría global posterior a la cobertura inicial."
+    },
+    {
+      "id": "allman-brothers-band",
+      "name": "The Allman Brothers Band",
+      "genres": [
+        "southern rock",
+        "blues rock",
+        "jam band"
+      ],
+      "region": "Estados Unidos",
+      "coverage_status": "in_progress",
+      "priority": 1,
+      "notes": "Primera carga de discografía cronológica; incluye Eat a Peach identificado como álbum híbrido de estudio/directo. Duraciones y créditos pendientes; auditoría global posterior."
     }
   ]
 }
