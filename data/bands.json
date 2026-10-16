@@ -5,7 +5,10 @@
     "country_of_origin": "Reino Unido",
     "formed_year": 1960,
     "disbanded_year": 1970,
-    "genres": ["rock", "pop rock"],
+    "genres": [
+      "rock",
+      "pop rock"
+    ],
     "official_website": "https://www.thebeatles.com/",
     "sources": [
       {
@@ -21,7 +24,11 @@
     "country_of_origin": "Reino Unido",
     "formed_year": 1968,
     "disbanded_year": 1980,
-    "genres": ["hard rock", "blues rock", "heavy metal"],
+    "genres": [
+      "hard rock",
+      "blues rock",
+      "heavy metal"
+    ],
     "official_website": "https://www.ledzeppelin.com/",
     "sources": [
       {
@@ -37,7 +44,10 @@
     "country_of_origin": "Reino Unido",
     "formed_year": 1965,
     "disbanded_year": null,
-    "genres": ["progressive rock", "psychedelic rock"],
+    "genres": [
+      "progressive rock",
+      "psychedelic rock"
+    ],
     "official_website": "https://www.pinkfloyd.com/",
     "sources": [
       {
@@ -53,7 +63,11 @@
     "country_of_origin": "Reino Unido",
     "formed_year": 1970,
     "disbanded_year": null,
-    "genres": ["rock", "hard rock", "glam rock"],
+    "genres": [
+      "rock",
+      "hard rock",
+      "glam rock"
+    ],
     "official_website": "https://www.queenonline.com/",
     "sources": [
       {
@@ -69,7 +83,10 @@
     "country_of_origin": "Estados Unidos",
     "formed_year": 1987,
     "disbanded_year": 1994,
-    "genres": ["grunge", "alternative rock"],
+    "genres": [
+      "grunge",
+      "alternative rock"
+    ],
     "official_website": "https://www.nirvana.com/",
     "sources": [
       {
@@ -78,5 +95,25 @@
       }
     ],
     "status": "starter_record"
+  },
+  {
+    "id": "the-rolling-stones",
+    "name": "The Rolling Stones",
+    "country_of_origin": "Reino Unido",
+    "formed_year": 1962,
+    "disbanded_year": null,
+    "genres": [
+      "rock and roll",
+      "blues rock",
+      "British rhythm and blues"
+    ],
+    "official_website": "https://www.rollingstones.com/",
+    "sources": [
+      {
+        "title": "The Rolling Stones — sitio oficial",
+        "url": "https://www.rollingstones.com/"
+      }
+    ],
+    "status": "needs_verification"
   }
 ]
