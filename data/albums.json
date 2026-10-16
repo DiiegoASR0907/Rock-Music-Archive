@@ -25233,5 +25233,247 @@
       }
     ],
     "verification_status": "needs_verification"
+  },
+  {
+    "id": "fleetwood-mac-1975-self-titled",
+    "band_id": "fleetwood-mac",
+    "title": "Fleetwood Mac (1975)",
+    "album_type": "studio",
+    "original_release_date": "1975-07-11",
+    "country_or_market": "Reino Unido/Estados Unidos",
+    "edition_note": "Cobertura inicial; fecha y orden de pistas sujetos a auditoría global posterior.",
+    "label": "Reprise Records",
+    "genres": [
+      "rock",
+      "pop rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.fleetwoodmacofficial.com/",
+      "rights_note": "Se enlaza la discografía del artista; no se almacena copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Monday Morning",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Warm Ways",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Blue Letter",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Rhiannon",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "Over My Head",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Crystal",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Say You Love Me",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Landslide",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 9,
+        "title": "World Turning",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 10,
+        "title": "Sugar Daddy",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 11,
+        "title": "I'm So Afraid",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fleetwood Mac — sitio oficial",
+        "url": "https://www.fleetwoodmacofficial.com/"
+      },
+      {
+        "title": "Fleetwood Mac — índice discográfico",
+        "url": "https://www.fleetwoodmac-uk.com/albumindex.htm"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "fleetwood-mac-rumours",
+    "band_id": "fleetwood-mac",
+    "title": "Rumours",
+    "album_type": "studio",
+    "original_release_date": "1977-02-04",
+    "country_or_market": "Reino Unido/Estados Unidos",
+    "edition_note": "Cobertura inicial; fecha y orden de pistas sujetos a auditoría global posterior.",
+    "label": "Warner Bros. Records",
+    "genres": [
+      "rock",
+      "pop rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.fleetwoodmacofficial.com/",
+      "rights_note": "Se enlaza la discografía del artista; no se almacena copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Second Hand News",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Dreams",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Never Going Back Again",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Don't Stop",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 5,
+        "title": "Go Your Own Way",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Songbird",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 7,
+        "title": "The Chain",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 8,
+        "title": "You Make Loving Fun",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 9,
+        "title": "I Don't Want to Know",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 10,
+        "title": "Oh Daddy",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      },
+      {
+        "position": 11,
+        "title": "Gold Dust Woman",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Duración y créditos pendientes de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fleetwood Mac — sitio oficial",
+        "url": "https://www.fleetwoodmacofficial.com/"
+      },
+      {
+        "title": "Fleetwood Mac — índice discográfico",
+        "url": "https://www.fleetwoodmac-uk.com/albumindex.htm"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
