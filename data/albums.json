@@ -3701,7 +3701,7 @@
     "album_type": "studio",
     "original_release_date": "1975-02-24",
     "country_or_market": "Estados Unidos",
-    "edition_note": "Edición original del álbum, secuencia original de 15 pistas; no incluye el material adicional de las reediciones deluxe. Fecha y orden contrastados con la discografía oficial de Led Zeppelin; compositores y duraciones contrastados con AllMusic. Las duraciones pueden variar ligeramente según edición y remasterización.",
+    "edition_note": "Álbum doble original de 15 pistas en su secuencia de 1975; excluye las siete pistas adicionales del disco complementario de la edición deluxe de 2015. Fecha, secuencia y duraciones contrastadas con la discografía oficial y la página de Jimmy Page; compositores transcritos de las notas reproducidas de una edición remasterizada identificada como Swan Song 2-200. Las duraciones de esas notas difieren en varias pistas de las publicadas por Jimmy Page; se conservan los tiempos de Jimmy Page como referencia del archivo y se documenta la discrepancia, sin promediar ediciones.",
     "label": "Swan Song",
     "genres": [
       "hard rock",
@@ -3725,7 +3725,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pg",
         "duration_source_url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/",
-        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+        "writer_source_url": "https://albumlinernotes.com/Physical_Graffiti.html",
+        "credit_note": "Jimmy Page describe el tema como un riff basado en un tema de blues y menciona “Drop Down Mama” como título de trabajo. La referencia de créditos atribuye la composición a Page y Plant; no se añade un autor de blues al campo writers sin una fuente editorial específica."
       },
       {
         "position": 2,
@@ -3737,7 +3738,7 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pg",
         "duration_source_url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/",
-        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+        "writer_source_url": "https://albumlinernotes.com/Physical_Graffiti.html"
       },
       {
         "position": 3,
@@ -3751,8 +3752,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pg",
         "duration_source_url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/",
-        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623",
-        "credit_note": "Reelaboración de un espiritual/gospel tradicional conocido, entre otras versiones, por la grabación de Blind Willie Johnson. El campo writers conserva los créditos de la versión de Led Zeppelin; la procedencia se anota por separado."
+        "writer_source_url": "https://albumlinernotes.com/Physical_Graffiti.html",
+        "credit_note": "Las notas de la edición de referencia acreditan a los cuatro miembros del grupo. La canción reelabora un espiritual/gospel anterior, registrado por Blind Willie Johnson y otras fuentes; se conserva el crédito impreso para esta versión y se separa de la historia del material de origen, que requiere una investigación editorial propia."
       },
       {
         "position": 4,
@@ -3764,47 +3765,47 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pg",
         "duration_source_url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/",
-        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+        "writer_source_url": "https://albumlinernotes.com/Physical_Graffiti.html",
+        "credit_note": "No confundir con el álbum homónimo de 1973: esta canción quedó fuera de aquel álbum y se publicó aquí. Jimmy Page confirma esa decisión en su comentario de la discografía oficial."
       },
       {
         "position": 5,
         "title": "Trampled Under Foot",
         "duration": "5:36",
         "writers": [
-          "John Paul Jones",
           "Jimmy Page",
-          "Robert Plant"
+          "Robert Plant",
+          "John Paul Jones"
         ],
         "source_url": "https://discography.ledzeppelin.com/pg",
         "duration_source_url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/",
-        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+        "writer_source_url": "https://albumlinernotes.com/Physical_Graffiti.html"
       },
       {
         "position": 6,
         "title": "Kashmir",
         "duration": "8:37",
         "writers": [
-          "John Bonham",
-          "John Paul Jones",
           "Jimmy Page",
-          "Robert Plant"
+          "Robert Plant",
+          "John Bonham"
         ],
         "source_url": "https://discography.ledzeppelin.com/pg",
         "duration_source_url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/",
-        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+        "writer_source_url": "https://albumlinernotes.com/Physical_Graffiti.html"
       },
       {
         "position": 7,
         "title": "In the Light",
         "duration": "8:47",
         "writers": [
-          "John Paul Jones",
           "Jimmy Page",
-          "Robert Plant"
+          "Robert Plant",
+          "John Paul Jones"
         ],
         "source_url": "https://discography.ledzeppelin.com/pg",
         "duration_source_url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/",
-        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+        "writer_source_url": "https://albumlinernotes.com/Physical_Graffiti.html"
       },
       {
         "position": 8,
@@ -3815,7 +3816,7 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pg",
         "duration_source_url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/",
-        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+        "writer_source_url": "https://albumlinernotes.com/Physical_Graffiti.html"
       },
       {
         "position": 9,
@@ -3827,7 +3828,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pg",
         "duration_source_url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/",
-        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+        "writer_source_url": "https://albumlinernotes.com/Physical_Graffiti.html",
+        "credit_note": "Jimmy Page identifica esta pista como material que quedó de sesiones anteriores y se recuperó para Physical Graffiti; se mantiene la secuencia original de 1975 y el crédito de composición de las notas de referencia."
       },
       {
         "position": 10,
@@ -3839,7 +3841,7 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pg",
         "duration_source_url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/",
-        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+        "writer_source_url": "https://albumlinernotes.com/Physical_Graffiti.html"
       },
       {
         "position": 11,
@@ -3852,7 +3854,8 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pg",
         "duration_source_url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/",
-        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+        "writer_source_url": "https://albumlinernotes.com/Physical_Graffiti.html",
+        "credit_note": "Jimmy Page identifica esta pista como material que quedó de sesiones anteriores y se recuperó para Physical Graffiti; se mantiene la secuencia original de 1975 y el crédito de composición de las notas de referencia."
       },
       {
         "position": 12,
@@ -3864,7 +3867,7 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pg",
         "duration_source_url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/",
-        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+        "writer_source_url": "https://albumlinernotes.com/Physical_Graffiti.html"
       },
       {
         "position": 13,
@@ -3875,12 +3878,13 @@
           "John Paul Jones",
           "Jimmy Page",
           "Robert Plant",
-          "Ian Stewart"
+          "Ian Stewart",
+          "Mrs. Valens"
         ],
         "source_url": "https://discography.ledzeppelin.com/pg",
         "duration_source_url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/",
-        "writer_source_url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/",
-        "credit_note": "Créditos publicados para la pista: miembros de Led Zeppelin e Ian Stewart. Algunas bases de datos relacionan la canción con “Ooh! My Head” de Ritchie Valens; se conserva como discrepancia pendiente de confirmar contra los créditos editoriales de la edición física y no se incorpora como compositor confirmado."
+        "writer_source_url": "https://albumlinernotes.com/Physical_Graffiti.html",
+        "credit_note": "Las notas reproducidas acreditan a John Bonham, John Paul Jones, Jimmy Page, Robert Plant, Ian Stewart y Mrs. Valens. La relación musical con “Ooh! My Head” de Ritchie Valens aparece en fuentes secundarias; el crédito de esta edición nombra a Mrs. Valens, no a Ritchie Valens. Se conserva el nombre tal como aparece en la referencia y se deja la relación con la obra anterior como nota histórica, no como sustitución del crédito impreso."
       },
       {
         "position": 14,
@@ -3892,7 +3896,7 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pg",
         "duration_source_url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/",
-        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+        "writer_source_url": "https://albumlinernotes.com/Physical_Graffiti.html"
       },
       {
         "position": 15,
@@ -3904,16 +3908,24 @@
         ],
         "source_url": "https://discography.ledzeppelin.com/pg",
         "duration_source_url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/",
-        "writer_source_url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
+        "writer_source_url": "https://albumlinernotes.com/Physical_Graffiti.html"
       }
     ],
     "sources": [
       {
-        "title": "Physical Graffiti — discografía oficial de Led Zeppelin: fecha y lista original",
+        "title": "Physical Graffiti — discografía oficial de Led Zeppelin: secuencia y edición deluxe",
         "url": "https://discography.ledzeppelin.com/pg"
       },
       {
-        "title": "Physical Graffiti — AllMusic: compositores y duraciones por pista",
+        "title": "Physical Graffiti — Jimmy Page: duraciones y contexto de las sesiones",
+        "url": "https://jimmypage.com/discography/led-zeppelin/physical-graffiti/"
+      },
+      {
+        "title": "Physical Graffiti — notas reproducidas de la edición Swan Song 2-200: créditos impresos",
+        "url": "https://albumlinernotes.com/Physical_Graffiti.html"
+      },
+      {
+        "title": "Physical Graffiti — AllMusic: contraste secundario de créditos",
         "url": "https://www.allmusic.com/album/release/physical-graffiti-mr0001677623"
       }
     ],
