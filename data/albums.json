@@ -2948,7 +2948,7 @@
     "album_type": "studio",
     "original_release_date": "1969-01-12",
     "country_or_market": "Estados Unidos",
-    "edition_note": "Edición original estadounidense. Fecha y orden contrastados con la discografía oficial; créditos y duraciones contrastados con AllMusic. Las duraciones de otras ediciones pueden variar unos segundos. Nota de auditoría: las duraciones y los créditos son referencias secundarias de catálogo (AllMusic u otra fuente indicada por pista), no una transcripción cotejada contra un ejemplar físico identificado del LP original; las diferencias por edición y los créditos históricos discutidos siguen abiertos.",
+    "edition_note": "Edición de referencia para esta auditoría: notas de la reedición estadounidense de Atlantic de 1994, que identifica Atlantic 8216 como lanzamiento original. Secuencia contrastada con la discografía oficial. Las duraciones y créditos aquí consignados siguen esas notas; otras ediciones pueden diferir.",
     "label": "Atlantic",
     "genres": [
       "hard rock",
@@ -2965,15 +2965,15 @@
       {
         "position": 1,
         "title": "Good Times Bad Times",
-        "duration": "2:47",
+        "duration": "2:46",
         "writers": [
           "John Bonham",
           "John Paul Jones",
           "Jimmy Page"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz1",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html"
       },
       {
         "position": 2,
@@ -2985,20 +2985,21 @@
           "Robert Plant"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz1",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html"
       },
       {
         "position": 3,
         "title": "You Shook Me",
-        "duration": "6:27",
+        "duration": "6:28",
         "writers": [
-          "Willie Dixon"
+          "Willie Dixon",
+          "J. B. Lenoir"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz1",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
-        "writer_source_url": "https://www.allmusic.com/song/you-shook-me-mt0000800024",
-        "credit_note": "Versión de blues compuesta por Willie Dixon; se eliminó J. B. Lenoir del campo de compositores porque las fuentes consultadas no respaldan ese crédito para esta canción."
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html",
+        "credit_note": "Los créditos de las notas de la edición remasterizada estadounidense de Atlantic de 1994 incluyen a Willie Dixon y J. B. Lenoir; otras bases de datos o ediciones pueden mostrar atribuciones diferentes."
       },
       {
         "position": 4,
@@ -3008,44 +3009,44 @@
           "Jimmy Page"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz1",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html"
       },
       {
         "position": 5,
         "title": "Your Time Is Gonna Come",
-        "duration": "4:34",
+        "duration": "4:14",
         "writers": [
           "John Paul Jones",
           "Jimmy Page"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz1",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html"
       },
       {
         "position": 6,
         "title": "Black Mountain Side",
-        "duration": "2:12",
+        "duration": "2:05",
         "writers": [
           "Jimmy Page"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz1",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html"
       },
       {
         "position": 7,
         "title": "Communication Breakdown",
-        "duration": "2:29",
+        "duration": "2:27",
         "writers": [
           "John Bonham",
           "John Paul Jones",
           "Jimmy Page"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz1",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html"
       },
       {
         "position": 8,
@@ -3055,8 +3056,8 @@
           "Willie Dixon"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz1",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html",
         "credit_note": "Versión de blues compuesta por Willie Dixon; se conserva el crédito de composición del tema original."
       },
       {
@@ -3069,8 +3070,8 @@
           "Jimmy Page"
         ],
         "source_url": "https://discography.ledzeppelin.com/lz1",
-        "duration_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593",
-        "writer_source_url": "https://www.allmusic.com/album/led-zeppelin-mw0000194593"
+        "duration_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html",
+        "writer_source_url": "https://albumlinernotes.com/Led_Zeppelin_I.html"
       }
     ],
     "sources": [
