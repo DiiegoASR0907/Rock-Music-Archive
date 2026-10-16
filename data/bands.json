@@ -351,5 +351,29 @@
       }
     ],
     "status": "starter_record"
+  },
+  {
+    "id": "fleetwood-mac",
+    "name": "Fleetwood Mac",
+    "country_of_origin": "Reino Unido",
+    "formed_year": 1967,
+    "disbanded_year": null,
+    "genres": [
+      "blues rock",
+      "pop rock",
+      "soft rock"
+    ],
+    "official_website": "https://www.fleetwoodmacofficial.com/",
+    "sources": [
+      {
+        "title": "Fleetwood Mac — sitio oficial",
+        "url": "https://www.fleetwoodmacofficial.com/"
+      },
+      {
+        "title": "Fleetwood Mac — índice discográfico",
+        "url": "https://www.fleetwoodmac-uk.com/albumindex.htm"
+      }
+    ],
+    "status": "starter_record"
   }
 ]
