@@ -234,5 +234,33 @@
       }
     ],
     "status": "starter_record"
+  },
+  {
+    "id": "jimi-hendrix-experience",
+    "name": "The Jimi Hendrix Experience",
+    "country_of_origin": "Reino Unido / Estados Unidos",
+    "formed_year": 1966,
+    "disbanded_year": 1969,
+    "genres": [
+      "psychedelic rock",
+      "blues rock",
+      "hard rock"
+    ],
+    "official_website": "https://www.jimihendrix.com/",
+    "sources": [
+      {
+        "title": "The Official Jimi Hendrix Site",
+        "url": "https://www.jimihendrix.com/"
+      },
+      {
+        "title": "Are You Experienced — oficial",
+        "url": "https://www.jimihendrix.com/es/music/are-you-experienced/"
+      },
+      {
+        "title": "Axis: Bold as Love — oficial",
+        "url": "https://www.jimihendrix.com/es/music/axis-bold-as-love/"
+      }
+    ],
+    "status": "starter_record"
   }
 ]
