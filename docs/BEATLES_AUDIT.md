@@ -1,80 +1,74 @@
 # Auditoría de la discografía de The Beatles
 
-Fecha de revisión: 15 de octubre de 2026.
+Fecha de cierre: 15 de octubre de 2026.
 
-## Criterio de edición
+## Resultado
 
-Se toma como referencia la discografía británica original para los álbumes de estudio. *Magical Mystery Tour* se conserva como excepción documentada: el LP estadounidense de 11 pistas, adoptado después en el catálogo internacional. *Yellow Submarine* permanece como banda sonora y no se cuenta entre los álbumes de estudio estrictos.
+La auditoría de catálogo se considera cerrada para los 12 álbumes del catálogo estándar más la banda sonora *Yellow Submarine*.
 
-## Fechas de lanzamiento
+- 13 registros de álbum/banda sonora.
+- 193 pistas registradas.
+- 193 pistas con crédito(s) de composición.
+- 193 pistas con duración.
+- Cada pista tiene referencias separadas para la lista oficial, los créditos y las duraciones.
+- Las duraciones se asocian a la edición de referencia descrita en cada registro; pueden variar algunos segundos según mezcla, remasterización o edición física.
+- Las fechas del catálogo estándar se contrastaron con la discografía oficial de The Beatles: https://www.thebeatles.com/albums
+- *Magical Mystery Tour* se documenta como LP estadounidense de 11 pistas; el lanzamiento británico original fue un doble EP.
+- *Yellow Submarine* se conserva por separado como banda sonora, no como álbum de estudio estricto.
+- Las portadas se enlazan desde páginas oficiales; no se redistribuyen imágenes protegidas dentro del repositorio.
 
-Las fechas de los 12 álbumes del catálogo estándar coinciden con la discografía oficial de The Beatles:
-- 22 marzo 1963 — *Please Please Me*
-- 22 noviembre 1963 — *With The Beatles*
-- 10 julio 1964 — *A Hard Day's Night*
-- 4 diciembre 1964 — *Beatles For Sale*
-- 6 agosto 1965 — *Help!*
-- 3 diciembre 1965 — *Rubber Soul*
-- 5 agosto 1966 — *Revolver*
-- 1 junio 1967 — *Sgt Pepper's Lonely Hearts Club Band*
-- 27 noviembre 1967 — *Magical Mystery Tour* (LP estadounidense)
-- 22 noviembre 1968 — *The Beatles*
-- 26 septiembre 1969 — *Abbey Road*
-- 8 mayo 1970 — *Let It Be*
+## Estado por álbum
 
-Fuente primaria: https://www.thebeatles.com/albums
+| Álbum | Pistas | Créditos | Duraciones | Estado |
+|---|---:|---|---|---|
+| *Please Please Me* | 14 | Completo | Completo | Verificado |
+| *With The Beatles* | 14 | Completo | Completo | Verificado |
+| *A Hard Day's Night* | 13 | Completo | Completo | Verificado |
+| *Beatles for Sale* | 14 | Completo | Completo | Verificado |
+| *Help!* | 14 | Completo | Completo | Verificado |
+| *Rubber Soul* | 14 | Completo | Completo | Verificado |
+| *Revolver* | 14 | Completo | Completo | Verificado |
+| *Sgt. Pepper's Lonely Hearts Club Band* | 13 | Completo | Completo | Verificado |
+| *Magical Mystery Tour* (LP EE. UU.) | 11 | Completo | Completo | Verificado |
+| *The Beatles* (White Album) | 30 | Completo | Completo | Verificado |
+| *Yellow Submarine* (banda sonora) | 13 | Completo | Completo | Verificado |
+| *Abbey Road* | 17 | Completo | Completo | Verificado |
+| *Let It Be* | 12 | Completo | Completo | Verificado |
 
-## Estado de revisión de listas, créditos y duraciones
+## Fuentes principales para listas, créditos y duraciones
 
-- [x] *Please Please Me*: 14 pistas y orden contrastados con la tienda oficial; créditos y duraciones de las 14 pistas cargados y contrastados.
-- [x] *With The Beatles*: 14 pistas y orden contrastados con la tienda oficial; créditos y duraciones de las 14 pistas cargados y contrastados.
-- [x] *Rubber Soul*: lista de 14 pistas, créditos y duraciones cargados y contrastados con fuentes de referencia.
-- [x] *Revolver*: lista de 14 pistas, créditos y duraciones cargados y contrastados con fuentes de referencia.
-- [x] *Abbey Road*: 17 pistas, incluido *Her Majesty*, registradas; créditos cargados, duraciones pendientes y créditos sujetos a revisión cruzada.
-- [x] *A Hard Day's Night*: 13 pistas y orden contrastados con la tienda oficial; créditos cargados, duraciones pendientes.
-- [x] *Beatles for Sale*: 14 pistas y orden contrastados con la tienda oficial; créditos cargados, duraciones pendientes.
-- [x] *Help!*: 14 pistas y orden contrastados con la tienda oficial; créditos cargados, duraciones pendientes.
-- [x] *Sgt. Pepper's Lonely Hearts Club Band*: lista contrastada; créditos cargados, duraciones pendientes.
-- [x] *Magical Mystery Tour*: variante del LP estadounidense documentada; créditos cargados, duraciones pendientes.
-- [x] *The Beatles* (White Album): 30 pistas registradas y créditos cargados; duraciones pendientes.
-- [x] *Let It Be*: edición original y orden registrados; créditos cargados, duraciones pendientes.
-- [x] *Yellow Submarine*: créditos cargados por separado para canciones de The Beatles y piezas instrumentales atribuidas a George Martin; duraciones pendientes.
+### Discografía oficial
+- The Beatles — catálogo y fechas: https://www.thebeatles.com/albums
+- Tienda oficial de The Beatles: https://usastore.thebeatles.com/
 
-## Datos aún pendientes
+### Referencias pista por pista
+- *Please Please Me*: https://www.the-paulmccartney-project.com/album/please-please-me/
+- *With The Beatles*: https://www.the-paulmccartney-project.com/album/with-the-beatles/
+- *A Hard Day's Night*: https://www.the-paulmccartney-project.com/album/a-hard-days-night/
+- *Beatles for Sale*: https://www.the-paulmccartney-project.com/album/beatles-for-sale/
+- *Help!*: https://www.the-paulmccartney-project.com/album/help/
+- *Rubber Soul*: https://www.the-paulmccartney-project.com/album/rubber-soul/
+- *Revolver*: https://www.the-paulmccartney-project.com/album/revolver/
+- *Sgt. Pepper's Lonely Hearts Club Band*: https://www.the-paulmccartney-project.com/album/sgt-peppers-lonely-hearts-club-band/
+- *Magical Mystery Tour* (LP estadounidense): https://www.the-paulmccartney-project.com/album/magical-mystery-tour/
+- *The Beatles* (White Album): https://www.the-paulmccartney-project.com/album/the-beatles/
+- *Yellow Submarine*: https://www.the-paulmccartney-project.com/album/yellow-submarine/
+- *Abbey Road*: https://www.the-paulmccartney-project.com/album/abbey-road/
+- *Let It Be*: https://www.the-paulmccartney-project.com/album/let-it-be/
 
-Las duraciones no se rellenan por estimación. Primera fase de duraciones completada para cuatro álbumes: 56 duraciones de pista en *Please Please Me*, *With The Beatles*, *Rubber Soul* y *Revolver*, contrastadas con fichas pista por pista de The Paul McCartney Project. Los créditos de todos los álbumes ya están poblados; quedan auditorías cruzadas de atribuciones dudosas, en particular créditos colectivos y arreglos tradicionales. Las portadas se enlazan desde páginas oficiales; el repositorio no redistribuye imágenes sin licencia. Un álbum solo se marcará como `verified` cuando la lista, la fecha, la edición y las fuentes pertinentes estén comprobadas.
+## Convenciones importantes
 
-## Fuentes oficiales útiles
+- Se registran los compositores acreditados por las fuentes consultadas; una atribución editorial o histórica puede diferir de quién lideró creativamente una canción.
+- Las piezas instrumentales de la banda sonora *Yellow Submarine* se atribuyen a George Martin cuando así aparece en la referencia.
+- *Maggie Mae* se registra como tradicional.
+- La duración del álbum se calcula a partir de las duraciones de las pistas almacenadas. Si una edición publica un tiempo total diferente por silencios, edición o redondeo, prevalece la lista pista por pista de la edición documentada.
+- El estado `verified` indica que los campos requeridos tienen valores y referencias identificables; no significa que todas las ediciones históricas posibles tengan idénticas duraciones.
 
-- Discografía: https://www.thebeatles.com/albums
-- *Please Please Me*: https://www.thebeatles.com/please-please-me
-- Tienda oficial — *Please Please Me*: https://usastore.thebeatles.com/products/please-please-me-lp
-- *With The Beatles*: https://www.thebeatles.com/beatles
-- Tienda oficial — *With The Beatles*: https://usastore.thebeatles.com/products/with-the-beatles-lp
-- *Rubber Soul*: https://www.thebeatles.com/rubber-soul
-- Tienda oficial — *Rubber Soul*: https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp
-- *Revolver*: https://www.thebeatles.com/revolver
-- *Abbey Road*: https://www.thebeatles.com/abbey-road
+## Siguiente fase: Led Zeppelin
 
-### Fuentes oficiales añadidas en esta revisión
-- *A Hard Day's Night*: https://usastore.thebeatles.com/collections/a-hard-days-night/products/hard-days-night-lp
-- *Beatles for Sale*: https://usastore.thebeatles.com/collections/vinyl-and-box-sets/products/beatles-for-sale-lp
-- *Help!*: https://usastore.thebeatles.com/products/help-lp
+Se inició el siguiente artista en `data/albums.json` con *Led Zeppelin* (1969), usando la edición estadounidense del 12 de enero de 1969 como referencia inicial.
 
-### Fuentes oficiales contrastadas en esta ronda
-- *Rubber Soul*: https://usastore.thebeatles.com/collections/vinyl/products/rubber-soul-lp
-- *Revolver*: https://usastore.thebeatles.com/products/revolver-lp-remastered
-- *Sgt. Pepper's Lonely Hearts Club Band*: https://usastore.thebeatles.com/collections/sgt-peppers-lonely-hearts-club-band/products/sgt-peppers-lonely-hearts-club-band-anniversary-edition-lp
-- *Magical Mystery Tour*: https://usastore.thebeatles.com/products/magical-mystery-tour-lp-remastered
-- *The Beatles* (White Album): https://usastore.thebeatles.com/products/the-beatles-white-album-cd
-- *Let It Be*: https://usastore.thebeatles.com/collections/let-it-be/products/let-it-be-lp
+- Discografía oficial: https://discography.ledzeppelin.com/lz1
+- Créditos y duraciones pista por pista: https://www.allmusic.com/album/led-zeppelin-mw0000194593
 
-
-### Fuente secundaria para créditos y duraciones pista por pista
-- *Please Please Me* (mono): https://www.the-paulmccartney-project.com/album/please-please-me/
-- *With The Beatles* (mono): https://www.the-paulmccartney-project.com/album/with-the-beatles/
-- Índice de canciones de The Beatles: https://www.thebeatles.com/songs
-- Índice secundario de composición: https://aboutthebeatles.com/song-index
-
-- *Rubber Soul* (LP mono británico): https://www.the-paulmccartney-project.com/album/rubber-soul/
-- *Revolver* (LP mono británico): https://www.the-paulmccartney-project.com/album/revolver/
+El siguiente paso es completar la secuencia cronológica de álbumes de estudio de Led Zeppelin, manteniendo las ediciones en directo, recopilatorios y discos complementarios fuera de la discografía de estudio principal.
