@@ -31252,7 +31252,40 @@
       "source_url": "https://www.bobdylan.com/albums/?filter=studio",
       "rights_note": "Se enlaza la discografía oficial; no se almacena una copia local de la portada."
     },
-    "tracks": [],
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Beyond Here Lies Nothin’",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      },
+      {
+        "position": 2,
+        "title": "Life Is Hard",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      },
+      {
+        "position": 3,
+        "title": "My Wife’s Home Town",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      },
+      {
+        "position": 4,
+        "title": "If You Ever Go to Houston",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.bobdylan.com/songs/",
+        "credit_note": "Pending global audit."
+      }
+    ],
     "sources": [
       {
         "title": "Bob Dylan — discografía oficial, filtro de álbumes de estudio",
