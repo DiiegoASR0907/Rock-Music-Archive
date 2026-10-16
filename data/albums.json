@@ -25475,5 +25475,327 @@
       }
     ],
     "verification_status": "needs_verification"
+  },
+  {
+    "id": "fleetwood-mac-tusk",
+    "band_id": "fleetwood-mac",
+    "title": "Tusk",
+    "album_type": "studio",
+    "original_release_date": "1979-10-12",
+    "country_or_market": "Reino Unido/Estados Unidos",
+    "edition_note": "Cobertura inicial; auditoría global pendiente.",
+    "label": "Warner Bros. Records",
+    "genres": [
+      "rock",
+      "pop rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.fleetwoodmacofficial.com/",
+      "rights_note": "Enlace a discografía del artista; no se almacena portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Over & Over",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 2,
+        "title": "The Ledge",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 3,
+        "title": "Think About Me",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Save Me a Place",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 5,
+        "title": "Sara",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 6,
+        "title": "What Makes You Think You're the One",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Storms",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 8,
+        "title": "That's All for Everyone",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 9,
+        "title": "Not That Funny",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 10,
+        "title": "Sisters of the Moon",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 11,
+        "title": "Angel",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 12,
+        "title": "That's Enough for Me",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 13,
+        "title": "Brown Eyes",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 14,
+        "title": "Never Make Me Cry",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 15,
+        "title": "I Know I'm Not Wrong",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 16,
+        "title": "Honey Hi",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 17,
+        "title": "Beautiful Child",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 18,
+        "title": "Walk a Thin Line",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 19,
+        "title": "Tusk",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 20,
+        "title": "Never Forget",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sitio oficial de Fleetwood Mac",
+        "url": "https://www.fleetwoodmacofficial.com/"
+      },
+      {
+        "title": "Índice discográfico",
+        "url": "https://www.fleetwoodmac-uk.com/albumindex.htm"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "fleetwood-mac-mirage",
+    "band_id": "fleetwood-mac",
+    "title": "Mirage",
+    "album_type": "studio",
+    "original_release_date": "1982-06-15",
+    "country_or_market": "Reino Unido/Estados Unidos",
+    "edition_note": "Cobertura inicial; auditoría global pendiente.",
+    "label": "Warner Bros. Records",
+    "genres": [
+      "rock",
+      "pop rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://www.fleetwoodmacofficial.com/",
+      "rights_note": "Enlace a discografía del artista; no se almacena portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Love in Store",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 2,
+        "title": "Can't Go Back",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 3,
+        "title": "That's Alright",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 4,
+        "title": "Book of Love",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 5,
+        "title": "Gypsy",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 6,
+        "title": "Only Over You",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 7,
+        "title": "Empire State",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 8,
+        "title": "Straight Back",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 9,
+        "title": "Hold Me",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 10,
+        "title": "Oh Diane",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 11,
+        "title": "Eyes of the World",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      },
+      {
+        "position": 12,
+        "title": "Wish You Were Here",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.fleetwoodmac-uk.com/albumindex.htm",
+        "credit_note": "Pendiente de verificación."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sitio oficial de Fleetwood Mac",
+        "url": "https://www.fleetwoodmacofficial.com/"
+      },
+      {
+        "title": "Índice discográfico",
+        "url": "https://www.fleetwoodmac-uk.com/albumindex.htm"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
