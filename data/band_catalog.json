@@ -253,9 +253,9 @@
         "roots rock"
       ],
       "region": "Estados Unidos",
-      "coverage_status": "in_progress",
+      "coverage_status": "covered",
       "priority": 1,
-      "notes": "39 álbumes en la primera pasada cronológica; varias entradas provisionales sin lista de pistas, pendientes de completar. Auditoría global posterior."
+      "notes": "Primera pasada completada: 39 álbumes de estudio en orden cronológico y con listas de canciones cargadas. Duraciones, créditos, orden/ediciones y discrepancias pendientes de auditoría global; no marcar como auditado."
     },
     {
       "id": "the-byrds",
