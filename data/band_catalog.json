@@ -265,9 +265,9 @@
         "psychedelic rock"
       ],
       "region": "Estados Unidos",
-      "coverage_status": "queued",
+      "coverage_status": "covered",
       "priority": 1,
-      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+      "notes": "Primera pasada completada: 12 álbumes de estudio en orden cronológico con listas de canciones cargadas. Duraciones, créditos, orden/ediciones y discrepancias pendientes de auditoría global; no marcar como auditado."
     },
     {
       "id": "jefferson-airplane",
