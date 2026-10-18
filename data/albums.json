@@ -32396,5 +32396,497 @@
       }
     ],
     "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-byrds-mr-tambourine-man-1965",
+    "band_id": "the-byrds",
+    "title": "Mr. Tambourine Man",
+    "album_type": "studio",
+    "original_release_date": "1965-06-21",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada; lista de pistas de la edición original. Duraciones y créditos pendientes de auditoría global.",
+    "label": "Columbia",
+    "genres": [
+      "folk rock",
+      "psychedelic rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://en.wikipedia.org/wiki/The_Byrds_discography",
+      "rights_note": "Se enlazan fuentes discográficas; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Mr. Tambourine Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 2,
+        "title": "I'll Feel a Whole Lot Better",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 3,
+        "title": "Spanish Harlem Incident",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 4,
+        "title": "You Won't Have to Cry",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 5,
+        "title": "Here Without You",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 6,
+        "title": "The Bells of Rhymney",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 7,
+        "title": "All I Really Want to Do",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 8,
+        "title": "I Knew I'd Want You",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 9,
+        "title": "It's No Use",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 10,
+        "title": "Don't Doubt Yourself, Babe",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 11,
+        "title": "Chimes of Freedom",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 12,
+        "title": "We'll Meet Again",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Byrds — listas de canciones de álbumes originales",
+        "url": "https://www.classicrockhistory.com/the-byrds-albums-discography/"
+      },
+      {
+        "title": "The Byrds — discografía",
+        "url": "https://en.wikipedia.org/wiki/The_Byrds_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-byrds-turn-turn-turn-1965",
+    "band_id": "the-byrds",
+    "title": "Turn! Turn! Turn!",
+    "album_type": "studio",
+    "original_release_date": "1965-12-06",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada; lista de pistas de la edición original. Duraciones y créditos pendientes de auditoría global.",
+    "label": "Columbia",
+    "genres": [
+      "folk rock",
+      "psychedelic rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://en.wikipedia.org/wiki/The_Byrds_discography",
+      "rights_note": "Se enlazan fuentes discográficas; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Turn! Turn! Turn! (To Everything There Is a Season)",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 2,
+        "title": "It Won't Be Wrong",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 3,
+        "title": "Set You Free This Time",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 4,
+        "title": "Lay Down Your Weary Tune",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 5,
+        "title": "He Was a Friend of Mine",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 6,
+        "title": "The World Turns All Around Her",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 7,
+        "title": "Satisfied Mind",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 8,
+        "title": "If You're Gone",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 9,
+        "title": "The Times They Are a-Changin'",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 10,
+        "title": "Wait and See",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 11,
+        "title": "Oh! Susannah",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Byrds — listas de canciones de álbumes originales",
+        "url": "https://www.classicrockhistory.com/the-byrds-albums-discography/"
+      },
+      {
+        "title": "The Byrds — discografía",
+        "url": "https://en.wikipedia.org/wiki/The_Byrds_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-byrds-fifth-dimension-1966",
+    "band_id": "the-byrds",
+    "title": "Fifth Dimension",
+    "album_type": "studio",
+    "original_release_date": "1966-07-18",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada; lista de pistas de la edición original. Duraciones y créditos pendientes de auditoría global.",
+    "label": "Columbia",
+    "genres": [
+      "folk rock",
+      "psychedelic rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://en.wikipedia.org/wiki/The_Byrds_discography",
+      "rights_note": "Se enlazan fuentes discográficas; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "5D (Fifth Dimension)",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 2,
+        "title": "Wild Mountain Thyme",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 3,
+        "title": "Mr. Spaceman",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 4,
+        "title": "I See You",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 5,
+        "title": "What's Happening?!?!",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 6,
+        "title": "I Come and Stand at Every Door",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 7,
+        "title": "Eight Miles High",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 8,
+        "title": "Hey Joe (Where You Gonna Go)",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 9,
+        "title": "Captain Soul",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 10,
+        "title": "John Riley",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 11,
+        "title": "2-4-2 Fox Trot (The Lear Jet Song)",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Byrds — listas de canciones de álbumes originales",
+        "url": "https://www.classicrockhistory.com/the-byrds-albums-discography/"
+      },
+      {
+        "title": "The Byrds — discografía",
+        "url": "https://en.wikipedia.org/wiki/The_Byrds_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-byrds-younger-than-yesterday-1967",
+    "band_id": "the-byrds",
+    "title": "Younger Than Yesterday",
+    "album_type": "studio",
+    "original_release_date": "1967-02-06",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada; lista de pistas de la edición original. Duraciones y créditos pendientes de auditoría global.",
+    "label": "Columbia",
+    "genres": [
+      "folk rock",
+      "psychedelic rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://en.wikipedia.org/wiki/The_Byrds_discography",
+      "rights_note": "Se enlazan fuentes discográficas; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "So You Want to Be a Rock 'n' Roll Star",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 2,
+        "title": "Have You Seen Her Face",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 3,
+        "title": "C.T.A.-102",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 4,
+        "title": "Renaissance Fair",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 5,
+        "title": "Time Between",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 6,
+        "title": "Everybody's Been Burned",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 7,
+        "title": "Thoughts and Words",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 8,
+        "title": "Mind Gardens",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 9,
+        "title": "My Back Pages",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 10,
+        "title": "The Girl with No Name",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 11,
+        "title": "Why",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Byrds — listas de canciones de álbumes originales",
+        "url": "https://www.classicrockhistory.com/the-byrds-albums-discography/"
+      },
+      {
+        "title": "The Byrds — discografía",
+        "url": "https://en.wikipedia.org/wiki/The_Byrds_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
