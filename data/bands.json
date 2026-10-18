@@ -424,5 +424,29 @@
       }
     ],
     "status": "starter_record"
+  },
+  {
+    "id": "the-byrds",
+    "name": "The Byrds",
+    "country_of_origin": "Estados Unidos",
+    "formed_year": 1964,
+    "disbanded_year": 1973,
+    "genres": [
+      "folk rock",
+      "psychedelic rock",
+      "country rock"
+    ],
+    "official_website": "https://www.thebyrds.com/",
+    "sources": [
+      {
+        "title": "The Byrds — discografía de álbumes de estudio",
+        "url": "https://en.wikipedia.org/wiki/The_Byrds_discography"
+      },
+      {
+        "title": "The Byrds — listas de canciones de álbumes originales",
+        "url": "https://www.classicrockhistory.com/the-byrds-albums-discography/"
+      }
+    ],
+    "status": "starter_record"
   }
 ]
