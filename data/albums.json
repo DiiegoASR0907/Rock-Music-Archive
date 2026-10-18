@@ -32888,5 +32888,489 @@
       }
     ],
     "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-byrds-notorious-byrd-brothers-1968",
+    "band_id": "the-byrds",
+    "title": "The Notorious Byrd Brothers",
+    "album_type": "studio",
+    "original_release_date": "1968-01-15",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada; lista de pistas de la edición original. Duraciones y créditos pendientes de auditoría global.",
+    "label": "Columbia",
+    "genres": [
+      "folk rock",
+      "psychedelic rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://en.wikipedia.org/wiki/The_Byrds_discography",
+      "rights_note": "Se enlazan fuentes discográficas; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Artificial Energy",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 2,
+        "title": "Goin' Back",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 3,
+        "title": "Natural Harmony",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 4,
+        "title": "Draft Morning",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 5,
+        "title": "Wasn't Born to Follow",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 6,
+        "title": "Get to You",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 7,
+        "title": "Change Is Now",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 8,
+        "title": "Old John Robertson",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 9,
+        "title": "Tribal Gathering",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 10,
+        "title": "Dolphin's Smile",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 11,
+        "title": "Space Odyssey",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Byrds — listas de canciones de álbumes originales",
+        "url": "https://www.classicrockhistory.com/the-byrds-albums-discography/"
+      },
+      {
+        "title": "The Byrds — discografía",
+        "url": "https://en.wikipedia.org/wiki/The_Byrds_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-byrds-sweetheart-of-the-rodeo-1968",
+    "band_id": "the-byrds",
+    "title": "Sweetheart of the Rodeo",
+    "album_type": "studio",
+    "original_release_date": "1968-08-30",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada; lista de pistas de la edición original. Duraciones y créditos pendientes de auditoría global.",
+    "label": "Columbia",
+    "genres": [
+      "folk rock",
+      "psychedelic rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://en.wikipedia.org/wiki/The_Byrds_discography",
+      "rights_note": "Se enlazan fuentes discográficas; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "You Ain't Goin' Nowhere",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 2,
+        "title": "I Am a Pilgrim",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 3,
+        "title": "The Christian Life",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 4,
+        "title": "You Don't Miss Your Water",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 5,
+        "title": "You're Still on My Mind",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 6,
+        "title": "Pretty Boy Floyd",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 7,
+        "title": "Hickory Wind",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 8,
+        "title": "One Hundred Years from Now",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 9,
+        "title": "Blue Canadian Rockies",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 10,
+        "title": "Life in Prison",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 11,
+        "title": "Nothing Was Delivered",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Byrds — listas de canciones de álbumes originales",
+        "url": "https://www.classicrockhistory.com/the-byrds-albums-discography/"
+      },
+      {
+        "title": "The Byrds — discografía",
+        "url": "https://en.wikipedia.org/wiki/The_Byrds_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-byrds-dr-byrds-mr-hyde-1969",
+    "band_id": "the-byrds",
+    "title": "Dr. Byrds & Mr. Hyde",
+    "album_type": "studio",
+    "original_release_date": "1969-03-05",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada; lista de pistas de la edición original. Duraciones y créditos pendientes de auditoría global.",
+    "label": "Columbia",
+    "genres": [
+      "folk rock",
+      "psychedelic rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://en.wikipedia.org/wiki/The_Byrds_discography",
+      "rights_note": "Se enlazan fuentes discográficas; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "This Wheel's on Fire",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 2,
+        "title": "Old Blue",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 3,
+        "title": "Your Gentle Way of Loving Me",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 4,
+        "title": "Child of the Universe",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 5,
+        "title": "Nashville West",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 6,
+        "title": "Drug Store Truck Drivin' Man",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 7,
+        "title": "King Apathy III",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 8,
+        "title": "Candy",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 9,
+        "title": "Bad Night at the Whiskey",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 10,
+        "title": "Medley: My Back Pages / B.J. Blues / Baby What You Want Me to Do",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 11,
+        "title": "King Apathy III (Reprise)",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Byrds — listas de canciones de álbumes originales",
+        "url": "https://www.classicrockhistory.com/the-byrds-albums-discography/"
+      },
+      {
+        "title": "The Byrds — discografía",
+        "url": "https://en.wikipedia.org/wiki/The_Byrds_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "the-byrds-ballad-of-easy-rider-1969",
+    "band_id": "the-byrds",
+    "title": "Ballad of Easy Rider",
+    "album_type": "studio",
+    "original_release_date": "1969-11-10",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada; lista de pistas de la edición original. Duraciones y créditos pendientes de auditoría global.",
+    "label": "Columbia",
+    "genres": [
+      "folk rock",
+      "psychedelic rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://en.wikipedia.org/wiki/The_Byrds_discography",
+      "rights_note": "Se enlazan fuentes discográficas; no se almacena una copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Ballad of Easy Rider",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 2,
+        "title": "Fido",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 3,
+        "title": "Tulsa County",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 4,
+        "title": "Jack Tarr the Sailor",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 5,
+        "title": "Jesus Is Just Alright",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 6,
+        "title": "It's All Over Now, Baby Blue",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 7,
+        "title": "There Must Be Someone (I Can Turn To)",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 8,
+        "title": "Gunga Din",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 9,
+        "title": "Deportee (Plane Wreck at Los Gatos)",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 10,
+        "title": "Armstrong, Aldrin and Collins",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      },
+      {
+        "position": 11,
+        "title": "Way Beyond the Sun",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.classicrockhistory.com/the-byrds-albums-discography/",
+        "credit_note": "Crédito y duración pendientes de verificación global."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Byrds — listas de canciones de álbumes originales",
+        "url": "https://www.classicrockhistory.com/the-byrds-albums-discography/"
+      },
+      {
+        "title": "The Byrds — discografía",
+        "url": "https://en.wikipedia.org/wiki/The_Byrds_discography"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
