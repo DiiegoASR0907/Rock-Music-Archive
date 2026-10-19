@@ -133,9 +133,9 @@
         "baroque pop"
       ],
       "region": "Estados Unidos",
-      "coverage_status": "queued",
+      "coverage_status": "covered",
       "priority": 1,
-      "notes": "Cobertura incompleta: 9 álbumes iniciales (1962–1965) presentes; completar desde Beach Boys' Party! (1965) hasta el último álbum de estudio. Mantener needs_verification hasta comprobar tracklists, edición, fechas, créditos y duraciones. No marcar covered hasta verificar totales."
+      "notes": "Primera pasada de cobertura completada: 29 álbumes de estudio registrados (1962–2012) con listas de canciones cargadas. Duraciones, créditos de composición, fechas exactas, variantes de edición y posibles discrepancias quedan pendientes de la auditoría global; los álbumes conservan needs_verification."
     },
     {
       "id": "the-velvet-underground",
