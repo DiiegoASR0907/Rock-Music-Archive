@@ -36723,5 +36723,505 @@
       }
     ],
     "verification_status": "needs_verification"
+  },
+  {
+    "id": "eagles-one-of-these-nights-1975",
+    "band_id": "eagles",
+    "title": "One of These Nights",
+    "album_type": "studio",
+    "original_release_date": "1975",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada; duraciones, créditos y variantes de edición pendientes de auditoría global.",
+    "label": "Asylum",
+    "genres": [
+      "rock",
+      "country rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://eagles.com/pages/releases",
+      "rights_note": "Enlace a la fuente oficial; no se almacena copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "One of These Nights",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 2,
+        "title": "Too Many Hands",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 3,
+        "title": "Hollywood Waltz",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 4,
+        "title": "Journey of the Sorcerer",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 5,
+        "title": "Lyin' Eyes",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 6,
+        "title": "Take It to the Limit",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 7,
+        "title": "Visions",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 8,
+        "title": "After the Thrill Is Gone",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 9,
+        "title": "I Wish You Peace",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eagles — Releases (discografía oficial)",
+        "url": "https://eagles.com/pages/releases"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "eagles-hotel-california-1976",
+    "band_id": "eagles",
+    "title": "Hotel California",
+    "album_type": "studio",
+    "original_release_date": "1976",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada; duraciones, créditos y variantes de edición pendientes de auditoría global.",
+    "label": "Asylum",
+    "genres": [
+      "rock",
+      "country rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://eagles.com/pages/releases",
+      "rights_note": "Enlace a la fuente oficial; no se almacena copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Hotel California",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 2,
+        "title": "New Kid in Town",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 3,
+        "title": "Life in the Fast Lane",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 4,
+        "title": "Wasted Time",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 5,
+        "title": "Wasted Time (Reprise)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 6,
+        "title": "Victim of Love",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 7,
+        "title": "Pretty Maids All in a Row",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 8,
+        "title": "Try and Love Again",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 9,
+        "title": "The Last Resort",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eagles — Releases (discografía oficial)",
+        "url": "https://eagles.com/pages/releases"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "eagles-the-long-run-1979",
+    "band_id": "eagles",
+    "title": "The Long Run",
+    "album_type": "studio",
+    "original_release_date": "1979",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada; duraciones, créditos y variantes de edición pendientes de auditoría global.",
+    "label": "Asylum",
+    "genres": [
+      "rock",
+      "country rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://eagles.com/pages/releases",
+      "rights_note": "Enlace a la fuente oficial; no se almacena copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "The Long Run",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 2,
+        "title": "I Can't Tell You Why",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 3,
+        "title": "In the City",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 4,
+        "title": "The Disco Strangler",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 5,
+        "title": "King of Hollywood",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 6,
+        "title": "Heartache Tonight",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 7,
+        "title": "Those Shoes",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 8,
+        "title": "Teenage Jail",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 9,
+        "title": "The Greeks Don't Want No Freaks",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 10,
+        "title": "The Sad Cafe",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eagles — Releases (discografía oficial)",
+        "url": "https://eagles.com/pages/releases"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "eagles-long-road-out-of-eden-2007",
+    "band_id": "eagles",
+    "title": "Long Road Out of Eden",
+    "album_type": "studio",
+    "original_release_date": "2007",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada; duraciones, créditos y variantes de edición pendientes de auditoría global.",
+    "label": "Asylum",
+    "genres": [
+      "rock",
+      "country rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://eagles.com/pages/releases",
+      "rights_note": "Enlace a la fuente oficial; no se almacena copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "No More Walks in the Wood",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 2,
+        "title": "How Long",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 3,
+        "title": "Busy Being Fabulous",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 4,
+        "title": "What Do I Do with My Heart",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 5,
+        "title": "Guilty of the Crime",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 6,
+        "title": "I Don't Want to Hear Any More",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 7,
+        "title": "Waiting in the Weeds",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 8,
+        "title": "No More Cloudy Days",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 9,
+        "title": "Fast Company",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 10,
+        "title": "Do Something",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 11,
+        "title": "You Are Not Alone",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 12,
+        "title": "Long Road Out of Eden",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 13,
+        "title": "I Dreamed There Was No War",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 14,
+        "title": "Somebody",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 15,
+        "title": "Frail Grasp on the Big Picture",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 16,
+        "title": "Last Good Time in Town",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 17,
+        "title": "I Love to Watch a Woman Dance",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 18,
+        "title": "Business As Usual",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 19,
+        "title": "Center of the Universe",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 20,
+        "title": "It's Your World Now",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eagles — Releases (discografía oficial)",
+        "url": "https://eagles.com/pages/releases"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
