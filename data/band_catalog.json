@@ -135,7 +135,7 @@
       "region": "Estados Unidos",
       "coverage_status": "covered",
       "priority": 1,
-      "notes": "Primera pasada de cobertura completada: 29 álbumes de estudio registrados (1962–2012) con listas de canciones cargadas. Duraciones, créditos de composición, fechas exactas, variantes de edición y posibles discrepancias quedan pendientes de la auditoría global; los álbumes conservan needs_verification."
+      "notes": "Cobertura inicial completada: 29 álbumes de estudio (1962–2012) con listas de pistas cargadas en orden. Duraciones, créditos de composición, fechas exactas, variantes de edición y discrepancias quedan pendientes para la auditoría global final; covered indica cobertura inicial, no auditoría histórica concluida."
     },
     {
       "id": "the-velvet-underground",
