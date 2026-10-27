@@ -181,9 +181,9 @@
         "swamp rock"
       ],
       "region": "Estados Unidos",
-      "coverage_status": "in_progress",
+      "coverage_status": "covered",
       "priority": 1,
-      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+      "notes": "Cobertura inicial completada: los 7 álbumes de estudio (1968–1972) figuran con listas de pistas en orden. Duraciones, créditos, fechas exactas y variantes de edición quedan pendientes de auditoría global; covered no significa auditoría histórica final."
     },
     {
       "id": "the-eagles",
