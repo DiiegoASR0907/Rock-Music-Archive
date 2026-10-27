@@ -205,9 +205,9 @@
         "blues rock"
       ],
       "region": "Estados Unidos",
-      "coverage_status": "queued",
+      "coverage_status": "covered",
       "priority": 1,
-      "notes": "Candidata para incorporación; validar identidad, géneros y discografía antes de cargar álbumes."
+      "notes": "Cobertura inicial completada: 12 álbumes de estudio (1969–2003) con listas de pistas cargadas. Duraciones, créditos, fechas exactas, variantes de edición y discrepancias quedan pendientes de auditoría global final; covered indica cobertura inicial, no auditoría histórica concluida."
     },
     {
       "id": "lynyrd-skynyrd",
