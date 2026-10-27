@@ -36388,5 +36388,340 @@
       }
     ],
     "verification_status": "needs_verification"
+  },
+  {
+    "id": "eagles-eagles-1972",
+    "band_id": "eagles",
+    "title": "Eagles",
+    "album_type": "studio",
+    "original_release_date": "1972",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada; duraciones, créditos y variantes de edición pendientes de auditoría global.",
+    "label": "Asylum",
+    "genres": [
+      "rock",
+      "country rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://eagles.com/pages/releases",
+      "rights_note": "Enlace a la fuente oficial; no se almacena copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Take It Easy",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 2,
+        "title": "Witchy Woman",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 3,
+        "title": "Chug All Night",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 4,
+        "title": "Most of Us Are Sad",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 5,
+        "title": "Nightingale",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 6,
+        "title": "Train Leaves Here This Morning",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 7,
+        "title": "Take the Devil",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 8,
+        "title": "Earlybird",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 9,
+        "title": "Peaceful Easy Feeling",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 10,
+        "title": "Tryin'",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eagles — Releases (discografía oficial)",
+        "url": "https://eagles.com/pages/releases"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "eagles-desperado-1973",
+    "band_id": "eagles",
+    "title": "Desperado",
+    "album_type": "studio",
+    "original_release_date": "1973",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada; duraciones, créditos y variantes de edición pendientes de auditoría global.",
+    "label": "Asylum",
+    "genres": [
+      "rock",
+      "country rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://eagles.com/pages/releases",
+      "rights_note": "Enlace a la fuente oficial; no se almacena copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Doolin-Dalton",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 2,
+        "title": "Twenty-One",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 3,
+        "title": "Out of Control",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 4,
+        "title": "Tequila Sunrise",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 5,
+        "title": "Desperado",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 6,
+        "title": "Certain Kind of Fool",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 7,
+        "title": "Doolin-Dalton (Instrumental)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 8,
+        "title": "Outlaw Man",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 9,
+        "title": "Saturday Night",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 10,
+        "title": "Bitter Creek",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 11,
+        "title": "Doolin-Dalton/Desperado (Reprise)",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eagles — Releases (discografía oficial)",
+        "url": "https://eagles.com/pages/releases"
+      }
+    ],
+    "verification_status": "needs_verification"
+  },
+  {
+    "id": "eagles-on-the-border-1974",
+    "band_id": "eagles",
+    "title": "On the Border",
+    "album_type": "studio",
+    "original_release_date": "1974",
+    "country_or_market": "Estados Unidos",
+    "edition_note": "Primera pasada; duraciones, créditos y variantes de edición pendientes de auditoría global.",
+    "label": "Asylum",
+    "genres": [
+      "rock",
+      "country rock"
+    ],
+    "duration_minutes": null,
+    "cover": {
+      "image_url": null,
+      "source_url": "https://eagles.com/pages/releases",
+      "rights_note": "Enlace a la fuente oficial; no se almacena copia local de la portada."
+    },
+    "tracks": [
+      {
+        "position": 1,
+        "title": "Already Gone",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 2,
+        "title": "You Never Cry Like a Lover",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 3,
+        "title": "Midnight Flyer",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 4,
+        "title": "My Man",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 5,
+        "title": "On the Border",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 6,
+        "title": "James Dean",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 7,
+        "title": "Ol' 55",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 8,
+        "title": "Is It True",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 9,
+        "title": "Good Day in Hell",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      },
+      {
+        "position": 10,
+        "title": "The Best of My Love",
+        "duration": null,
+        "writers": [],
+        "source_url": "https://eagles.com/pages/releases",
+        "credit_note": "Duración y créditos pendientes de auditoría global."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eagles — Releases (discografía oficial)",
+        "url": "https://eagles.com/pages/releases"
+      }
+    ],
+    "verification_status": "needs_verification"
   }
 ]
