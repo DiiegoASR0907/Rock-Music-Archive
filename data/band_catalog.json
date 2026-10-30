@@ -3205,9 +3205,9 @@
         "soft rock"
       ],
       "region": "Estados Unidos",
-      "coverage_status": "in_progress",
+      "coverage_status": "covered",
       "priority": 1,
-      "notes": "Primera carga de siete álbumes de estudio (1972–2007); duraciones y créditos pendientes de verificación. Auditoría global posterior a la cobertura inicial."
+      "notes": "Cobertura inicial completada: 7 álbumes de estudio (1972–2007) con 79 pistas cargadas en orden. Duraciones, créditos de composición, fechas exactas, variantes de edición y discrepancias quedan pendientes para la auditoría global final; covered indica cobertura inicial, no auditoría histórica concluida."
     },
     {
       "id": "allman-brothers-band",
