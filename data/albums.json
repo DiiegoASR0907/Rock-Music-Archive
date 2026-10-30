@@ -18719,8 +18719,8 @@
     "title": "Squeeze",
     "album_type": "studio",
     "original_release_date": "1973-02",
-    "country_or_market": "Estados Unidos",
-    "edition_note": "Lista de pistas de la edición original de referencia; registro inicial. Fechas completas, duraciones y créditos de composición pendientes de verificación. Caso fronterizo: publicado bajo el nombre de la banda, pero grabado esencialmente por Doug Yule tras la salida de los miembros originales; algunas fuentes no lo consideran un álbum genuino del grupo.",
+    "country_or_market": "Reino Unido",
+    "edition_note": "Edición original británica de Polydor (febrero de 1973); lista de 11 pistas. Caso fronterizo: publicado bajo el nombre de la banda, pero grabado esencialmente por Doug Yule tras la salida de Lou Reed y Sterling Morrison; se conserva en la cobertura por su publicación oficial bajo el nombre The Velvet Underground. Créditos y duraciones pendientes de auditoría global.",
     "label": "Polydor",
     "genres": [
       "art rock",
@@ -18813,6 +18813,14 @@
         "writers": [],
         "source_url": "https://en.wikipedia.org/wiki/Squeeze_(The_Velvet_Underground_album)",
         "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
+      },
+      {
+        "position": 11,
+        "title": "Louise",
+        "duration": "",
+        "writers": [],
+        "source_url": "https://www.allmusic.com/album/squeeze-mw0000844914",
+        "credit_note": "Duración y autoría pendientes de verificar contra la edición original."
       }
     ],
     "sources": [
@@ -18823,6 +18831,10 @@
       {
         "title": "AllMusic — The Velvet Underground",
         "url": "https://www.allmusic.com/artist/the-velvet-underground-mn0000840402"
+      },
+      {
+        "title": "AllMusic — Squeeze",
+        "url": "https://www.allmusic.com/album/squeeze-mw0000844914"
       }
     ],
     "verification_status": "needs_verification"
